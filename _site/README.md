@@ -1,0 +1,2 @@
+# blog
+Shouldgo Blog
