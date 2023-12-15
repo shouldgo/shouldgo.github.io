@@ -3,7 +3,7 @@
 // Used in conjunction with global variables to enable certain theme features.
 
 // Vendor
-@import "/_sass/bootstrap/vendor/rfs";
+@import "vendor/_rfs.scss";
 
 // Deprecate
 @import "mixins/deprecate";
