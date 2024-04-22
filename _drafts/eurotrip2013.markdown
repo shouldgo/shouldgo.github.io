@@ -41,4 +41,3 @@ PS: Сейчас комфортабельный поезд Trenitalia везет
 
 ![IMG_7307](http://i2.wp.com/res.cloudinary.com/shouldgo/image/upload/v1477557350/IMG_7307_vtvfzm.jpg?resize=556%2C700)
 
-<!--kg-card-end: markdown-->

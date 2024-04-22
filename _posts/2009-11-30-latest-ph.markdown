@@ -9,14 +9,13 @@ tags:
 
 Нащелкал говнева, а вы страдайте от ряби во френдленте. Похайрезнее – тута [http://shouldgo.deviantart.com](http://shouldgo.deviantart.com)
 
-![october_by_shouldgo]( __GHOST_URL__ /content/images/2017/10/october_by_shouldgo.jpg)
+![october_by_shouldgo](/assets/images/2017/10/october_by_shouldgo.jpg)
 
-![aboard_by_shouldgo]( __GHOST_URL__ /content/images/2017/10/aboard_by_shouldgo.jpg)
+![aboard_by_shouldgo](/assets/images/2017/10/aboard_by_shouldgo.jpg)
 
-![lady_stardust_by_shouldgo]( __GHOST_URL__ /content/images/2017/10/lady_stardust_by_shouldgo.jpg)
+![lady_stardust_by_shouldgo](/assets/images/2017/10/lady_stardust_by_shouldgo.jpg)
 
-![sneer_by_shouldgo]( __GHOST_URL__ /content/images/2017/10/sneer_by_shouldgo.jpg)
+![sneer_by_shouldgo](/assets/images/2017/10/sneer_by_shouldgo.jpg)
 
-![fairyway_by_shouldgo]( __GHOST_URL__ /content/images/2017/10/fairyway_by_shouldgo.jpg)
+![fairyway_by_shouldgo](/assets/images/2017/10/fairyway_by_shouldgo.jpg)
 
-<!--kg-card-end: markdown-->

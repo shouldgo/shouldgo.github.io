@@ -23,8 +23,7 @@ tags:
 Что я тоже могу на другой трамвай сесть,  
 А так,&nbsp;я снова оставлю всё как есть.
 
-![Waiting for a better world, фото Дмитрия Афонина, на фото — Анна Глазырина, 2010 год]( __GHOST_URL__ /content/images/2017/10/IMG_1059-1.jpg)
+![Waiting for a better world, фото Дмитрия Афонина, на фото — Анна Глазырина, 2010 год](/assets/images/2017/10/IMG_1059-1.jpg)
 
-![Waiting for a better world, фото Дмитрия Афонина, на фото — Анна Глазырина, 2010 год]( __GHOST_URL__ /content/images/2017/10/IMG_1045-2-1.jpg)
+![Waiting for a better world, фото Дмитрия Афонина, на фото — Анна Глазырина, 2010 год](/assets/images/2017/10/IMG_1045-2-1.jpg)
 
-<!--kg-card-end: markdown-->

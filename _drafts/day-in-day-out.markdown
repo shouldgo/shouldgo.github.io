@@ -14,4 +14,3 @@ title: Day in day out
 
 Привет. Пока.
 
-<!--kg-card-end: markdown-->

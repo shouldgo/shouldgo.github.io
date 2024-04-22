@@ -32,4 +32,3 @@ Into the wild and up to the only window.
 
 go. 2010
 
-<!--kg-card-end: markdown-->

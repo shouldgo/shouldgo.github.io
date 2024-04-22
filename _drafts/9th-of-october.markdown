@@ -108,4 +108,3 @@ Happy 9th of october. Those who travel faster than light are going too fast walk
 <dl class="gallery-item"><dt class="gallery-icon landscape">[![Sept 2013](http://i1.wp.com/res.cloudinary.com/shouldgo/image/upload/c_crop,h_640,w_640,x_0,y_0/h_150,w_150/v1477576436/20130913-IMG_6380_irgzso.jpg?resize=150%2C150)](http://shouldgo.ru/20130913-img_6380/)</dt></dl>
 <dl class="gallery-item"><dt class="gallery-icon landscape">[![Sept 2013](http://i2.wp.com/res.cloudinary.com/shouldgo/image/upload/c_crop,h_960,w_960,x_0,y_0/h_150,w_150/v1477576433/20130914-IMG_6384_haim5a.jpg?resize=150%2C150)](http://shouldgo.ru/20130914-img_6384/)</dt></dl>
 <dl class="gallery-item"><dt class="gallery-icon landscape">[![Alone in oct 2013](http://i2.wp.com/res.cloudinary.com/shouldgo/image/upload/c_crop,h_667,w_667,x_166,y_0/h_150,w_150/v1477576431/20131009-IMG_5520_f5ekak.jpg?resize=150%2C150)](http://shouldgo.ru/20131009-img_5520/)</dt></dl>
-<!--kg-card-end: markdown-->

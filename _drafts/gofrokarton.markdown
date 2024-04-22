@@ -39,4 +39,3 @@ title: Гофрокартон
 
 go. 2009
 
-<!--kg-card-end: markdown-->

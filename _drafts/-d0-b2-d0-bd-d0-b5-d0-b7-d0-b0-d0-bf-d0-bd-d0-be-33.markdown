@@ -9,4 +9,3 @@ title: ВНЕЗАПНО 33!
 ![](http://pics.livejournal.com/delerat/pic/00006xpy/s640x480)]([http://pics.livejournal.com/delerat/pic/00006xpy/](http://pics.livejournal.com/delerat/pic/00006xpy/)  
  ![](http://pics.livejournal.com/delerat/pic/00007bh0/s320x320)]([http://pics.livejournal.com/delerat/pic/00007bh0/](http://pics.livejournal.com/delerat/pic/00007bh0/))У меня теперь есть крутенное персональное графити в лесополосе и новый аватар для вконтакте. Спасибо!
 
-<!--kg-card-end: markdown-->

@@ -21,118 +21,118 @@ tags:
 
 В [2018 году]( __GHOST_URL__ /2k18/) нам надоела Москва. Зиму мы пережили [на Кипре]( __GHOST_URL__ /kipr-1/), а весну решили встретить в Европе. Получили годовой испанский шенген и поехали в Прагу «ну примерно на месяц», который растянулся на все 90 дней, разрешённых туристической визой.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF7164-2.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF7164-2.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF7164-2.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF7164-2.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF7164-2.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF8969.jpg" width="1462" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF8969.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF8969.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF8969.jpg 1462w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF8983.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF8983.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF8983.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF8983.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF7263.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF7263.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF7263.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF7263.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF7263.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF7164-2.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF8969.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF8983.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF7263.jpg)
+
+
 
 Время выбрали очень удачное. В марте медленно отступают холода, а с апреля по май Чехия превращается в огромный ботанический сад с цветущей сакурой, каштанами и безграничными полями рапса. Для предельно иммерсивного экспириенса планируйте поездку на весну.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1975.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1975.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1975.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1975.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1975.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1756.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1756.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1756.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF1756.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1753.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1753.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1753.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF1753.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF2005.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF2005.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF2005.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF2005.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF2005.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1975.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1756.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1753.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2005.jpg)
+
+
 
 Впрочем, там нет плохих сезонов. У Праги есть фактура для любой погоды. Город выглядит великолепно и дождливой осенью и накануне Рождества (в отличие от [Берлина]( __GHOST_URL__ /berlin-tt/), Вены или Кракова, которые в холодное время года смотрятся хмуро и неприветливо).
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1167.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1167.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1167.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1167.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1167.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF2638.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF2638.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF2638.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF2638.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF0759.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF0759.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF0759.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF0759.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF0759.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF6874.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF6874.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF6874.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF6874.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF6874.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1167.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2638.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0759.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6874.jpg)
+
+
 
 Прага — чистый, безопасный и толерантный город. Здесь почти легализованы наркотики (чем все беззастенчиво пользуются), не возбраняется проституция, разрешены однополые гражданские браки, а большая часть населения не верит в бога.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF3462.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF3462.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF3462.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF3462.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF3462.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF3326.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF3326.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF3326.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF3326.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF6888.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF6888.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF6888.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF6888.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF3450-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF3450-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF3450-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF3450-1.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF3450-1.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3462.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3326.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6888.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3450-1.jpg)
+
+
 
 Чехи — приветливые и вежливые, но подчёркнуто отстранённые. На русских и поляков, несмотря на «общие корни», совершенно непохожи — скорее напоминают расслабленных немцев на отдыхе. Зато в Праге живёт очень много экспатов из России.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF3517.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF3517.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF3517.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF3517.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF3517.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1217.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1217.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1217.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1217.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1217.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF3423.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF3423.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF3423.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF3423.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF3423.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF8977-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF8977-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF8977-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF8977-1.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF8977-1.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3517.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1217.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3423.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF8977-1.jpg)
+
+
 
 Чехи обожают собак. Кажется, что блоховоз есть в каждой семье (и даже у бездомных). Все псы очень воспитанные, не гавкают и гуляют без поводка — от мопсов до огромных влчаков и питбулей. В кафе собакам приносят мисочки с водой и сухариками.
 
-<figure class="kg-card kg-image-card kg-width-wide"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1946.jpg" class="kg-image" alt loading="lazy"></figure>
+<figure class="kg-card kg-image-card kg-width-wide">![](/assets/images/2020/04/DSCF1946.jpg)
 
 За пределами туристического ада город живёт тихо и расслабленно. Люди ежедневно собираются у винарен и пивнух, чтобы отметить ещё один прекрасный вечер. Социального расслоения нет — из одного крана пьют белые воротники, старики, семьяне и колдыри-обрыганы.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF2042-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF2042-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF2042-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF2042-1.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF2042-1.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF3341.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF3341.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF3341.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF3341.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF3341.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF2133.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF2133.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF2133.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF2133.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF2133.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF3386.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF3386.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF3386.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF3386.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF3386.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2042-1.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3341.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2133.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3386.jpg)
+
+
 
 Самым большим открытием для нас стали моравские белые вина — рислинги, грюна-велтлинеры, пино-гри и прочие шардоне. Они восхитительны на вкус, беспохмельны, стоят от 80 крон (250 рублей) за бутылку и при этом практически не экспортируются.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1808.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1808.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1808.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1808.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1808.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/File-00005.jpg" width="2000" height="1510" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/File-00005.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/File-00005.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/File-00005.jpg 1600w, __GHOST_URL__ /content/images/2020/04/File-00005.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div></div></figure>
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1808.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/File-00005.jpg)
+
 
 Прага — бюджетный город. Мы жили на €2 000 в месяц, из которых одна половина уходила на жильё, а вторая — на поездки по Европе. Питались дома, попробовали все сорта дешёвых круп, сыров и мяс. По вкусу и качеству они превосходят любые российские продукты.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF2624.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF2624.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF2624.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF2624.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF2624.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1751.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1751.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1751.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF1751.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF7180.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF7180.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF7180.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF7180.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1995-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1995-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1995-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1995-1.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1995-1.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2624.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1751.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF7180.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1995-1.jpg)
+
+
 
 Туристы видят открыточную Прагу: Карлов мост, Градчаны, Орлой. Но настоящая бытовая красота Праги спрятана в жилых районах. Настоятельно Рекомендую прогуляться по Виноградам, заглянуть в Жижков, спуститься по Нусельским Сходам и дойти до Вышеграда.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1732.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1732.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1732.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF1732.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF0875.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF0875.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF0875.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF0875.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF0875.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF3399.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF3399.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF3399.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF3399.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF3399.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF8984.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF8984.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF8984.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF8984.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1732.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0875.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3399.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF8984.jpg)
+
+
 
 Небольшой личный топ антитуристических мест и занятий:
 
@@ -145,16 +145,16 @@ tags:
 - позавтракайте в [Bistro 8](https://goo.gl/maps/3GNqYwCEbzYohFyH8), попробуйте [стромболи](https://goo.gl/maps/N2mhagt7zwXcn8wv7) в переходе у Национального Музея, отужинайте в ресторане [Los v Oslu](https://goo.gl/maps/s4dWJF1zoucKyqyL7)
 - купите шкалик сливовицы и тихо прогуляйтесь по ночному городу, заглядывая в каждый встречный закоулок
 - поймайте воскресный фудмаркет у вышеградского железнодорожного моста (на сам [мост](https://goo.gl/maps/WLHtxgECZNJFzkGNA) тоже обязательно зайдите)
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF2095.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF2095.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF2095.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF2095.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF2095.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1765.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1765.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1765.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1765.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1765.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF0776.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF0776.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF0776.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF0776.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF0776.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF3559.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF3559.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF3559.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF3559.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF3559.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2095.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1765.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0776.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3559.jpg)
+
+
 
 Когда надоест — берите автобус и езжайте в чешские провинции.
 
@@ -162,95 +162,95 @@ tags:
 
 В отличие от децентрализованных Германии и Польши, вся Чехия, фигурально выражаясь, крутится в орбите Праги. Остальные города очень маленькие и в лучшем случае займут на один световой день. Некоторые из них того стоят, а некоторые — с натяжкой.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1211.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1211.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1211.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1211.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1211.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1091.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1091.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1091.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF1091.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF6645.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF6645.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF6645.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF6645.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1080.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1080.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1080.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1080.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1080.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1211.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1091.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6645.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1080.jpg)
+
+
 
 [Брно](https://goo.gl/maps/phDxe2RAGNPfx6X6A) — второй город страны и столица Моравии с населением всего 380 тысяч человек. Центр города красивый, но очень компактный — уже через час ловишь себя на мысли, что уже ходил по этой улице. Посетить стоит только для галочки.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF0945.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF0945.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF0945.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF0945.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF0948.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF0948.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF0948.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF0948.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF0948.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF0970.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF0970.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF0970.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF0970.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF0970.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF0978.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF0978.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF0978.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF0978.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF0978.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0945.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0948.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0970.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0978.jpg)
+
+
 
 Городки [Будеёвице](https://goo.gl/maps/cxYvM8pXffrZrVA59) и [Пльзень](https://goo.gl/maps/b6KNi1ppubqiVb1W9) славны своими пивными традициями и предлагают много тематических развлечений (музеи-заводы пива, исторические ресторации), но кроме этого ловить в них нечего.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1194.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1194.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1194.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1194.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1194.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1197.jpg" width="1385" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1197.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1197.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF1197.jpg 1385w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1206.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1206.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1206.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF1206.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1201.jpg" width="2000" height="1482" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1201.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1201.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1201.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1201.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1194.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1197.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1206.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1201.jpg)
+
+
 
 [Острава](https://goo.gl/maps/wW7kpHRYw2d7x4AK9) — город неподалёку от Польской границы — развлечение для любителей шастать по заброшенным металлургическим заводам. Вынужден признать, что эти промышленные руины правда впечатляют.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF6691.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF6691.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF6691.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF6691.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF6701.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF6701.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF6701.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF6701.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF6692.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF6692.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF6692.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF6692.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF6707.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF6707.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF6707.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF6707.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF6707.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6691.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6701.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6692.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6707.jpg)
+
+
 
 [Кутна Гора](https://goo.gl/maps/G7faP29HJRbfFnRg9) известна своей костницей и готическим собором. И то и другое дичайше рекомендую — отличный экспириенс.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1024.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1024.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1024.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1024.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1024.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1026.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1026.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1026.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1026.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1026.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1061.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1061.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1061.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1061.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1061.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1062.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1062.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1062.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1062.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1062.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1024.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1026.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1061.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1062.jpg)
+
+
 
 [Карловы Вары](https://goo.gl/maps/XmrAiGRgcSaUntRs6) — курорт для русских пенсионейро с бесплатной минералкой и чудесными фасадами на фоне фантастической природы.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1883.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1883.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1883.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1883.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1883.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1907.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1907.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1907.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF1907.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-</div></div></figure>
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1883.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1907.jpg)
+
 
 Ну и удостоенный [отдельного поста]( __GHOST_URL__ /cesky-krumlov/) в моём блоге Чески Крумлов — невероятной красоты средневековый туристический городок.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1480.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1480.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1480.jpg 1000w, __GHOST_URL__ /content/images/2020/04/DSCF1480.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1536.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1536.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1536.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1536.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1536.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div></div></figure>
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1480.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1536.jpg)
+
 
 Даже бесцельная поездка по Чехии — высшее эстетическое удовольствие. Подстриженные изумрудные поля и холмы, руины замков, пышные боры, изгибы рек — всё это выглядит, будто кто-то решил наделать эталонных рендеров для шаттерстока.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/60267802_10219135056991997_9180095585603026944_o.jpg" width="1440" height="1800" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/60267802_10219135056991997_9180095585603026944_o.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/60267802_10219135056991997_9180095585603026944_o.jpg 1000w, __GHOST_URL__ /content/images/2020/04/60267802_10219135056991997_9180095585603026944_o.jpg 1440w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF2651.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF2651.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF2651.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF2651.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF2651.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF1817.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF1817.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF1817.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF1817.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF1817.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2020/04/DSCF6980.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2020/04/DSCF6980.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2020/04/DSCF6980.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2020/04/DSCF6980.jpg 1600w, __GHOST_URL__ /content/images/2020/04/DSCF6980.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/60267802_10219135056991997_9180095585603026944_o.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2651.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1817.jpg)
+<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6980.jpg)
+
+
 
 За последнюю пару лет я бывал в Чехии шесть или семь раз, с радостью заеду на бокал моравского сразу после карантина, и надеюсь, что вы тоже там окажетесь. До встречи!
 

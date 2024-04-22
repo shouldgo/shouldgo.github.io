@@ -143,4 +143,3 @@ title: Four autumns to live, one autumn to die
 Лишь бы снова успеть  
 Стать на ломтик добрей.
 
-<!--kg-card-end: markdown-->

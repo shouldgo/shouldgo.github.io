@@ -1,0 +1,52 @@
+---
+---
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  *, *::after, *::before {
+    box-sizing: border-box;
+  }
+  
+  a {
+    text-decoration: none;
+    /*overflow-x: hidden;*/
+    color: #2d2d2d;
+  }
+  
+  html {
+    width: 100%;
+  }
+  
+  html, body {
+    overflow-x: hidden;
+  }
+  
+  body {
+    background: #fefefe;
+    font-family: 'Georgia', serif;
+    font-style: normal;
+    font-weight: 400;
+    box-sizing: border-box;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Tahoma", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+  }
+
+  .post-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto 0 auto;
+    max-width: 920px;
+  }
+
+  .post-card {
+    display: flex;
+    flex-direction: column;
+  }

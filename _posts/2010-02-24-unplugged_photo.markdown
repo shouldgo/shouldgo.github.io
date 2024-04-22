@@ -9,14 +9,13 @@ tags:
 
 Хоть и не свежее,&nbsp;но последнее: гоночные селезни, негоночные неселезни, бытовой илитизм, а так же -31 градус, 9 утра, бытовой героизм. После опустошающей затяжной зимы приходится заново учиться работать с камерой:
 
-![Fog on the water, Дмитрий Афонин, 2010]( __GHOST_URL__ /content/images/2017/09/IMG_7788-2.jpg)
+![Fog on the water, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_7788-2.jpg)
 
-![Pretty in frost, Дмитрий Афонин, 2010]( __GHOST_URL__ /content/images/2017/09/IMG_6224_1.jpg)
+![Pretty in frost, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_6224_1.jpg)
 
-![Strayway, Дмитрий Афонин, 2010]( __GHOST_URL__ /content/images/2017/09/IMG_6358-Edit1.jpg)
+![Strayway, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_6358-Edit1.jpg)
 
-![Duckrace, Дмитрий Афонин, 2010]( __GHOST_URL__ /content/images/2017/09/IMG_6173-3.jpg)
+![Duckrace, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_6173-3.jpg)
 
 Спасибо!
 
-<!--kg-card-end: markdown-->

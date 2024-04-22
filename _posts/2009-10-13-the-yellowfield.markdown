@@ -15,22 +15,21 @@ tags:
 
 Ну и прилагаю лучшее их своей части нашего дебютного фотосета, в качестве железного пруфа того, что предприятие вполне может состояться. Модели-добровольцы — [Рита Пинто](http://vkontakte.ru/id8137315) и ее чихуахуа Пеппи, идея и образ принадлежат им же:
 
-![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год]( __GHOST_URL__ /content/images/2017/09/IMG_8868.jpg)
+![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год](/assets/images/2017/09/IMG_8868.jpg)
 
-![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год]( __GHOST_URL__ /content/images/2017/09/IMG_89631111.jpg)
+![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год](/assets/images/2017/09/IMG_89631111.jpg)
 
-![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год]( __GHOST_URL__ /content/images/2017/09/IMG_8920.jpg)
+![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год](/assets/images/2017/09/IMG_8920.jpg)
 
-![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год]( __GHOST_URL__ /content/images/2017/10/undercover_by_shouldgo.jpg)
+![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год](/assets/images/2017/10/undercover_by_shouldgo.jpg)
 
-![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год]( __GHOST_URL__ /content/images/2017/09/IMG_8950.jpg)
+![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год](/assets/images/2017/09/IMG_8950.jpg)
 
-![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год]( __GHOST_URL__ /content/images/2017/09/IMG_8974.jpg)
+![The Yellowfield, на фото — Рита Туева, Дмитрий Афонин, 2010 год](/assets/images/2017/09/IMG_8974.jpg)
 
-![like_dags_by_shouldgo]( __GHOST_URL__ /content/images/2017/10/like_dags_by_shouldgo.jpg)
+![like_dags_by_shouldgo](/assets/images/2017/10/like_dags_by_shouldgo.jpg)
 
-![yellowfield_by_shouldgo]( __GHOST_URL__ /content/images/2017/10/yellowfield_by_shouldgo.jpg)
+![yellowfield_by_shouldgo](/assets/images/2017/10/yellowfield_by_shouldgo.jpg)
 
-![gitane_by_shouldgo]( __GHOST_URL__ /content/images/2017/10/gitane_by_shouldgo.jpg)
+![gitane_by_shouldgo](/assets/images/2017/10/gitane_by_shouldgo.jpg)
 
-<!--kg-card-end: markdown-->

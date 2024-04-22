@@ -13,8 +13,6 @@ tags:
 
 Далее следует первая порция обещанных мною пикчуурезов:
 
-![imperfection_of_lines_by_shouldgo]( __GHOST_URL__ /content/images/2017/10/imperfection_of_lines_by_shouldgo.jpg)
+![imperfection_of_lines_by_shouldgo](/assets/images/2017/10/imperfection_of_lines_by_shouldgo.jpg)
 
-![partially_mute_by_shouldgo]( __GHOST_URL__ /content/images/2017/10/partially_mute_by_shouldgo.jpg)
-
-<!--kg-card-end: markdown-->
+![partially_mute_by_shouldgo](/assets/images/2017/10/partially_mute_by_shouldgo.jpg)

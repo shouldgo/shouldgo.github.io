@@ -16,16 +16,16 @@ tags:
 Год начался и закончился на Кипре. За три визита остров стал почти родным. Идеальное место, чтобы погреть кости и отдохнуть от даров цивилизации. Ближе Юго-восточной Азии, дешевле европейских курортов и гораздо теплее базовой страны.
 
 <figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF9046.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF9046.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF9046.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF9046.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF9046.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF7309.jpg" width="1707" height="2560" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF7309.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF7309.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF7309.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF7309.jpg 1707w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF5335.jpg" width="1707" height="2560" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF5335.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF5335.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF5335.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF5335.jpg 1707w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF5221.jpg" width="2000" height="1333" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF5221.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF5221.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF5221.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF5221.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div>
-<figcaption>Три визита на Кипр</figcaption></figure>
+
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF9046.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF7309.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF5335.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF5221.jpg)
+
+
+<figcaption>Три визита на Кипр</figcaption>
 
 Исколесил остров во всех плоскостях и написал два поста о самых крутых местах. Прочтите, если намереваетесь с визитом:
 
@@ -39,31 +39,31 @@ tags:
 Суммарно провёл в России всего 4 месяца. Окончательно понял, что не способен выжить в Москве. Съехал со съёмной квартиры и отправился искать новый дом. На память остался всего один пост и горстка фоток из столицы.
 
 - [Февраль в Москве](https://shouldgo.ru/february-in-moscow/)
-<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF0102.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF0102.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF0102.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF0102.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF0102.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF9965.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF9965.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF9965.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF9965.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF9965.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div></div>
-<figcaption>Москва Зимой</figcaption></figure><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF4272.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF4272.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF4272.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF4272.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF4272.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF4698-2.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF4698-2.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF4698-2.jpg 1000w, __GHOST_URL__ /content/images/2019/01/DSCF4698-2.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-</div></div>
-<figcaption>Москва Летом</figcaption></figure>
+<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF0102.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF9965.jpg)
+
+<figcaption>Москва Зимой</figcaption><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF4272.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF4698-2.jpg)
+
+<figcaption>Москва Летом</figcaption>
 
 В родном Екатеринбурге случился дважды: весной и во время чемпионата по ногомячеству. Из ЕКБ уехал ещё в 2016, но уехать ЕКБ из себя не смог. Всегда рад случаю возвратиться к любимым местам и людям, привезти с собой пару постов и годных снимков.
 
 - [Длинная тень Екатеринбурга](https://shouldgo.ru/ekb-longshadow/)
 - [Летотеринбург](https://shouldgo.ru/summer-ekb/)
 <figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF0624.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF0624.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF0624.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF0624.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF0624.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF3606.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF3606.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF3606.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF3606.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF3606.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF3717.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF3717.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF3717.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF3717.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF3717.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF3860.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF3860.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF3860.jpg 1000w, __GHOST_URL__ /content/images/2019/01/DSCF3860.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div>
-<figcaption>Екатеринбург в любое время года</figcaption></figure>
+
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF0624.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF3606.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF3717.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF3860.jpg)
+
+
+<figcaption>Екатеринбург в любое время года</figcaption>
 
 Во время мундиаля атмосфера в городе была фантастическая. Рестобарная культура в Екате тоже неизменно радует — таких классных заведений в Москве попросту нет. В следующий раз понаеду через пару месяцев, буду рад всех увидеть.
 
@@ -71,20 +71,20 @@ tags:
 
 Из Еката мы свалили в Прагу. Хотели потусоваться месяц, но в итоге задержались на три, потому что весенняя Прага — это просто бонба. Остались бы навсегда, но чехи не очень рады иммигрантам. Вернулись в декабре — за глинтвейном и клобасами.
 
-<figure class="kg-card kg-image-card kg-width-wide"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF2620-1.jpg" class="kg-image" alt loading="lazy"></figure><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF2042-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF2042-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF2042-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF2042-1.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF2042-1.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF3574-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF3574-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF3574-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF3574-1.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF3574-1.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div></div>
-<figcaption>Пражская весна</figcaption></figure><figure class="kg-card kg-image-card kg-width-wide"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF7164.jpg" class="kg-image" alt loading="lazy"></figure><figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF1167.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF1167.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF1167.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF1167.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF1167.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF6908.jpg" width="1707" height="2560" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF6908.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF6908.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF6908.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF6908.jpg 1707w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF7258.jpg" width="1707" height="2560" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF7258.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF7258.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF7258.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF7258.jpg 1707w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF6914.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF6914.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF6914.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF6914.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF6914.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure><figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF7144.jpg" class="kg-image" alt loading="lazy"><figcaption>Пражская зима</figcaption></figure>
+<figure class="kg-card kg-image-card kg-width-wide">![](/assets/images/2019/01/DSCF2620-1.jpg)<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF2042-1.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF3574-1.jpg)
+
+<figcaption>Пражская весна</figcaption><figure class="kg-card kg-image-card kg-width-wide">![](/assets/images/2019/01/DSCF7164.jpg)
+
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF1167.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF6908.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF7258.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF6914.jpg)
+
+<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![](/assets/images/2019/01/DSCF7144.jpg)<figcaption>Пражская зима</figcaption>
 
 Новый пост о Праге я не написал, но есть старые из 2012 года:
 
@@ -95,16 +95,16 @@ tags:
 Объехали все интересные чешские города: Крумлов, Остраву, Карловы Вары, Будеёвице, Брно, Кутну Гору, но внимания стоят только первые три. Когда-нибудь я напишу о каждом, но теперь есть только старый пост про Чески Крумлов и немного фоток.
 
 - [Чески Крумлов — мать деревень чешских](https://shouldgo.ru/cesky-krumlov/)
-<figure class="kg-card kg-image-card kg-width-wide"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF1061.jpg" class="kg-image" alt loading="lazy"></figure><figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF6645.jpg" width="1707" height="2560" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF6645.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF6645.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF6645.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF6645.jpg 1707w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF0970.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF0970.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF0970.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF0970.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF0970.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF1480.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF1480.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF1480.jpg 1000w, __GHOST_URL__ /content/images/2019/01/DSCF1480.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF0945.jpg" width="1707" height="2560" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF0945.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF0945.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF0945.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF0945.jpg 1707w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure><figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF6707.jpg" class="kg-image" alt loading="lazy"><figcaption>Разные уголки Чехии</figcaption></figure>
+<figure class="kg-card kg-image-card kg-width-wide">![](/assets/images/2019/01/DSCF1061.jpg)
+
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF6645.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF0970.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF1480.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF0945.jpg)
+
+<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![](/assets/images/2019/01/DSCF6707.jpg)<figcaption>Разные уголки Чехии</figcaption>
 
 Теперь переезд в Чехию — цель на ближайшие десять лет.
 
@@ -112,20 +112,20 @@ tags:
 
 Из базового пункта в Праге добрались до Берлина, Дрездена, Мюнхена, Дахау, Нойшванштайна, Вены и Гальштата. Всего 6 стран и что-то около 30 разных городов. Это слишком.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF2908-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF2908-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF2908-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF2908-1.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF2908-1.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF3097-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF3097-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF3097-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF3097-1.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF3097-1.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF3083-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF3083-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF3083-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF3083-1.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF3083-1.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF2376-3.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF2376-3.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF2376-3.jpg 1000w, __GHOST_URL__ /content/images/2019/01/DSCF2376-3.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF2520-2.jpg" width="1379" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF2520-2.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF2520-2.jpg 1000w, __GHOST_URL__ /content/images/2019/01/DSCF2520-2.jpg 1379w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF2287-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF2287-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF2287-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF2287-1.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF2287-1.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div></div>
-<figcaption>Фотокарточки из Европы</figcaption></figure>
+
+
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF2908-1.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF3097-1.jpg)
+
+
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF3083-1.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF2376-3.jpg)
+
+<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF2520-2.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF2287-1.jpg)
+
+<figcaption>Фотокарточки из Европы</figcaption>
 
 Старые посты из Берлина и Дрездена:
 
@@ -137,22 +137,22 @@ tags:
 
 Ещё три месяца провели на руинах Речи Посполитой, успели посмотреть три города. Варшаву нашли неуютной, в Кракове дурная экология, поэтому на будущее выбрали Вроцлав.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF5863.jpg" width="1737" height="2560" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF5863.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF5863.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF5863.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF5863.jpg 1737w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF5887.jpg" width="1707" height="2560" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF5887.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF5887.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF5887.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF5887.jpg 1707w" sizes="(min-width: 720px) 720px"></div>
-</div></div></figure><figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF5835.jpg" class="kg-image" alt loading="lazy"><figcaption>Осень в Польше</figcaption></figure>
+
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF5863.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF5887.jpg)
+<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![](/assets/images/2019/01/DSCF5835.jpg)<figcaption>Осень в Польше</figcaption>
 
 Заехали в Аушвиц-Биркенау и немного охуели. Побывали в Татрах — это такие горы на границе Польши и Словакии.
 
-<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF6265.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF6265.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF6265.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF6265.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF6265.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF6320.jpg" width="2000" height="1239" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF6320.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF6320.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF6320.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF6320.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div></div>
-<figcaption>Татры</figcaption></figure><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF6461.jpg" width="2000" height="1034" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF6461.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF6461.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF6461.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF6461.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF6486.jpg" width="1707" height="2560" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF6486.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF6486.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF6486.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF6486.jpg 1707w" sizes="(min-width: 720px) 720px"></div>
-</div></div>
-<figcaption>Аушвиц-Биркенау</figcaption></figure>
+<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF6265.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF6320.jpg)
+
+<figcaption>Татры</figcaption><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF6461.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF6486.jpg)
+
+<figcaption>Аушвиц-Биркенау</figcaption>
 
 О Польше нужно писать много и обстоятельно, поэтому пока не стану. Инициировали процесс получения ВНЖ и попривыкли к новой реальности. Теперь ждём документы, чтобы остаться надолго.
 
@@ -168,19 +168,19 @@ tags:
 
 С фотографией всё тоже грустно. Снимков много, но хороших — единицы. В путешествиях фоткаешь всё подряд, а надо бы фокусироваться, работать над техникой, пробовать новые жанры.
 
-<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF0134-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF0134-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF0134-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF0134-1.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF0134-1.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF9991-1.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF9991-1.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF9991-1.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF9991-1.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF9991-1.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div></div>
-<figcaption>Спасибо Дане Косинскому за удачные кадры</figcaption></figure>
+<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF0134-1.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF9991-1.jpg)
+
+<figcaption>Спасибо Дане Косинскому за удачные кадры</figcaption>
 
 Решил стать мамкиным видеоблогером и запилил [ютуб про фотографию](https://www.youtube.com/channel/UCGWZoVGcFE66X2d32QLAWYg?view_as=subscriber) для самых маленьких. Сделал один выпуск и пал ниц под тяжестью видеопродакшена. Возобновлять пока не планирую.
 
-<figure class="kg-card kg-embed-card"><iframe width="480" height="270" src="https://www.youtube.com/embed/ZnLQekfNdPo?start=42&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+<figure class="kg-card kg-embed-card"><iframe width="480" height="270" src="https://www.youtube.com/embed/ZnLQekfNdPo?start=42&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Чтобы хоть как-то держать себя в тонусе, постоянно придумывал какие-то челленджи. Например, выкладываю [в свой инстаграм](http://instagram.com/shouldgo/) по одной фотке каждый день. А весной 60 дней без остановки постил всякое в свой [фейсбук](http://facebook.com/dima.afonin). Вот топовые посты.
 
-<figure class="kg-card kg-embed-card"><div id="fb-root"></div>
+<figure class="kg-card kg-embed-card"><div id="fb-root">
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -189,7 +189,7 @@ tags:
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=10216302504419953&amp;set=a.10201128243752920&amp;type=3&amp;theater" data-width="552"><blockquote cite="https://www.facebook.com/photo.php?fbid=10216302504419953&amp;set=a.10201128243752920&amp;type=3" class="fb-xfbml-parse-ignore">
 <p>Многие (никто) спрашивают: «Дима, как ты так ловко перемещаешься по всей Европе? Как тебе это удаётся? И почему ты такой...</p>Gepostet von <a href="https://www.facebook.com/dima.afonin">Dima Afonin</a> am <a href="https://www.facebook.com/photo.php?fbid=10216302504419953&amp;set=a.10201128243752920&amp;type=3">Samstag, 5. Mai 2018</a>
-</blockquote></div></figure><figure class="kg-card kg-embed-card"><div id="fb-root"></div>
+</blockquote><figure class="kg-card kg-embed-card"><div id="fb-root">
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -198,7 +198,7 @@ tags:
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=10216399944135885&amp;set=a.10201128243752920&amp;type=3&amp;theater" data-width="552"><blockquote cite="https://www.facebook.com/photo.php?fbid=10216399944135885&amp;set=a.10201128243752920&amp;type=3" class="fb-xfbml-parse-ignore">
 <p>В 2012 году я впервые имел отпуск за границей. Приехал в Прагу и сразу охуел. Всё казалось ненастоящим, удивительным,...</p>Gepostet von <a href="https://www.facebook.com/dima.afonin">Dima Afonin</a> am <a href="https://www.facebook.com/photo.php?fbid=10216399944135885&amp;set=a.10201128243752920&amp;type=3">Samstag, 19. Mai 2018</a>
-</blockquote></div></figure><figure class="kg-card kg-embed-card"><div id="fb-root"></div>
+</blockquote><figure class="kg-card kg-embed-card"><div id="fb-root">
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -207,11 +207,11 @@ tags:
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=10217027961835935&amp;set=a.10200805510644794&amp;type=3&amp;theater" data-width="552"><blockquote cite="https://www.facebook.com/photo.php?fbid=10217027961835935&amp;set=a.10200805510644794&amp;type=3" class="fb-xfbml-parse-ignore">
 <p>Провёл в Москве неделю и родил мысль: в перспективе 20-100 лет с высокой вероятностью начнётся процесс деурбанизации....</p>Gepostet von <a href="https://www.facebook.com/dima.afonin">Dima Afonin</a> am <a href="https://www.facebook.com/photo.php?fbid=10217027961835935&amp;set=a.10200805510644794&amp;type=3">Donnerstag, 9. August 2018</a>
-</blockquote></div></figure>
+</blockquote>
 
 За год прочёл 36 книг из 30 запланированных и примерно 800 статей разной степени глупости, о чём тоже написал в Фейсбуке, чтобы срубить ведёрко лукасов.
 
-<figure class="kg-card kg-embed-card"><div id="fb-root"></div>
+<figure class="kg-card kg-embed-card"><div id="fb-root">
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -220,7 +220,7 @@ tags:
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=10218110891468499&amp;set=a.10200805510644794&amp;type=3" data-width="552"><blockquote cite="https://www.facebook.com/photo.php?fbid=10218110891468499&amp;set=a.10200805510644794&amp;type=3" class="fb-xfbml-parse-ignore">
 <p>Традиционно подвожу итоги книжного года. В прошлый раз эпично провафлил годовой челлендж, прочитав 21 книгу из 40. В...</p>Gepostet von <a href="https://www.facebook.com/dima.afonin">Dima Afonin</a> am <a href="https://www.facebook.com/photo.php?fbid=10218110891468499&amp;set=a.10200805510644794&amp;type=3">Donnerstag, 27. Dezember 2018</a>
-</blockquote></div></figure>
+</blockquote>
 
 Хочу скорее обрести дом и покой, чтобы уделять больше времени фотографии и графомании. Другие цели пока ставить сложно.
 
@@ -228,31 +228,31 @@ tags:
 
 В январе [Аутмаркетингу](http://outmarketing.ru)\* исполнится два года. Дела идут не слишком хорошо, но и не совсем погано. Среди клиентов Яндекс, Лего и одна большая соцсеть, но пока мы качали только свои скилы, а надо качать бизнес и команду.
 
-<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/_DSC0076.jpg" width="2000" height="1328" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/_DSC0076.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/_DSC0076.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/_DSC0076.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/_DSC0076.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/_DSC0109.jpg" width="2000" height="1328" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/_DSC0109.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/_DSC0109.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/_DSC0109.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/_DSC0109.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div></div>
-<figcaption>Я втираю какую-то дичь</figcaption></figure>
+<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+<div class="kg-gallery-image">![](/assets/images/2019/01/_DSC0076.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/_DSC0109.jpg)
+
+<figcaption>Я втираю какую-то дичь</figcaption>
 
 Мы с [Антоном](https://www.facebook.com/a.shayakhov) успели поработать во всяких крутых компаниях, но к предпринимательству нас жизнь не подготовила. Наделали кучу ошибок и несколько раз были на сантиметр от закрытия. Кажется, многое поняли и теперь знаем, что делать.
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption"><img src=" __GHOST_URL__ /content/images/2019/01/40628581_509847229443098_7823365277071966208_o.jpg" class="kg-image" alt loading="lazy"><figcaption>Офис Аутмаркетинга* на Кипре</figcaption></figure>
+<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![](/assets/images/2019/01/40628581_509847229443098_7823365277071966208_o.jpg)<figcaption>Офис Аутмаркетинга* на Кипре</figcaption>
 
 Попутно стали многосерийными предпринимателями — запустили фановый сайдпроект [sameshirt\*](http://sameshirt.ru/) — пять чёрных футболок с доставкой. Получилось кайфово, но денег он практически не приносит, потому что не хватает времени.
 
-<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF5109.jpg" width="1387" height="2080" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF5109.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF5109.jpg 1000w, __GHOST_URL__ /content/images/2019/01/DSCF5109.jpg 1387w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF5119.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF5119.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF5119.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF5119.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF5119.jpg 2080w" sizes="(min-width: 720px) 720px"></div>
-</div></div>
-<figcaption>Чёрные футболки — ванлав</figcaption></figure>
+<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF5109.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF5119.jpg)
+
+<figcaption>Чёрные футболки — ванлав</figcaption>
 
 В начале года занялся личными инвестициями. Скопил хорошую финансовую подушку и начал складывать по 20% дохода в акции. Сейчас рынок сильно трясёт, поэтому прибыль отрицательная, но статистика говорит, что без резких телодвижений уйти в минус на горизонте десяти лет довольно сложно.
 
-<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF5748.jpg" width="1707" height="2560" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF5748.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF5748.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF5748.jpg 1600w, __GHOST_URL__ /content/images/2019/01/DSCF5748.jpg 1707w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/Screenshot-2019-01-07-at-21.16.15.png" width="2000" height="1250" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/Screenshot-2019-01-07-at-21.16.15.png 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/Screenshot-2019-01-07-at-21.16.15.png 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/Screenshot-2019-01-07-at-21.16.15.png 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/Screenshot-2019-01-07-at-21.16.15.png 2400w" sizes="(min-width: 720px) 720px"></div>
-</div></div>
-<figcaption>Мама, я акционер</figcaption></figure>
+<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF5748.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/Screenshot-2019-01-07-at-21.16.15.png)
+
+<figcaption>Мама, я акционер</figcaption>
 
 К концу года понял, что целеполагание даёт хотя бы какое-то ощущение контроля, поэтому серьёзно запарился за планирование. Надеюсь успеть и узнать больше, чем в прошлом году.
 
@@ -260,11 +260,11 @@ tags:
 
 Новый год встретил в горах и в отличной компании. Лучший финал сложно придумать. Посмотрю на этот пост 365 дней спустя, и удивлюсь тому, как было охуенно.
 
-<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/DSCF7453.jpg" width="2000" height="1334" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/DSCF7453.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2019/01/DSCF7453.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2019/01/DSCF7453.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2019/01/DSCF7453.jpg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2019/01/HbBrEaU-Q-ewRWzRm16Glw_thumb_180d.jpg" width="819" height="1024" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2019/01/HbBrEaU-Q-ewRWzRm16Glw_thumb_180d.jpg 600w, __GHOST_URL__ /content/images/2019/01/HbBrEaU-Q-ewRWzRm16Glw_thumb_180d.jpg 819w" sizes="(min-width: 720px) 720px"></div>
-</div></div>
-<figcaption>Новый год в кипрских горах</figcaption></figure>
+<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+<div class="kg-gallery-image">![](/assets/images/2019/01/DSCF7453.jpg)
+<div class="kg-gallery-image">![](/assets/images/2019/01/HbBrEaU-Q-ewRWzRm16Glw_thumb_180d.jpg)
+
+<figcaption>Новый год в кипрских горах</figcaption>
 
 Ссылку на прошлогодний пост тоже оставлю —&nbsp;специально для тех, кто любит копаться в чужой жизни: [50 фотографий из 2017](https://shouldgo.ru/2017-in-50-photos/).
 

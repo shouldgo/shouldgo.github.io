@@ -14,4 +14,3 @@ date: '2017-08-22 20:05:39'
 
 Написать мне можно в [Фейсбук](https://facebook.com/dima.afonin), [Телеграм](http://telegram.me/shouldgo) или на [почту](mailto:shouldgo@me.com). Но лучше не надо.
 
-<!--kg-card-end: markdown-->
