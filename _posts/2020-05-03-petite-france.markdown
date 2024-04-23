@@ -11,7 +11,7 @@ tags:
 
 Первый визит в Париж в 2014 году не задался с самого начала. Главной ошибкой был [18 арондисман](https://goo.gl/maps/LQ2EJjChjo6qKkpQ7) — район неподалёку от вокзалов Garu du Nord и Garu de l’Est, где я по невежеству снял недорогой отель, чем навсегда испортил впечатление от города.
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![](/assets/images/2020/05/IMG_2264.jpg)<figcaption>Вид с небоскрёба Монпарнас</figcaption>
+![Вид с небоскрёба Монпарнас](/assets/images/2020/05/IMG_2264.jpg)
 
 Несмотря на шаговую доступность от Мулен-Ружа и базилики Сакре-Кёр, 18&nbsp;ародисман (и все прилегающие) в то время являл собой настоящее гетто с&nbsp;огромными арабскими рынками, грязными тротуарами и недружелюбного вида драг-пушерами на каждом углу.
 
@@ -37,7 +37,7 @@ tags:
 
 Между визитами в базилики и Лувры, пил самый невкусный в Европе глювайн «vin chaud», наблюдал парижскую архитектуру и пресыщался китчевой избыточностью города. В какой-то момент почувствовал физическое отвращение ко всему, что меня окружало.
 
-<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+
 
 ![](/assets/images/2020/05/IMG_2300.jpg)
 ![](/assets/images/2020/05/IMG_2308.jpg)
@@ -51,7 +51,7 @@ tags:
 
 Последним неоднозначным экспириенсом в Париже была случайная встреча со странноватым чуваком из США у могилы Джима Моррисона на [Пер-Лашес](https://g.page/perelachaise?share), закончившаяся употреблением джоинта на [Марсовом поле](https://goo.gl/maps/9HqAxheZhqicre6H8) под фристайл от местного хип-хопера бомжевтого вида.
 
-<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+
 ![](/assets/images/2020/05/BA3C679B-33F1-46FF-A4EE-17655DA33404_1_105_c.jpg)
 ![](/assets/images/2020/05/D8E66136-D80F-4AA0-84E9-6284EC407472_1_105_c.jpg)
 
@@ -59,7 +59,7 @@ tags:
 
 Мой случайный друг из США никогда не слышал слов Лувр и Нотр-Дам, просрочил туристическую визу, проебал все деньги и оставил свой велосипед, на котором планировал добраться в аэропорт, в тёмном переулке. Найти оный байсикл мы уже не смогли.
 
-<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+
 ![](/assets/images/2020/05/IMG_2248-1.jpg)
 ![](/assets/images/2020/05/IMG_2255-1.jpg)
 
@@ -126,7 +126,7 @@ tags:
 
 [Лион](https://goo.gl/maps/JuTxZD7B73ZAwJS18) — третий по величине и первый по уровню комфорта город Франции. Внешне отличный и от Парижа и Дижона, удивляющий своими базиликами и мостами. В городе сохранилось несколько римских амфитеатров, построенных в первых веках Новой Эры.
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![](/assets/images/2020/05/F5A81D05-D9BF-480A-9EA0-D47A854889D9_1_105_c.jpg)<figcaption>Одеон в Лионе</figcaption><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+![Одеон в Лионе](/assets/images/2020/05/F5A81D05-D9BF-480A-9EA0-D47A854889D9_1_105_c.jpg)
 
 ![](/assets/images/2020/05/IMG_2536.jpg)
 ![](/assets/images/2020/05/IMG_2553.jpg)
@@ -140,7 +140,7 @@ tags:
 
 Здесь я потерял кошелёк с наличностью и картами, а ещё внезапно повстречал двух знакомцев из России. День закончился похмельем, а наутро обрадованный продавец соседней лавки вернул мне утраченный portefeuille вместе со всем содержимым.
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![](/assets/images/2020/05/IMG_2548.jpg)<figcaption>Мост в Лионе</figcaption><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+![Мост в Лионе](/assets/images/2020/05/IMG_2548.jpg)
 
 ![](/assets/images/2020/05/IMG_2573.jpg)
 ![](/assets/images/2020/05/IMG_2578.jpg)
@@ -154,7 +154,7 @@ tags:
 
 [Анси](https://goo.gl/maps/HMopQDRsdLVRpWLc8) — крошечный живописный городок в 40 километрах от Женевы. Расположен на берегу удивительно красивого кристально чистого озера с видом на Альпы. Одно воспоминание об этом пейзаже стоит того, чтобы просидеть у воды до самого заката.
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![](/assets/images/2020/05/IMG_2665.jpg)<figcaption>Озеро Анси</figcaption><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+![Озеро Анси](/assets/images/2020/05/IMG_2665.jpg)
 
 ![](/assets/images/2020/05/IMG_2685.jpg)
 ![](/assets/images/2020/05/IMG_2693.jpg)
@@ -168,7 +168,7 @@ tags:
 
 [Кольмар](https://goo.gl/maps/WMupMF4dYKuq9fMP8) — городок в регионе [Эльзас](https://ru.wikipedia.org/wiki/Эльзас), постоянно кочевавший от французов к немцам. Немецкая кухня, немецкие пряничные домики, обилие немецких заимствований в местном диалекте. Практически ничем не напоминает о Франции.
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![](/assets/images/2020/05/IMG_3359-1.jpg)<figcaption>Кольмар — ферхверковыо-пряничный рай</figcaption><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+![Кольмар — ферхверковыо-пряничный рай](/assets/images/2020/05/IMG_3359-1.jpg)
 ![](/assets/images/2020/05/IMG_3291.jpg)
 ![](/assets/images/2020/05/IMG_3332.jpg)
 
@@ -176,7 +176,7 @@ tags:
 
 То же самое можно сказать и о [Страсбурге](https://goo.gl/maps/wZLGgTSMe4p9C6AA7) — столице Эльзаса, известной своим собором. Оная базилика действительно приводит в восторг своим фасадом и витражными розами, которые, увы, не оставили следа на матрице моей камеры.
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![](/assets/images/2020/05/IMG_3493-1.jpg)<figcaption>Портал Страсбургского собора</figcaption><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+![Портал Страсбургского собора](/assets/images/2020/05/IMG_3493-1.jpg)
 ![](/assets/images/2020/05/IMG_3412.jpg)
 ![](/assets/images/2020/05/IMG_3465.jpg)
 
@@ -184,7 +184,7 @@ tags:
 
 Кроме того, в Страсбурге находится [Европейский суд по правам человека](https://ru.wikipedia.org/wiki/Европейский_суд_по_правам_человека), окрестности которого заполнены палаточными лагерями и плакатами с различными социальными и политическими лозунгами. В памятном 2014 году там было много визитёров из Украины.
 
-<figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container">
+
 ![](/assets/images/2020/05/IMG_3533.jpg)
 ![](/assets/images/2020/05/IMG_3540.jpg)
 

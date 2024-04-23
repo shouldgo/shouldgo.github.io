@@ -23,12 +23,12 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF7164-2.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF8969.jpg)
+![](/assets/images/2020/04/DSCF7164-2.jpg)
+![](/assets/images/2020/04/DSCF8969.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF8983.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF7263.jpg)
+![](/assets/images/2020/04/DSCF8983.jpg)
+![](/assets/images/2020/04/DSCF7263.jpg)
 
 
 
@@ -36,12 +36,12 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1975.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1756.jpg)
+![](/assets/images/2020/04/DSCF1975.jpg)
+![](/assets/images/2020/04/DSCF1756.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1753.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2005.jpg)
+![](/assets/images/2020/04/DSCF1753.jpg)
+![](/assets/images/2020/04/DSCF2005.jpg)
 
 
 
@@ -49,12 +49,12 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1167.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2638.jpg)
+![](/assets/images/2020/04/DSCF1167.jpg)
+![](/assets/images/2020/04/DSCF2638.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0759.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6874.jpg)
+![](/assets/images/2020/04/DSCF0759.jpg)
+![](/assets/images/2020/04/DSCF6874.jpg)
 
 
 
@@ -62,12 +62,12 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3462.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3326.jpg)
+![](/assets/images/2020/04/DSCF3462.jpg)
+![](/assets/images/2020/04/DSCF3326.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6888.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3450-1.jpg)
+![](/assets/images/2020/04/DSCF6888.jpg)
+![](/assets/images/2020/04/DSCF3450-1.jpg)
 
 
 
@@ -75,12 +75,12 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3517.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1217.jpg)
+![](/assets/images/2020/04/DSCF3517.jpg)
+![](/assets/images/2020/04/DSCF1217.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3423.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF8977-1.jpg)
+![](/assets/images/2020/04/DSCF3423.jpg)
+![](/assets/images/2020/04/DSCF8977-1.jpg)
 
 
 
@@ -92,32 +92,32 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2042-1.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3341.jpg)
+![](/assets/images/2020/04/DSCF2042-1.jpg)
+![](/assets/images/2020/04/DSCF3341.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2133.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3386.jpg)
+![](/assets/images/2020/04/DSCF2133.jpg)
+![](/assets/images/2020/04/DSCF3386.jpg)
 
 
 
 Самым большим открытием для нас стали моравские белые вина — рислинги, грюна-велтлинеры, пино-гри и прочие шардоне. Они восхитительны на вкус, беспохмельны, стоят от 80 крон (250 рублей) за бутылку и при этом практически не экспортируются.
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1808.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/File-00005.jpg)
+![](/assets/images/2020/04/DSCF1808.jpg)
+![](/assets/images/2020/04/File-00005.jpg)
 
 
 Прага — бюджетный город. Мы жили на €2 000 в месяц, из которых одна половина уходила на жильё, а вторая — на поездки по Европе. Питались дома, попробовали все сорта дешёвых круп, сыров и мяс. По вкусу и качеству они превосходят любые российские продукты.
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2624.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1751.jpg)
+![](/assets/images/2020/04/DSCF2624.jpg)
+![](/assets/images/2020/04/DSCF1751.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF7180.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1995-1.jpg)
+![](/assets/images/2020/04/DSCF7180.jpg)
+![](/assets/images/2020/04/DSCF1995-1.jpg)
 
 
 
@@ -125,12 +125,12 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1732.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0875.jpg)
+![](/assets/images/2020/04/DSCF1732.jpg)
+![](/assets/images/2020/04/DSCF0875.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3399.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF8984.jpg)
+![](/assets/images/2020/04/DSCF3399.jpg)
+![](/assets/images/2020/04/DSCF8984.jpg)
 
 
 
@@ -147,12 +147,12 @@ tags:
 - поймайте воскресный фудмаркет у вышеградского железнодорожного моста (на сам [мост](https://goo.gl/maps/WLHtxgECZNJFzkGNA) тоже обязательно зайдите)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2095.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1765.jpg)
+![](/assets/images/2020/04/DSCF2095.jpg)
+![](/assets/images/2020/04/DSCF1765.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0776.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF3559.jpg)
+![](/assets/images/2020/04/DSCF0776.jpg)
+![](/assets/images/2020/04/DSCF3559.jpg)
 
 
 
@@ -164,12 +164,12 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1211.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1091.jpg)
+![](/assets/images/2020/04/DSCF1211.jpg)
+![](/assets/images/2020/04/DSCF1091.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6645.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1080.jpg)
+![](/assets/images/2020/04/DSCF6645.jpg)
+![](/assets/images/2020/04/DSCF1080.jpg)
 
 
 
@@ -177,12 +177,12 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0945.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0948.jpg)
+![](/assets/images/2020/04/DSCF0945.jpg)
+![](/assets/images/2020/04/DSCF0948.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0970.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF0978.jpg)
+![](/assets/images/2020/04/DSCF0970.jpg)
+![](/assets/images/2020/04/DSCF0978.jpg)
 
 
 
@@ -190,12 +190,12 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1194.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1197.jpg)
+![](/assets/images/2020/04/DSCF1194.jpg)
+![](/assets/images/2020/04/DSCF1197.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1206.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1201.jpg)
+![](/assets/images/2020/04/DSCF1206.jpg)
+![](/assets/images/2020/04/DSCF1201.jpg)
 
 
 
@@ -203,12 +203,12 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6691.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6701.jpg)
+![](/assets/images/2020/04/DSCF6691.jpg)
+![](/assets/images/2020/04/DSCF6701.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6692.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6707.jpg)
+![](/assets/images/2020/04/DSCF6692.jpg)
+![](/assets/images/2020/04/DSCF6707.jpg)
 
 
 
@@ -216,39 +216,39 @@ tags:
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1024.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1026.jpg)
+![](/assets/images/2020/04/DSCF1024.jpg)
+![](/assets/images/2020/04/DSCF1026.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1061.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1062.jpg)
+![](/assets/images/2020/04/DSCF1061.jpg)
+![](/assets/images/2020/04/DSCF1062.jpg)
 
 
 
 [Карловы Вары](https://goo.gl/maps/XmrAiGRgcSaUntRs6) — курорт для русских пенсионейро с бесплатной минералкой и чудесными фасадами на фоне фантастической природы.
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1883.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1907.jpg)
+![](/assets/images/2020/04/DSCF1883.jpg)
+![](/assets/images/2020/04/DSCF1907.jpg)
 
 
 Ну и удостоенный [отдельного поста]( __GHOST_URL__ /cesky-krumlov/) в моём блоге Чески Крумлов — невероятной красоты средневековый туристический городок.
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1480.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1536.jpg)
+![](/assets/images/2020/04/DSCF1480.jpg)
+![](/assets/images/2020/04/DSCF1536.jpg)
 
 
 Даже бесцельная поездка по Чехии — высшее эстетическое удовольствие. Подстриженные изумрудные поля и холмы, руины замков, пышные боры, изгибы рек — всё это выглядит, будто кто-то решил наделать эталонных рендеров для шаттерстока.
 
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/60267802_10219135056991997_9180095585603026944_o.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF2651.jpg)
+![](/assets/images/2020/04/60267802_10219135056991997_9180095585603026944_o.jpg)
+![](/assets/images/2020/04/DSCF2651.jpg)
 
 
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF1817.jpg)
-<div class="kg-gallery-image">![](/assets/images/2020/04/DSCF6980.jpg)
+![](/assets/images/2020/04/DSCF1817.jpg)
+![](/assets/images/2020/04/DSCF6980.jpg)
 
 
 
