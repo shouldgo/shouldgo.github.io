@@ -90,7 +90,7 @@
   }
 
   .post-content img {
-    width: 100%;
+    max-width: 100%;
   }
 
   .post-content p {
@@ -111,7 +111,7 @@
 
   .post-content ul:has(li img) li img {
     object-fit: cover;
-    width: 100%;
+    /*width: 100%;*/
     height: 100%;
     vertical-align: middle;
     border-radius: 5px;
