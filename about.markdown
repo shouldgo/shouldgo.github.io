@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Дима Афонин
+title: Dima Afonin — shouldgo.me
 permalink: /dima-afonin/
 description: Кто такой Дима Афонин и почему? Какие секреты зарыты в его грязном белье? Сенсационные ответы на все вопросы и голенькие хоумфотки из Айклауда!
 image: /assets/images/size/w1200/2017/08/DSCF3332.jpg

@@ -10,18 +10,20 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <ul class="flex column post-list">
+    <ul class="flex post-list">
       {%- for post in site.posts -%}
       <li class="flex post-card">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <img class="post-image" src="/assets/images/2017/08/DSCF0410-1.jpg">
-        <!--<div class="flex column">-->
+        <div class="post-image"></div>
+        <div class="flex post-info">
           <h3 class="post-title">
             <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title | escape }}</a>
           </h3>
-          <p class="post-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <div class="post-description">
+            <p class="text-s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+          </div> 
           <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <!--</div>-->
+        </div>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
