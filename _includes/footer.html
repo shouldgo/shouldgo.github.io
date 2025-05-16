@@ -4,9 +4,18 @@
       <div class="footer-left">
         <a class="footer-logo" href="{{ "/" | relative_url }}">shouldgo.me</a>
         <div class="footer-links">
-          <a class="text-s footer-link" href="https://facebook.com/shouldgo">фейсбук</a>
+          <a class="text-s footer-link" href="https://www.facebook.com/dima.afonin">фейсбук</a>
           <a class="text-s footer-link" href="https://linkedin.com/in/shouldgo">линкедин</a>
-          <a class="text-s footer-link" href="{{ '/about' | relative_url }}">эбаут</a>
+           {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title and my_page.path != 'CLAUDE.md' -%}
+              {% if my_page.path == 'about.markdown' %}
+                <a class="text-s page-link" href="{{ my_page.url | relative_url }}">эбаут</a>
+              {% else %}
+                <a class="text-s page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {% endif %}
+            {%- endif -%}
+          {%- endfor -%}
         </div>
       </div>
       <div class="footer-right">
