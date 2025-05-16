@@ -5,6 +5,7 @@ date: '2010-05-23 18:07:00'
 tags:
 - photoblog
 - russia
+image: /assets/images/2017/10/81ecc7afa6dac986dcafec3df99d9595-1.jpg
 ---
 
 Посетил концерт [The Horrors](http://en.wikipedia.org/wiki/The_Horrors),&nbsp;который&nbsp;оказался трехчасовым разогревом и задержался на дохуя. Стоял в толпе педовок у сцены&nbsp;с единственным объективом,&nbsp;дырка которого уже иголочного ушка. Снимал на исо3200 и высаживался.

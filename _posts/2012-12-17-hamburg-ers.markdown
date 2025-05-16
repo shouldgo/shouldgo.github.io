@@ -5,6 +5,7 @@ date: '2012-12-17 12:10:00'
 tags:
 - travel
 - europe
+image: /assets/images/2017/09/IMG_1661.jpg
 ---
 
 Следуя зову сердца и коллег из замечательного сервиса [JimDo](http://www.jimdo.com/index.php), мы отправились в Гамбург ([Евгений Ваганыч](http://www.youtube.com/watch?v=0V3emNLMTlY) утверждает, что это родина гамбургеров, [историки поддерживают](http://en.wikipedia.org/wiki/Hamburger#History)).

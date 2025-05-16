@@ -8,6 +8,7 @@ tags:
 - travel
 - europe
 - asia
+image: /assets/images/2018/01/HK1.jpg
 ---
 
 50 самых важных фотографий прошедшего года.

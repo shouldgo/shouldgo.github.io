@@ -6,6 +6,7 @@ tags:
 - europe
 - photoblog
 - travel
+image: /assets/images/2020/01/DSCF7503.jpg
 ---
 
 ## Ещё один Новый год на Кипре

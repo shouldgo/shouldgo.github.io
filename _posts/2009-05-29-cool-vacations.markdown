@@ -5,6 +5,7 @@ date: '2009-05-29 10:41:00'
 tags:
 - photoblog
 - russia
+image: /assets/images/2017/10/IMG_8963----.jpg
 ---
 
 Посвящаю ему 2 фотографии, штоле.

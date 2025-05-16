@@ -5,6 +5,7 @@ date: '2010-07-05 21:05:00'
 tags:
 - photoblog
 - russia
+image: /assets/images/2017/10/heart_of_glass_by_shouldgo.jpg
 ---
 
 Июнь оказался большой надувной уткой,&nbsp;красивой и обещавшей новые горизонты,&nbsp;но напоровшейся на камень.

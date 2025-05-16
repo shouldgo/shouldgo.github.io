@@ -6,6 +6,7 @@ tags:
 - travel
 - europe
 - videos
+image: /assets/images/2017/09/IMG_0013.jpg
 ---
 
 Всего в 150 километрах от [Амстердама](http://shouldgo.ru/amsterdamster/ "Амстердам. Самый скучный город на нашем пути") находится город [Антверпен](http://en.wikipedia.org/wiki/Antwerp), куда мы благополучно добрались за пару часов на автобусе от [Eurolines](http://www.eurolines.com/en/).

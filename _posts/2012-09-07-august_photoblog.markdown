@@ -6,6 +6,7 @@ tags:
 - russia
 - photoblog
 - videos
+image: /assets/images/2017/10/0_IMG_8927.jpg
 ---
 
 Привет, бложек, как бы говорит православный [Серёжа](https://twitter.com/nikovneostalos)!

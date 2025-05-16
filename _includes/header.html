@@ -1,16 +1,21 @@
 <header class="site-header" role="banner">
-
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- if page_paths -%}
       <nav class="flex site-nav">
-        <a class="site-title" rel="author" href="{{ "/" | relative_url }}" title="{{ site.title | escape }}">shouldgo.me</a
-        <div class="trigger">
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}" title="{{ site.title | escape }}">shouldgo.me</a>
+        <div class="nav-links">
+          <a class="text-s page-link" href="https://facebook.com/shouldgo">фейсбук</a>
+          <a class="text-s page-link" href="https://linkedin.com/in/shouldgo">линкедин</a>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <a class="text-s page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            {%- if my_page.title and my_page.path != 'CLAUDE.md' -%}
+              {% if my_page.path == 'about.markdown' %}
+                <a class="text-s page-link" href="{{ my_page.url | relative_url }}">эбаут</a>
+              {% else %}
+                <a class="text-s page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {% endif %}
             {%- endif -%}
           {%- endfor -%}
         </div>

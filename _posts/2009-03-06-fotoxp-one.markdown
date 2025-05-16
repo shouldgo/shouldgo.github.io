@@ -5,6 +5,7 @@ date: '2009-03-06 21:10:00'
 tags:
 - photoblog
 - russia
+image: /assets/images/2017/10/imperfection_of_lines_by_shouldgo.jpg
 ---
 
 Я,&nbsp;отнюдь,&nbsp;не оригинален в данном вопросе и,&nbsp;как огромное количество других идиотов,&nbsp;разработал простейшую структуру собственного блога:

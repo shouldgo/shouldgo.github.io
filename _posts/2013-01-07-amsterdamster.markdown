@@ -5,6 +5,7 @@ date: '2013-01-07 02:01:00'
 tags:
 - europe
 - travel
+image: /assets/images/2017/09/IMG_1770.jpg
 ---
 
 Узнав о том, что мы собираемся в [Амстердам](http://en.wikipedia.org/wiki/Amsterdam), кудрявый [Apple Genius](http://www.apple.com/retail/geniusbar/) из дрезденского яблочного магазина сказал: _«Awwww, you’ll love it, guys! It’s like Venice, but not smelly!»_

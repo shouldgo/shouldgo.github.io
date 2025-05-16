@@ -4,6 +4,7 @@ title: Конец реки и тень Человека-с-Фотоаппара�
 date: '2009-05-15 20:18:00'
 tags:
 - russia
+image: /assets/images/2017/10/Screen-Shot-2017-10-09-at-21.14.12-1.jpg
 ---
 
 > I’ve been waiting for a guide to come and take me by the hand.  

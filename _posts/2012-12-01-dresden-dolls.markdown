@@ -5,6 +5,7 @@ date: '2012-12-01 22:48:00'
 tags:
 - travel
 - europe
+image: /assets/images/2017/09/drsdn0.jpg
 ---
 
 Переезд из Праги в [Дрезден](http://en.wikipedia.org/wiki/Dresden) обошелся нам в два с половиной часа времени и&nbsp;€37 на двоих за бас от [Евролайнс](http://www.eurolines.com/en/).

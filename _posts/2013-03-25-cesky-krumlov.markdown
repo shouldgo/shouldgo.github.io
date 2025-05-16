@@ -5,6 +5,7 @@ date: '2013-03-25 11:56:02'
 tags:
 - europe
 - travel
+image: /assets/images/2017/09/IMG_0062.jpg
 ---
 
 Оставив позади [Дрезден](http://shouldgo.ru/dresden-dolls/ "Дрезден со всех сторон. То есть с одной"), [Берлин](http://shouldgo.ru/berlin-sights/ "Их бин ейн Берлинер! Достопримечательности"), [Гамбург](http://shouldgo.ru/hamburg-ers/ "Гамбург. Портовый город портовый во всем"), [Амстердам](http://shouldgo.ru/amsterdamster/ "Амстердам. Самый скучный город на нашем пути") и [Брюгге](http://shouldgo.ru/in-bruges/ "Брюгге. Всем залечь на днище") мы снова въехали на территорию Чешской республики.

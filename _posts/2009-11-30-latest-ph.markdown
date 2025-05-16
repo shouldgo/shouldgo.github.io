@@ -5,6 +5,7 @@ date: '2009-11-30 23:12:00'
 tags:
 - photoblog
 - russia
+image: /assets/images/2017/10/october_by_shouldgo.jpg
 ---
 
 Нащелкал говнева, а вы страдайте от ряби во френдленте. Похайрезнее – тута [http://shouldgo.deviantart.com](http://shouldgo.deviantart.com)

@@ -5,6 +5,7 @@ date: '2020-05-03 16:11:17'
 tags:
 - europe
 - travel
+image: /assets/images/2020/05/IMG_2264.jpg
 ---
 
 ## Плохой Париж

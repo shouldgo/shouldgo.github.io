@@ -14,13 +14,13 @@ layout: default
       {%- for post in site.posts -%}
       <li class="flex post-card">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <div class="post-image"></div>
+        <div class="post-image" {% if post.image %}style="background-image: url('{{ post.image | relative_url }}');"{% endif %}></div>
         <div class="flex post-info">
           <h3 class="post-title">
             <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title | escape }}</a>
           </h3>
           <div class="post-description">
-            <p class="text-s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+            <p class="text-s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
           </div> 
           <span class="post-meta">{{ post.date | date: date_format }}</span>
         </div>
