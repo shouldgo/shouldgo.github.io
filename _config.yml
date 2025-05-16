@@ -34,6 +34,10 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  
+# Excerpt settings
+show_excerpts: false # We're using our own excerpt display in the post cards
+excerpt_separator: <!--more--> # Optional custom excerpt separator
 
 # Exclude from processing.
 # The following items will not be processed, by default.

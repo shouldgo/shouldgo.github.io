@@ -20,7 +20,7 @@ layout: default
             <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title | escape }}</a>
           </h3>
           <div class="post-description">
-            <p class="text-s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+            <p class="text-s">{{ post.excerpt | strip_html | truncate: 300 }}</p>
           </div> 
           <span class="post-meta">{{ post.date | date: date_format }}</span>
         </div>

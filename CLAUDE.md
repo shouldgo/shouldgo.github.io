@@ -87,3 +87,7 @@ The site is automatically deployed to GitHub Pages when changes are pushed to th
 ## Styling
 
 The site uses a custom design based on the Minima theme. The main stylesheet is in `assets/main.scss`.
+
+## Memories
+
+- never offer to jekyll serve, I'll do it myself
