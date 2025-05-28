@@ -14,15 +14,24 @@ layout: default
       {%- for post in site.posts -%}
       <li class="flex post-card">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <div class="post-image" {% if post.image %}style="background-image: url('{{ post.image | relative_url }}');"{% endif %}></div>
+        <!--<div class="post-image" {% if post.image %}style="background-image: url('{{ post.image | relative_url }}');"{% endif %}></div>-->
+        <div class="post-image">
+          <a href="{{ post.url | relative_url }}" class="post-image-link">
+          {% if post.image %}
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="post-image-img">
+          {% else %}
+            <img src="{{ site.baseurl }}/assets/images/default-image.jpg" alt="Default Image" class="post-image-img">
+          {% endif %}
+          </a>
+        </div>
         <div class="flex post-info">
-          <h3 class="post-title">
+          <h2 class="post-title">
             <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title | escape }}</a>
-          </h3>
+          </h2>
           <div class="post-description">
             <p class="text-s">{{ post.excerpt | strip_html | truncate: 300 }}</p>
           </div> 
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <span class="text-xs post-meta">{{ post.date | date: date_format }}</span>
         </div>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
