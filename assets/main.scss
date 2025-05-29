@@ -16,7 +16,7 @@ html, body {
 body {
   background: #F7F7F7;
   color: #1A1A1A;
-  font-family: 'Noto Serif', 'Times New Roman', Georgia, serif;
+  font-family: 'Georgia', 'Times New Roman', serif;
   font-size: 16px;
   line-height: 1.65;
   font-weight: 400;
@@ -41,10 +41,8 @@ p, li { margin-bottom: 0.8em; }
 
 ul {
    list-style-position: inside;
-}
 
-ul:has(li img) {
-    list-style: none;
+   &:has(li img) { list-style: none; }
 }
 
 a {
@@ -91,7 +89,7 @@ img {
   gap: 2em;
 
   a {
-    color: #c6c5c3;
+    color: #9c9c9c;
     &:hover, &.active { color: inherit; }
   }
 }
@@ -122,7 +120,6 @@ img {
 
 .burger-toggle:checked + .burger + .nav-links {
   display: flex;
-  flex-direction: column;
 }
 
 /* POST CARDS */
@@ -220,6 +217,7 @@ img {
       flex-direction: row;
       gap: 1.5em;
       min-width: 100%;
+      height: 400px;
 
       .post-info {
         gap: 1.5em;
