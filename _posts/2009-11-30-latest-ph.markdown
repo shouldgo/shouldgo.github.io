@@ -1,22 +1,16 @@
 ---
 layout: post
-title: Латест пшотос
+title: Ноябрьский фотоблог
 date: '2009-11-30 23:12:00'
 tags:
-- photoblog
-- russia
-image: /assets/images/2017/10/october_by_shouldgo.jpg
+- photo
+image: /assets/images/2017/10/aboard_by_shouldgo.jpg
 ---
 
-Нащелкал говнева, а вы страдайте от ряби во френдленте. Похайрезнее – тута [http://shouldgo.deviantart.com](http://shouldgo.deviantart.com)
+Нащелкал говнева, а вы страдайте.
 
-![october_by_shouldgo](/assets/images/2017/10/october_by_shouldgo.jpg)
-
-![aboard_by_shouldgo](/assets/images/2017/10/aboard_by_shouldgo.jpg)
-
-![lady_stardust_by_shouldgo](/assets/images/2017/10/lady_stardust_by_shouldgo.jpg)
-
-![sneer_by_shouldgo](/assets/images/2017/10/sneer_by_shouldgo.jpg)
-
-![fairyway_by_shouldgo](/assets/images/2017/10/fairyway_by_shouldgo.jpg)
-
+![October, by shouldgo](/assets/images/2017/10/october_by_shouldgo.jpg)
+![Aboard, by shouldgo](/assets/images/2017/10/aboard_by_shouldgo.jpg)
+![Lady Stardust, by shouldgo](/assets/images/2017/10/lady_stardust_by_shouldgo.jpg)
+![Sneer, by shouldgo](/assets/images/2017/10/sneer_by_shouldgo.jpg)
+![Fairyway, by shouldgo](/assets/images/2017/10/fairyway_by_shouldgo.jpg)

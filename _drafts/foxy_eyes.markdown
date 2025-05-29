@@ -31,4 +31,3 @@ Into the fight with your fever
 Into the wild and up to the only window.
 
 go. 2010
-

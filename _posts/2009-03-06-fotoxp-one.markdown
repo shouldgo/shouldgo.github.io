@@ -1,10 +1,9 @@
 ---
 layout: post
-title: 'Фотоэкспириенс раз:'
+title: 'Без малого нюдсы'
 date: '2009-03-06 21:10:00'
 tags:
-- photoblog
-- russia
+- photo
 image: /assets/images/2017/10/imperfection_of_lines_by_shouldgo.jpg
 ---
 
@@ -14,6 +13,5 @@ image: /assets/images/2017/10/imperfection_of_lines_by_shouldgo.jpg
 
 Далее следует первая порция обещанных мною пикчуурезов:
 
-![imperfection_of_lines_by_shouldgo](/assets/images/2017/10/imperfection_of_lines_by_shouldgo.jpg)
-
-![partially_mute_by_shouldgo](/assets/images/2017/10/partially_mute_by_shouldgo.jpg)
+![Imperfection of lines](/assets/images/2017/10/imperfection_of_lines_by_shouldgo.jpg)
+![Partially Mute](/assets/images/2017/10/partially_mute_by_shouldgo.jpg)

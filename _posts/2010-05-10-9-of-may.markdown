@@ -1,21 +1,18 @@
 ---
 layout: post
-title: Самый плохой в мире фотоотчет со Дня Победы
+title: День Победы в Екатеринбурге
 date: '2010-05-10 12:27:00'
 tags:
 - russia
-- photoblog
-image: /assets/images/2017/08/IMG_4865.jpg
+- photo
+- report
+image: /assets/images/2017/08/IMG_5097.jpg
 ---
 
 Фоток мало и все — говнище. Но это традиция. Буду тешиться тем,&nbsp;что даже у [Нехватита](http://twitter.com/nexvatit) с творческим фишаем получилось говно,&nbsp;пусть и чуть менее говеное:
 
 ![IMG_4865](/assets/images/2017/08/IMG_4865.jpg)
-
 ![IMG_4633](/assets/images/2017/08/IMG_4633.jpg)
-
 ![IMG_5097](/assets/images/2017/08/IMG_5097.jpg)
-
 ![IMG_4510](/assets/images/2017/08/IMG_4510.jpg)
-
 ![IMG_4731-1](/assets/images/2017/08/IMG_4731-1.jpg)

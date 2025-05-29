@@ -1,23 +1,17 @@
 ---
 layout: post
-title: Отпуск был клевы
+title: Портреты из отпуска
 date: '2009-05-29 10:41:00'
 tags:
-- photoblog
-- russia
-image: /assets/images/2017/10/IMG_8963----.jpg
+- photo
+- friends
+image: /assets/images/2017/10/IMG_1045-2.jpg
 ---
 
-Посвящаю ему 2 фотографии, штоле.
+Отпуск был клевы. Посвящаю ему эти фотографии.
 
-![IMG_8963----](/assets/images/2017/10/IMG_8963----.jpg)
-
-![IMG_8973-21](/assets/images/2017/10/IMG_8973-21.jpg)
-
-Анна Ванна - няшечка ^^
-
-![IMG_1045-2](/assets/images/2017/10/IMG_1045-2.jpg)
-
-![IMG_1059](/assets/images/2017/10/IMG_1059.jpg)
-
-![IMG_1075-copy](/assets/images/2017/10/IMG_1075-copy.jpg)
+![](/assets/images/2017/10/IMG_8963.jpg)
+![](/assets/images/2017/10/IMG_8973-21.jpg)
+![](/assets/images/2017/10/IMG_1045-2.jpg)
+![](/assets/images/2017/10/IMG_1059.jpg)
+![](/assets/images/2017/10/IMG_1075-copy.jpg)

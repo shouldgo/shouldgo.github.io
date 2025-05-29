@@ -16,7 +16,7 @@ html, body {
 body {
   background: #F7F7F7;
   color: #1A1A1A;
-  font-family: 'Georgia', 'Times New Roman', serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 16px;
   line-height: 1.65;
   font-weight: 400;
@@ -159,6 +159,17 @@ img {
   text-overflow: ellipsis;
 }
 
+.post-meta {
+  font-family: 'Tahoma', 'Arial', sans-serif;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.post-tags a { color:#c6c5c3; }
+
 /* POST CONTENT */
 
 .post-header {
@@ -168,7 +179,13 @@ img {
 
 .post-content {
   font-size: 1.125em;
-  img {margin: 1em 0;}
+  img { margin: 1em 0; }
+
+  iframe {
+    margin: 1em auto;
+    display: block;
+    max-width: 100%;
+  }
 }
 
 /* MEDIA QUERIES */
@@ -202,14 +219,13 @@ img {
   .post-list {
     flex-direction: row;
     flex-wrap: wrap;
-    row-gap: 3.75em;
-    column-gap: 2.5em;
+    gap: 3em;
   }
 
   .post-card {
-    flex: 1 1 calc(50% - 1.25em);
-    max-width: calc(50% - 1.25em);
-    height: 460px;
+    flex: 1 1 calc(50% - 1.5em);
+    max-width: calc(50% - 1.5em);
+    height: 400px;
     box-sizing: border-box;
 
     &:first-child {

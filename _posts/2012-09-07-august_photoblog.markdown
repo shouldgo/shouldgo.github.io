@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Усталый августовский фотобложек. Меньше и хуже!
+title: Усталый август
 date: '2012-09-07 20:02:00'
 tags:
-- russia
-- photoblog
-- videos
-image: /assets/images/2017/10/0_IMG_8927.jpg
+- photo
+- video
+image: /assets/images/2017/10/2_IMG_8368.jpg
 ---
 
 Привет, бложек, как бы говорит православный [Серёжа](https://twitter.com/nikovneostalos)!
@@ -35,4 +34,4 @@ image: /assets/images/2017/10/0_IMG_8927.jpg
 
 **В порядке факультатива:** небольшое видео с репетиции группы, в которой поет ртом [моя любимая жена](https://twitter.com/aluviana). Микрофон в камере жопный, так что не доебывайтесь, или купите мне внеху:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dj3AXOnbjoM" frameborder="0" allowfullscreen></iframe>
+<iframe width="920" height="517" src="https://www.youtube.com/embed/Dj3AXOnbjoM" frameborder="0" allowfullscreen></iframe>

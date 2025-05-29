@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Видеоблог PHOTOROBOT — выпуск 1
+title: Видеоблог PHOTOROBOT
 date: '2018-04-11 11:42:28'
 tags:
-- photoblog
-- videos
+- photo
+- video
+image: /assets/images/2018/04/photorobot.png
 ---
 
 <iframe width="920" height="517" src="https://www.youtube.com/embed/ZnLQekfNdPo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

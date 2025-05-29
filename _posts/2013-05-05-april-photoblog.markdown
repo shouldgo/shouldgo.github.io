@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Фотобложек упадническо-апрельский
+title: Упаднический апрель
 date: '2013-05-05 23:56:48'
 tags:
-- photoblog
-- russia
+- photo
 image: /assets/images/2017/09/IMG_3079.jpg
 ---
 
