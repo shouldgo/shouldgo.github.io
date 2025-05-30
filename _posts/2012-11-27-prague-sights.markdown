@@ -5,6 +5,7 @@ date: '2012-11-27 10:32:00'
 tags:
 - travel
 - europe
+- czechia
 image: /assets/images/2017/09/IMG_1287.jpg
 ---
 

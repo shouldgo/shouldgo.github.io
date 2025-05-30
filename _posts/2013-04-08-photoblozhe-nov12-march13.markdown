@@ -5,6 +5,7 @@ date: '2013-04-08 01:46:36'
 tags:
 - photo
 - video
+- notes
 image: /assets/images/2017/09/IMG_0925.jpg
 ---
 

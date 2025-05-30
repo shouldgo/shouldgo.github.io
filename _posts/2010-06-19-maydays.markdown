@@ -4,6 +4,7 @@ title: Майский фотоблог
 date: '2010-06-19 22:33:00'
 tags:
 - photo
+- notes
 image: /assets/images/2017/10/IMG_5134.jpg
 ---
 

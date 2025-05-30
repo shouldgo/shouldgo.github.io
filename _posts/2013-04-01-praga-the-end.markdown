@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Прага — конечная станция
+title: Прага — конечная станция
 date: '2013-04-01 03:25:39'
 tags:
 - travel
 - europe
+- czechia
 image: /assets/images/2017/09/IMG_2278.jpg
 ---
 

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Крумлов — мать деревень чешских
+title: Крумлов — мать деревень чешских
 date: '2013-03-25 11:56:02'
 tags:
-- europe
 - travel
+- europe
+- czechia
 image: /assets/images/2017/09/45752_original-2.jpg
 ---
 

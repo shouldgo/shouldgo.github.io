@@ -5,7 +5,7 @@ date: '2020-04-12 15:51:11'
 tags:
 - travel
 - europe
-- poland
+- polska
 image: /assets/images/2020/04/DSCF9168.jpg
 ---
 

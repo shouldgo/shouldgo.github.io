@@ -5,6 +5,7 @@ date: '2012-12-13 13:48:00'
 tags:
 - travel
 - europe
+- deutschland
 image: /assets/images/2017/09/berlin2_13.jpg
 ---
 

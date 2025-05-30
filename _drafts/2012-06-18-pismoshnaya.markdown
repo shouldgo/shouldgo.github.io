@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Мезенцев и Маркони
+title: Мезенцев и Маркони
 date: '2012-06-18 12:38:00'
 tags:
 - friends

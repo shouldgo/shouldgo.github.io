@@ -4,8 +4,10 @@ title: Выборы президента Польши 2025
 date: '2025-05-14 18:28:00'
 tags:
 - photo
+- report
 - politics
 - europe
+- polska
 image: /assets/images/2025/05/DSCF2702.jpg
 ---
 

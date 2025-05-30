@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Брюгге — как залечь на дно
+title: Брюгге — как залечь на дно
 date: '2013-03-10 01:46:00'
 tags:
 - travel
 - europe
-- video
 image: /assets/images/2017/09/IMG_1937.jpg
 ---
 

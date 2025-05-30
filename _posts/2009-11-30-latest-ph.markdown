@@ -4,6 +4,7 @@ title: Ноябрьский фотоблог
 date: '2009-11-30 23:12:00'
 tags:
 - photo
+- notes
 image: /assets/images/2017/10/aboard_by_shouldgo.jpg
 ---
 

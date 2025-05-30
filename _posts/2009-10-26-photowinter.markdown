@@ -4,6 +4,7 @@ title: Первые признаки увядания
 date: '2009-10-26 13:50:00'
 tags:
 - photo
+- notes
 image: /assets/images/2017/09/IMG_8632.jpg
 ---
 

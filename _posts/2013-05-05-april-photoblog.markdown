@@ -4,6 +4,7 @@ title: Упаднический апрель
 date: '2013-05-05 23:56:48'
 tags:
 - photo
+- notes
 image: /assets/images/2017/09/IMG_3079.jpg
 ---
 
@@ -48,4 +49,3 @@ image: /assets/images/2017/09/IMG_3079.jpg
 ![IMG_4880](/assets/images/2017/10/UNADJUSTEDNONRAW_thumb_3a4e.jpg)
 
 Такие дела.
-

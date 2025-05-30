@@ -5,7 +5,7 @@ date: '2018-01-10 19:35:22'
 tags:
 - photo
 - notes
-- yearly
+- annual
 image: /assets/images/2018/01/DSCF8769.jpg
 ---
 

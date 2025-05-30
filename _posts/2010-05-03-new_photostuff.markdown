@@ -4,6 +4,7 @@ title: Тестдрайв нового объектива
 date: '2010-05-03 15:18:00'
 tags:
 - photo
+- notes
 image: /assets/images/2017/09/IMG_1594-1.jpg
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title: Амстердам для скучных
 date: '2013-01-07 02:01:00'
 tags:
-- europe
 - travel
+- europe
 image: /assets/images/2017/09/IMG_1741.jpg
 ---
 

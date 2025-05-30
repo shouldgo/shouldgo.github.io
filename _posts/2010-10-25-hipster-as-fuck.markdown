@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hipster as fuck ©
+title: Hipster as fuck ©
 date: '2010-10-25 18:28:00'
 tags:
 - photo
