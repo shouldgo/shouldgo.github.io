@@ -278,3 +278,29 @@ img {
   }
 
 }
+
+@media (min-width: 1024px) {
+  .post-content ul:has(li img) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    list-style: none;
+    padding: 0;
+    margin: 0 0 2em 0;
+  }
+  .post-content ul:has(li img) li {
+    flex: 1 1 calc(50% - 0.5em);
+    max-width: calc(50% - 0.5em);
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+  }
+  .post-content ul:has(li img) img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+  }
+}
