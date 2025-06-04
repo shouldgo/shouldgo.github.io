@@ -7,7 +7,7 @@ tags:
 - europe
 - asia
 - turkiye
-image: /assets/images/2017/09/img_4445.jpg
+image: /assets/images/2017/09/IMG_4465.jpg
 ---
 
 Попытки запихать весь [Стамбул в пару публикаций](/blog/tag/istanbul/ "все посты про Стамбул")— не самое разумное занятие, да и совершенно бесполезное.
