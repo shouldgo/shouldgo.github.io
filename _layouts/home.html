@@ -13,7 +13,7 @@ layout: default
     <ul class="flex post-list">
       {% for post in paginator.posts %}
       <li class="flex post-card">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {%- assign date_format = site.minima.date_format | default: "%d.%m.%Y" -%}
         <div class="post-image">
           <a href="{{ post.url | relative_url }}" class="post-image-link">
           {% if post.image %}
