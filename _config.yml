@@ -38,6 +38,8 @@ plugins:
   - jekyll-seo-tag # https://github.com/jekyll/jekyll-seo-tag
   - jekyll-sitemap # https://github.com/jekyll/jekyll-sitemap
   - jekyll-paginate # https://jekyllrb.com/docs/pagination/
+  - jekyll-paginate-v2
+  - jekyll-multiple-languages-plugin
   
 # Excerpt settings
 show_excerpts: false # We're using our own excerpt display in the post cards

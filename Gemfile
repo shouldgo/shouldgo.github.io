@@ -39,3 +39,5 @@ gem "webrick", "~> 1.8"
 gem 'safe_yaml', '~> 1.0', '>= 1.0.5'
 gem 'sequel', '~> 5.79'
 gem 'sqlite3', '~> 2.0', '>= 2.0.1'
+gem "jekyll-paginate-v2"
+gem "jekyll-multiple-languages-plugin"
