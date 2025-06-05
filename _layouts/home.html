@@ -9,9 +9,9 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+  {%- if paginator.posts and paginator.posts.size > 0 -%}
     <ul class="flex post-list">
-      {%- for post in site.posts -%}
+      {% for post in paginator.posts %}
       <li class="flex post-card">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <div class="post-image">
@@ -50,6 +50,54 @@ layout: default
       {%- endfor -%}
     </ul>
 
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="flex serif pagination">
+
+  <!-- Link to first page) -->
+  {% if paginator.page > 1 %}
+    <a href="{{ site.paginate_path | relative_url | replace: ':num', 1 | replace: 'page1/', '' }}">← Начало</a>
+  {% else %}
+    <span>← Начало</span>
+  {% endif %}
+
+  {% assign current = paginator.page %}
+  {% assign total = paginator.total_pages %}
+  {% assign range = 2 %}
+  {% assign start = current | minus: range %}
+  {% assign end = current | plus: range %}
+
+  {% if start < 1 %}
+    {% assign end = end | plus: 1 | minus: start %}
+    {% assign start = 1 %}
+  {% endif %}
+  {% if end > total %}
+    {% assign start = start | minus: end | plus: total %}
+    {% assign end = total %}
+  {% endif %}
+  {% if start < 1 %}{% assign start = 1 %}{% endif %}
+
+  <!-- Page numbers (always 5 when possible) -->
+  {% for i in (start..end) %}
+    {% if i == current %}
+      <span class="pagination-current">{{ i }}</span>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', i | replace: 'page1/', '' }}">{{ i }}</a>
+    {% endif %}
+  {% endfor %}
+
+  <!-- Конец (link to last page) -->
+  {% if paginator.page < paginator.total_pages %}
+    <a href="{{ site.paginate_path | relative_url | replace: ':num', paginator.total_pages | replace: 'page1/', '' }}">Конец →</a>
+  {% else %}
+    <span>Конец →</span>
+  {% endif %}
+
+</div>
+{% endif %}
+
+  {%- else -%}
+    <p>No posts found.</p>
   {%- endif -%}
 
 </div>

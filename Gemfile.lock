@@ -16,10 +16,6 @@ GEM
       uri (>= 0.13.1)
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
-    amp-jekyll (1.0.3)
-      fastimage (>= 1.8.0)
-      jekyll (>= 3.0, < 5.0)
-      nokogiri (>= 1.6.0)
     base64 (0.2.0)
     benchmark (0.4.0)
     bigdecimal (3.1.9)
@@ -50,7 +46,6 @@ GEM
       logger
     faraday-net_http (3.4.0)
       net-http (>= 0.5.0)
-    fastimage (2.4.0)
     ffi (1.17.2)
     ffi (1.17.2-aarch64-linux-gnu)
     ffi (1.17.2-aarch64-linux-musl)
@@ -346,7 +341,6 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  amp-jekyll
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
