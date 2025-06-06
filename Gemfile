@@ -18,7 +18,8 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
-  gem 'jekyll-paginate'
+  gem 'jekyll-paginate-v2'
+  gem 'jekyll-loading-lazy'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -39,5 +40,3 @@ gem "webrick", "~> 1.8"
 gem 'safe_yaml', '~> 1.0', '>= 1.0.5'
 gem 'sequel', '~> 5.79'
 gem 'sqlite3', '~> 2.0', '>= 2.0.1'
-gem "jekyll-paginate-v2"
-gem "jekyll-multiple-languages-plugin"

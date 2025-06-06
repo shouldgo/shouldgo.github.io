@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
+  <!--{%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  {%- endif -%}-->
 
   {{ content }}
 
@@ -56,7 +56,7 @@ layout: default
 
   <!-- Link to first page) -->
   {% if paginator.page > 1 %}
-    <a href="{{ site.paginate_path | relative_url | replace: ':num', 1 | replace: 'page1/', '' }}">← Начало</a>
+    <a href="{{ '/' | relative_url }}">← Начало</a>
   {% else %}
     <span>← Начало</span>
   {% endif %}
@@ -82,13 +82,17 @@ layout: default
     {% if i == current %}
       <span class="pagination-current">{{ i }}</span>
     {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', i | replace: 'page1/', '' }}">{{ i }}</a>
+      {% if i == 1 %}
+        <a href="{{ '/' | relative_url }}">{{ i }}</a>
+      {% else %}
+        <a href="{{ '/page' | append: i | relative_url }}">{{ i }}</a>
+      {% endif %}
     {% endif %}
   {% endfor %}
 
   <!-- Конец (link to last page) -->
   {% if paginator.page < paginator.total_pages %}
-    <a href="{{ site.paginate_path | relative_url | replace: ':num', paginator.total_pages | replace: 'page1/', '' }}">Конец →</a>
+    <a href="{{ '/page' | append: paginator.total_pages | relative_url }}">Конец →</a>
   {% else %}
     <span>Конец →</span>
   {% endif %}
