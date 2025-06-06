@@ -2,7 +2,7 @@
 layout: page
 title: Кто такой Дима Афонин?
 permalink: /dima-afonin/
-description:  Какие секреты зарыты в его грязном белье? Сенсационные ответы на все вопросы ищите на этой странице!
+description:  Какие секреты зарыты в его грязном белье? Сенсационные ответы на все вопросы ищите на этой странице!
 image: /assets/images/2017/08/DSCF3332.jpg
 lang: ru
 ---
@@ -19,7 +19,7 @@ lang: ru
 
 Пишу о фотографии, путешествиях и о фотографии из путешествий. А от вас мне нужны только лайки и репосты, потому что я — эгоист и очень плохой человек!
 
-Написать мне можно в [Фейсбук](https://facebook.com/dima.afonin), [Телеграм](http://telegram.me/shouldgo) или на [почту](mailto:shouldgo@me.com). Но лучше не надо.
+Написать мне можно в [Фейсбук](https://facebook.com/dima.afonin), [Телеграм](http://telegram.me/shouldgo) или на [почту](mailto:shouldgo@me.com). Но лучше не надо.
 
 ![](assets/images/2017/09/1.jpg)
 - ![](assets/images/2025/04/DSCF0648.jpg)
