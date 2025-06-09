@@ -7,10 +7,10 @@
 # and they will be accessible in the templates via {{ site.myvariable }}.
 
 # Site settings
-title: Блог Димы Афонина
+title: Dima Afonin | Personal Blog
 email: shouldgo@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Фотография, путешествия и фотографии из путешествий.
+  Photography, travel, and travel photography.
 domain: shouldgo.me
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://shouldgo.me # the base hostname & protocol for your site, e.g. http://example.com
@@ -26,7 +26,13 @@ plugins:
   - jekyll-sitemap # https://github.com/jekyll/jekyll-sitemap
   - jekyll-paginate-v2 # https://github.com/sverrirs/jekyll-paginate-v2
   - jekyll-loading-lazy # https://github.com/gildesmarais/jekyll-loading-lazy 
-  
+  - jekyll-multiple-languages-plugin # https://github.com/kurtsson/jekyll-multiple-languages-plugin
+
+# Multiple languages settings
+languages: ["ru", "en"]
+exclude_from_localizations: ["javascript", "images", "css"]
+default_lang: "ru"
+
 # Excerpt settings
 show_excerpts: false # We're using our own excerpt display in the post cards
 excerpt_separator: <!--more--> # Optional custom excerpt separator

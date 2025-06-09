@@ -3,9 +3,6 @@ layout: default
 ---
 
 <div class="home">
-  <!--{%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}-->
 
   {{ content }}
 
@@ -17,9 +14,9 @@ layout: default
         <div class="post-image">
           <a href="{{ post.url | relative_url }}" class="post-image-link">
           {% if post.image %}
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="post-image-img">
+            <img src="{{ post.image | prepend: site.baseurl_root }}" alt="{{ post.title | escape }}" class="post-image-img">
           {% else %}
-            <img src="{{ site.baseurl }}/assets/images/default-image.jpg" alt="Default Image" class="post-image-img">
+            <img src="{{ site.baseurl_root }}/assets/images/default-image.jpg" alt="Default Image" class="post-image-img">
           {% endif %}
           </a>
         </div>
@@ -56,9 +53,9 @@ layout: default
 
   <!-- Link to first page) -->
   {% if paginator.page > 1 %}
-    <a href="{{ '/' | relative_url }}">← Начало</a>
+    <a href="{{ '/' | relative_url }}">{% t paginate.first %}</a>
   {% else %}
-    <span>← Начало</span>
+    <span>{% t paginate.first %}</span>
   {% endif %}
 
   {% assign current = paginator.page %}
@@ -92,16 +89,16 @@ layout: default
 
   <!-- Конец (link to last page) -->
   {% if paginator.page < paginator.total_pages %}
-    <a href="{{ '/page' | append: paginator.total_pages | relative_url }}">Конец →</a>
+    <a href="{{ '/page' | append: paginator.total_pages | relative_url }}">{% t paginate.last %}</a>
   {% else %}
-    <span>Конец →</span>
+    <span>{% t paginate.last %}</span>
   {% endif %}
 
 </div>
 {% endif %}
 
   {%- else -%}
-    <p>No posts found.</p>
+    <p>{% t paginate.zero %}</p>
   {%- endif -%}
 
 </div>

@@ -143,14 +143,14 @@ img {
     display: block;
     padding: 0.5em 1em;
     text-align: center;
-    color: #c6c5c3;
+    color: #9c9c9c;
 
       &:first-child { margin-right: auto;  padding: 0.5em 0;}
       &:last-child { margin-left: auto; padding: 0.5em 0; }
   }
 }
 
-.pagination-current { color: #1A1A1A; }
+.pagination-current { color: #1A1A1A; font-weight: 600;}
 .pagination-next, .pagination-back { padding: 0.5em 0; }
 
 /* POST CARDS */
@@ -271,7 +271,7 @@ img {
       min-width: 100%;
 
       .post-info {
-        gap: 1.5em;
+        gap: .75em;
         min-width: 30%;
         max-width: 328px;
         justify-content: center;

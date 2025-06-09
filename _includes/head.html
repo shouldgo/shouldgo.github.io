@@ -3,20 +3,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | | prepend: site.baseurl_root }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
   
   <!-- Standard Favicon -->
-  <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" type="image/x-icon">
-  <link rel="shortcut icon" href="{{ '/assets/favicon.ico' | relative_url }}" type="image/x-icon">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32x32.png' | relative_url }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicon-16x16.png' | relative_url }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
-  <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/android-chrome-192x192.png' | relative_url }}">
-  <link rel="icon" type="image/png" sizes="512x512" href="{{ '/assets/android-chrome-512x512.png' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/icon/favicon.ico' | | prepend: site.baseurl_root }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ '/assets/icon/favicon.ico' | | prepend: site.baseurl_root }}" type="image/x-icon">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/icon/favicon-32x32.png' | | prepend: site.baseurl_root }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/icon/favicon-16x16.png' | | prepend: site.baseurl_root }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/icon/apple-touch-icon.png' | | prepend: site.baseurl_root }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/icon/android-chrome-192x192.png' | | prepend: site.baseurl_root }}">
+  <link rel="icon" type="image/png" sizes="512x512" href="{{ '/assets/icon/android-chrome-512x512.png' | | prepend: site.baseurl_root }}">
   
   <!-- Open Graph -->
   <meta property="og:site_name" content="{{ site.title }}">
@@ -24,7 +24,7 @@
   <meta property="og:title" content="{{ page.title | default: site.title }}">
   <meta property="og:description" content="{{ page.excerpt | strip_html | default: site.description }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <meta property="og:image" content="{{ page.image | default: '/assets/og-image.jpg' | absolute_url }}">
+  <meta property="og:image" content="{{ page.image | default: '/assets/images/og-image.jpg' | | prepend: site.baseurl_root }}">
   <meta property="og:locale" content="en_US">
   <meta property="article:publisher" content="https://www.facebook.com/dima.afonin">
 
@@ -33,6 +33,6 @@
   <meta name="twitter:title" content="{{ page.title | default: site.title }}">
   <meta name="twitter:description" content="{{ page.excerpt | strip_html | default: site.description }}">
   <meta name="twitter:url" content="{{ page.url | absolute_url }}">
-  <meta name="twitter:image" content="{{ page.image | default: '/assets/og-image.jpg' | absolute_url }}">
+  <meta name="twitter:image" content="{{ page.image | default: '/assets/images/og-image.jpg' | | prepend: site.baseurl_root }}">
   <meta name="twitter:site" content="@shouldgo">
 </head>
