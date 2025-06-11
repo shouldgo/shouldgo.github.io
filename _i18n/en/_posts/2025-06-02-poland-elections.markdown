@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Выборы президента Польши 2025
+title: Poland’s 2025 Political Rift
 date: '2025-06-02 18:28:00'
 tags:
 - photo
@@ -11,76 +11,76 @@ tags:
 image: /assets/images/2025/05/DSCF2702.jpg
 ---
 
-1 июня поляки выбирали нового президента. Старый достался в&nbsp;наследство от&nbsp;прежней правящей коалиции, состоявшей из&nbsp;национал-консерваторов. Но&nbsp;он&nbsp;отслужил свои два срока и&nbsp;улетает в&nbsp;закат, оставляя хемтрейл бестолковых мемов.
+On June 1st, Poles were electing a new president. The old one, inherited from the previous ruling coalition of national-conservatives, served his sentence, and is ready to ride off into the sunset, leaving a chemtrail of not-so-funny political memes.
 
 ![](/assets/images/2025/05/DSCF2702.jpg)
 
-Нынешнее правительство собрано из&nbsp;коалиции условно-либеральных партий, вернувших большинство в&nbsp;Сейме после восьми лет в&nbsp;оппозиции. Старый президент был для них занозой, блокировавшей большинство либеральных реформ.
+The current government was formed in late 2023 by a coalition of somewhat liberal parties that regained their majority in the Sejm after eight years in opposition. The old president was a thorn in their ass, allegedly blocking most liberal reforms.
 
-Польше приходится донашивать кучу других социально-политических проблем, но&nbsp;отсутствие честных выборов в&nbsp;список таковых не&nbsp;входят. Элекции в&nbsp;Польше идут почти без перерывов и&nbsp;баланс сил постоянно качается в&nbsp;обе стороны.
+Poland faces many other socio-political problems, but the lack of fair elections isn’t one of them — at least not yet. Elections in Poland are almost constant, and the balance of power swings back and forth.
 
 ![](/assets/images/2025/05/DSCF2638.jpg)
 - ![](/assets/images/2025/05/DSCF2139.jpg)
 - ![](/assets/images/2025/05/DSCF2425.jpg)
 
-Прошлые президентские выборы проходили на&nbsp;фоне пандемии и&nbsp;закончились поражением либерального кандидата со&nbsp;счётом 51/49 во&nbsp;втором тайме. Поэтому ставка в&nbsp;этот раз была максимально высокой&nbsp;&mdash; полная власть или полный провал.
+The last presidential election took place during the pandemic and ended with the liberal candidate losing 51/49 in the second round. So this time, the stakes were sky-high — total power or total failure.
 
-Программа кандидата либеральной коалиции не&nbsp;соответствовала моим представлениям о&nbsp;прекрасном, но&nbsp;посколку симпатичные мне левые кандидат_ки отпали первом туре, я&nbsp;аккуратно надеялся на&nbsp;&laquo;меньшее плохой вариант&raquo;.
+The liberal coalition candidate’s platform wasn’t perfect in my view, but since all the leftish candidates of my choice dropped out in the first round, I had to cross my fingers for the “lesser evil.”
 
 ![](/assets/images/2025/05/DSCF2648.jpg)
 ![](/assets/images/2025/05/DSCF2779.jpg)
 
-Президентские выборы закончился двумя рекордами: самой высокой явкой и&nbsp;самым низким перевесом голосов&nbsp;&mdash; кандидат от&nbsp;правой консервативной партии выиграл 50.89 к&nbsp;49.11&nbsp;&mdash; разница такая, что можно просто кинуть монетку.
+These elections broke two records: the highest turnout and the narrowest margin of victory. The right-wing conservative candidate won 50.89 to 49.11 — a difference so small, you might as well flip a coin.
 
-Финал был предельно кинематографичный: предвыборные опросы фиксировали незначительный перевес либералов, в&nbsp;экзит-полах их&nbsp;отрыв снизился до&nbsp;0.6%, но&nbsp;к&nbsp;лейт-полам весы качнулись в&nbsp;правую сторону и&nbsp;застыли там уже до&nbsp;конца.
+The finale was very dramatic: pre-election polls showed a slight liberal lead, exit polls narrowed their advantage to 0.6%, but by the late polls the scales tipped right and stayed there until the end.
 
 ![](/assets/images/2025/05/elections-graph.png)
 ![](/assets/images/2025/05/elections-map.png)
 
-При беглом взгляде на&nbsp;карту голосования кажется, что либералы залили рыжим цветом большую часть страны&nbsp;&mdash; то&nbsp;есть взяли большинство голосов в&nbsp;большей части регионов. Но&nbsp;их&nbsp;не&nbsp;хватило, чтобы перевесить консервативный восток.
+At first glance, the voting map makes it look like the liberals painted most of the country orange — meaning they took the majority in most regions. But it wasn’t enough to outweigh the conservative east.
 
-Если копать глубже, найдутся и&nbsp;другие разломы: между городом и&nbsp;селом, дамами и&nbsp;господами, бумерами и&nbsp;зумерами. Но&nbsp;в&nbsp;общей картине всё выглядит так, что страна порвалась ровно посредине, и&nbsp;её не&nbsp;сшить никакими нитками.
+Dig deeper and you’ll find other divides: between city and countryside, women and men, boomers and zoomers. But overall, it looks like the country split right down the middle, and no thread can stitch it back together.
 
-Даже с&nbsp;учётом очевидной симпатии к&nbsp;либеральному лагерю, вынужден признать, что это был феерический провал, ответственность за&nbsp;который нельзя слить на&nbsp;бедные регионы и&nbsp;необразованных маргиналов&nbsp;&mdash; это заслуженное поражение.
+Even with my obvious sympathy for the liberal camp, I have to admit this was a spectacular failure, and responsibility can’t be dumped on poor regions or uneducated outcasts. No, this was a well-deserved defeat.
 
 ![](/assets/images/2025/05/DSCF2723.jpg)
 - ![](/assets/images/2025/05/DSCF2727.jpg)
 - ![](/assets/images/2025/05/DSCF2730.jpg)
 
-Во-первых, либеральная коалиция в&nbsp;2023 году выиграла выборы, и&nbsp;занимает большинство кресел в&nbsp;сейме и&nbsp;министерствах, имеет финансовые и&nbsp;медийные ресурсы, недоступные другим кандидатам, включая &laquo;публичное&raquo; телевиденье.
+First of all, the liberal coalition won the 2023 elections and holds the majority in the Sejm and ministries, with financial and media resources unavailable to other candidates, including “public” television.
 
-Во-вторых, перед глазами были примеры США, Румынии и&nbsp;других стран, резко улетевших вправо на&nbsp;очередном электоральном витке&nbsp;&mdash; после пинка от&nbsp;мемных тикток-политиков. Было время, чтобы выучить уроки (и&nbsp;зерагаться в&nbsp;тиктоке).
+Second, there were examples from the US, Romania, and other countries that swung to the right in recent elections — after being hit by meme-driven TikTok politicians. There was time to learn the lessons (and grind on TikTok).
 
-В-третьих, консервы выставили кандидата, который просто не&nbsp;мог победить. Против профессионального политика и&nbsp;действующего мэра Варшавы поставили ноунейма с&nbsp;мутным бандитским прошлым, сосущего снюс прямо на&nbsp;дебатах.
+Third, the conservatives put up a candidate who couldn’t win, like, EVER OR AT ALL. Against a professional politician and the sitting mayor of Warsaw, they fielded a nobody with a shady criminal past who was using snus during debates.
 
-Перед финалом ноунейма щедро облили политическими токсинами, опубликовав инфу о&nbsp;участии в&nbsp;фанатских пиздилках, о&nbsp;сутенёрском прошлом, и&nbsp;о&nbsp;разводе пенсионера (!) сексуального преступника (!) на&nbsp;социальную квартиру.
+Before the finale, the nobody got generously splashed with political toxins — reports surfaced about his involvement in hooligan brawls, a past as a pimp, and even scamming a elderly (!) sex offender (!) out of social housing.
 
-Не&nbsp;даже это не&nbsp;помогло либералам победить, как и&nbsp;попытки перетянуть правую аудиторию, пряча радужные флаги и&nbsp;обещая усложнить жизнь &laquo;понаехавшим&raquo;. Застенчивые либеральные зиги только демотивировали их&nbsp;корневой электорат.
+All this didn’t help the liberals win, nor did attempts to court the right-wing audience by hiding rainbow flags and promising to make life harder for “migrants.” Shy liberal Nazi salutes only demotivated their core electorate.
 
 ![](/assets/images/2025/05/DSCF2688.jpg)
 ![](/assets/images/2025/05/DSCF2695.jpg)
 
-После первого тура либералы вели с&nbsp;небольшим отрывом, но&nbsp;сумма большинства голосов ушла правым&nbsp;&mdash; включая открытых шовинистов и&nbsp;ксенофобов. При этом за&nbsp;них голосовала молодёжь, которая раньше традиционно магнитилась к&nbsp;левым.
+After the first round, the liberals were slightly ahead — but the majority of votes went to the right, including open chauvinists and xenophobes. Meanwhile, young people backed them too, even though they traditionally leaned left.
 
-Левые вообще скатились за&nbsp;проходной барьер из-за своей раздробленности. Сам по&nbsp;себе их&nbsp;слабый результат не&nbsp;удивителяет, но&nbsp;выглядит чрезвычайно зловеще на&nbsp;фоне кандидатов-зигометов, которые набрали существенно больше леваков.
+The left mostly crashed below the threshold due to fragmentation. Their weak result isn’t surprising on its own — but looks especially ominous next to Nazi-saluting candidates who scored significantly better.
 
 ![](/assets/images/2025/05/DSCF2759.jpg)
 ![](/assets/images/2025/05/DSCF2796.jpg)
 
-Всё это подводит нас к&nbsp;печальной гипотетической черте, события за&nbsp;которой сложно предсказуемы, но&nbsp;вряд&nbsp;ли будут приятными&nbsp;&mdash; как для Польши, так и&nbsp;для Евросоюза, Украины и&nbsp;так называемого &laquo;геополитического&raquo; баланса сил.
+This brings us to a grim hypothetical event horizon — beyond which things get hard to predict, but unlikely to be pleasant for Poland, the EU, Ukraine, or the so-called “geopolitical” balance of power.
 
-Польшу, где только два года назад сменился политический вектор, это может привести к&nbsp;реваншу консерваторов, усиленному почти неизбежной коалицией с&nbsp;правыми радикалами. Это будет разрушительный и&nbsp;очень быстрый процесс.
+For Poland, where the political vector shifted just two years ago, this could mean a conservative rollback — likely reinforced by a coalition with far-right radicals. It’s a destructive process, and it will move fast.
 
-В&nbsp;Европе это усилит консервативных скептиков, что приведёт либо к&nbsp;правому повороту в&nbsp;масштабах всего ЕС, либо к&nbsp;постепенной эррозии и&nbsp;дезинтеграции&nbsp;&mdash; с&nbsp;вытекающими изоляционизмами, протекционизами и&nbsp;новыми конфликтами.
+Across Europe, this may empower conservative skeptics, potentially triggering a rightward shift across the EU — or a slow unraveling and disintegration, bringing isolationism, protectionism, and new conflicts in its wake.
 
 - ![](/assets/images/2025/05/DSCF2670.jpg)
 - ![](/assets/images/2025/05/DSCF2672.jpg)
 
-Для Украины это может значить, как минимум, более напряжённые с&nbsp;ключевым партнёром, предельно важным в&nbsp;плане логистики. Как максимум&nbsp;&mdash; в&nbsp;долгосроке, постепенное смещение фокуса всей Европы на&nbsp;свои внутренние проблемы.
+For Ukraine, this could mean, at best, more strained relations with a key partner crucial for logistics. At worst — a long-term, gradual shift of Europe’s focus entirely to its internal problems.
 
-Дальше можно спекулировать, что в&nbsp;масштабах глобуса это может привести к&nbsp;аннигиляции важного политического центра силы, к&nbsp;новому переделу сфер влияния, и, как следствие, к&nbsp;упадку привычного западноцентричного мира.
+We could also speculate that, on a global scale, this might lead to the collapse of a major political power center, a redivision of influence, and, consequently, the decline of the familiar Western-centric world.
 
 ![](/assets/images/2025/05/DSCF2684.jpg)
 ![](/assets/images/2025/05/DSCF2662.jpg)
 
-Но&nbsp;пока всё это не&nbsp;случилось&nbsp;&mdash; будем надеяться на&nbsp;лучшее &#129394;
+But until all that happens — let’s hope for the best 🤞

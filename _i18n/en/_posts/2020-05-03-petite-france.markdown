@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Маленькое путешествие по Франции
+title: "France: Un Petit Voyage"
 date: '2020-05-03 16:11:17'
 tags:
 - travel
@@ -9,137 +9,137 @@ tags:
 image: /assets/images/2020/05/IMG_2467.jpg
 ---
 
-Сегодня в программе: хороший плохой Париж, прогулки по Лиону и Страсбургу, дэйтрипы в Дижон, Кольмар и Анси. Как всегда — с кучей ярких фотографий и личных историй.
+Today’s itinerary: the good and the bad of Paris, walks through Lyon and Strasbourg, day trips to Dijon, Colmar, and Annecy. As always — plenty of vibrant photos and personal stories.
 
 ![](/assets/images/2020/05/IMG_2467.jpg)
 
-## Плохой Париж
+## The Bad Paris
 
-Первый визит в Париж в 2014 году не задался с самого начала. Главной ошибкой был [18 арондисман](https://goo.gl/maps/LQ2EJjChjo6qKkpQ7) — район неподалёку от вокзалов Garu du Nord и Garu de l’Est, где я по невежеству снял недорогой отель, чем навсегда испортил впечатление от города.
+My first visit to Paris in 2014 went south right from the start. The biggest mistake? [The 18th arrondissement](https://goo.gl/maps/LQ2EJjChjo6qKkpQ7) — the area near Gare du Nord and Gare de l’Est, where I unknowingly booked a cheap hotel and forever ruined my first impression of the city.
 
-![Вид с небоскрёба Монпарнас](/assets/images/2020/05/IMG_2264.jpg)
+![View from Montparnasse Tower](/assets/images/2020/05/IMG_2264.jpg)
 
-Несмотря на шаговую доступность от Мулен-Ружа и базилики Сакре-Кёр, 18&nbsp;ародисман (и все прилегающие) в то время являл собой настоящее гетто с&nbsp;огромными арабскими рынками, грязными тротуарами и недружелюбного вида драг-пушерами на каждом углу.
+Despite being within walking distance from Moulin Rouge and Sacré-Cœur, the 18th (and nearby areas) felt like a proper ghetto back then — massive Arabic markets, filthy sidewalks, and sketchy-looking drug dealers on every corner.
 
-Добавлю контекста: буквально через месяц после моей поездки в Париже случилось [нападение](https://ru.wikipedia.org/wiki/Террористический_акт_в_редакции_Charlie_Hebdo) на журнал Charlie Hebdo и [захват заложников](https://ru.wikipedia.org/wiki/Захват_заложников_в_магазине_кошерных_продуктов) у Венских ворот, а годом позднее — взрывы в Сен-Дени и бойня в Батаклане — [крупнейшие теракты](https://ru.wikipedia.org/wiki/Теракты_в_Париже_13_ноября_2015_года) в истории страны.
+For context: just a month after my trip, Paris was hit by the [Charlie Hebdo attack](https://ru.wikipedia.org/wiki/Террористический_акт_в_редакции_Charlie_Hebdo) and the [Kosher supermarket hostage crisis](https://ru.wikipedia.org/wiki/Захват_заложников_в_магазине_кошерных_продуктов), followed a year later by the bombings in Saint-Denis and the [Bataclan massacre](https://ru.wikipedia.org/wiki/Теракты_в_Париже_13_ноября_2015_года) — the largest terrorist attacks in the country’s history.
 
-Говорят, после этих событий средний градус в Париже снизился, но тогда — время было неспокойное, атмосфера города была тревожной и агрессивной. Эта недельная поездка была самой неуютной за всю историю моих перемещений по миру.
+They say the city cooled down a bit after all that, but back then — things were tense, the vibe was edgy and aggressive. That week-long trip remains the most uncomfortable I’ve ever had.
 
-В первый день я пробовал передвигаться на метро, но подземка оказалась местом ещё менее приветливым — таким же грязным, как променады Шато-Руж, полным фриков и хулиганов, которые задирали пассажиров своими экстравагантными выходками.
+On day one, I tried the metro, but the underground felt even less welcoming — just as dirty as Château Rouge’s streets, full of weirdos and troublemakers pulling off random stunts and hassling commuters.
 
-В те дремучие времена человечество ещё не придумало прицеплять ко всем словам корень «шеринг», и от отчаяния я приобрёл самое доступное средство преодоления гигантских парижских дистанций — скейт Penny (на котором сперва умел лишь стоять или падать).
+Back in those dark ages, we hadn’t yet attached “-sharing” to every word, so out of sheer desperation I got the cheapest way to cover Paris’s huge distances — a Penny board (which I could barely stand on without wiping out).
 
 - ![](/assets/images/2020/05/IMG_0478.jpg)
 - ![](/assets/images/2020/05/IMG_2181.jpg)
 
-Таким манером, набив немало синяков и шишек, я объехал весь центр — от Монпарнаса до Пер-Лашез, периодически прерывая свои покатушки бранчами с неплохим вином в местных кафе. Так я узнал, что значит "French pricing" и потерял изрядную долю достатка.
+And so, covered in bruises, I skated all over — from Montparnasse to Père Lachaise, stopping now and then for brunches and decent wine in local cafés. That’s also how I learned about “French pricing” and lost a chunk of my funds.
 
 - ![](/assets/images/2020/05/C2D59B60-8D65-4F04-B9CD-BCCC0A7554BA_1_105_c.jpg)
 - ![](/assets/images/2020/05/3959D536-4AC9-4A6E-A61A-9E6E796C7243_1_105_c.jpg)
 
-Между визитами в базилики и Лувры, пил самый невкусный в Европе глювайн «vin chaud», наблюдал парижскую архитектуру и пресыщался китчевой избыточностью города. В какой-то момент почувствовал физическое отвращение ко всему, что меня окружало.
+Between visiting basilicas and the Louvre, I drank the worst mulled wine in Europe — “vin chaud”, watched the architecture, and quickly grew tired of the city’s kitschy overload. At one point, I felt physically repelled by everything around me.
 
 ![](/assets/images/2020/05/IMG_2300.jpg)
 ![](/assets/images/2020/05/IMG_2308.jpg)
 ![](/assets/images/2020/05/IMG_2290.jpg)
 ![](/assets/images/2020/05/IMG_2298.jpg)
 
-Последним неоднозначным экспириенсом в Париже была случайная встреча со странноватым чуваком из США у могилы Джима Моррисона на [Пер-Лашес](https://g.page/perelachaise?share), закончившаяся употреблением джоинта на [Марсовом поле](https://goo.gl/maps/9HqAxheZhqicre6H8) под фристайл от местного хип-хопера бомжевтого вида.
+One last weird experience: I randomly met a strange guy from the U.S. at Jim Morrison’s grave in [Père Lachaise](https://g.page/perelachaise?share), and we ended up smoking a joint on the [Champ de Mars](https://goo.gl/maps/9HqAxheZhqicre6H8), listening to a freestyle by a sketchy local rapper.
 
 - ![](/assets/images/2020/05/BA3C679B-33F1-46FF-A4EE-17655DA33404_1_105_c.jpg)
-- ![](/assets/images/2020/05/D8E66136-D80F-4AA0-84E9-6284EC407472_1_105_c.jpg)
+- ![](/assets/images/2020/05/D8E66136-D80 °F-4AA0-84E9-6284EC407472_1_105_c.jpg)
 
-Мой случайный друг из США никогда не слышал слов Лувр и Нотр-Дам, просрочил туристическую визу, проебал все деньги и оставил свой велосипед, на котором планировал добраться в аэропорт, в тёмном переулке. Найти оный байсикл мы уже не смогли.
+That dude had never heard of the Louvre or Notre-Dame, had overstayed his visa, blown all his money, and ditched his bike — which he had planned to ride to the airport — in a dark alley. We never found it again.
 
 ![](/assets/images/2020/05/IMG_2248-1.jpg)
 ![](/assets/images/2020/05/IMG_2255-1.jpg)
 
-Чувака я угостил глювайном с ярмарки у Елисейских полей и дал немного денег на метро. Сам же следующим утром едва не опоздал на поезд, перепутав с похмелья вокзалы. Но всё же запрыгнул в уходящий состав и с облегчением покинул неприветливый Париж.
+I treated him to some terrible mulled wine from the Champs-Élysées fair and gave him a few euros for the metro. I nearly missed my train the next morning, mixing up the stations thanks to a hangover. But I caught it just in time and left unfriendly Paris behind.
 
-## Хороший Париж
+## The Good Paris
 
-Летом 2019 года я возвращался в Париж с большим скепсисом. Однако в этот раз город приятно удивил. Он будто действительно стал чище, комфортнее и оставил позади изрядную часть социальной напряжённости. А может быть просто так совпало.
+In the summer of 2019, I returned to Paris with a healthy dose of skepticism. But this time, the city pleasantly surprised me. It really did feel cleaner, more comfortable, and like it had shed a good chunk of its usual social tension. Or maybe it was just a lucky coincidence.
 
 ![](/assets/images/2020/05/DSCF9450.jpg)
 - ![](/assets/images/2020/05/DSCF9620.jpg)
 - ![](/assets/images/2020/05/DSCF9702.jpg)
 
-В этот раз, умудрённые опытом, мы арендовали апартаменты ближе к центру — в десяти минутах от сгоревшего Нотр-Дама. На чекине нас встретил карикатурнейший хост — гей в полосатой майке и тапках Баленсиага с характерным милым «вуаля».
+This time, with more experience under our belts, we rented a place closer to the center — about ten minutes from the burnt-out Notre-Dame. At check-in, we were greeted by the most cartoonish host: a gay guy in a striped tank top and Balenciaga slippers, flashing a charming little “voilà.”
 
 ![](/assets/images/2020/05/DSCF9631-1.jpg)
 
-Все эти дни нас окружала абсолютная толерантность, пикники с прекрасным копеечным вином, булочные с лучшим в мире капучино, кафе с вкуснейшим луковым супом и поездки по ночному Парижу на электросамокатах. А ещё — парад в честь Дня Взятия Бастилии.
+These days were all about total tolerance, picnics with amazing cheap wine, bakeries with the world’s best cappuccino, cafés serving delicious onion soup, and late-night scooter rides through Paris. Oh, and the Bastille Day parade too.
 
 - ![](/assets/images/2020/05/DSCF9660-2.jpg)
 - ![](/assets/images/2020/05/36363B03-BB52-4DF3-9202-A41ED2C01D2C_1_105_c.jpg)
 
-Летом, покрытый пышной зеленью, Париж не выглядит так избыточно и чванливо. Растительность как будто оттеняет выпуклость фасадов и вычурность барельефов. Город становится более приветливым и уютным для простого парня из русской провинции.
+In the summer, covered in lush greenery, Paris doesn’t feel so over-the-top and pretentious. The foliage softens the bulging façades and baroque reliefs, making the city feel more welcoming and cozy — even for a regular guy from the Russian provinces.
 
 ![](/assets/images/2020/05/DSCF9651.jpg)
 ![](/assets/images/2020/05/DSCF9479.jpg)
 
-Самая восхитительная вещь в Париже — самая банальная. Эйфелева башня вживую впечатляет в десятки раз сильнее, чем на любой картинке. В первую очередь — как памятник инженерной мысли. Она прекрасна в любое время суток.
+The most breathtaking thing in Paris is also the most cliché: the Eiffel Tower. In person, it’s ten times more impressive than in any photo — first and foremost as a monument to engineering. It’s stunning at any hour of the day.
 
 ![](/assets/images/2020/05/IMG_2144.jpg)
 ![](/assets/images/2020/05/IMG_2146.jpg)
 ![](/assets/images/2020/05/IMG_2148.jpg)
 
-Правда, с 2014 года вокруг неё воздвигли забор с пропускными пунктами и рамками металлоискателей, и это несколько портит удовольствие от посещения самой открыточной точки Парижа.
+Since 2014, though, it’s been surrounded by fences and security checkpoints with metal detectors — which kind of kills the magic of visiting the city’s most postcard-worthy spot.
 
 ![](/assets/images/2020/05/DSCF9635.jpg)
 
-## Поездка по Франции
+## A Trip Through France
 
-Все французские города — разные. Похожи они лишь тем, что с 2014 года почти целиком стёрлись из памяти, оставив о себе лишь кучку фоток и пару забавных историй. Честно говоря, то была самая скучная часть маршрута, но всё же уделю ей немного времени.
+All French cities are different. The only thing they have in common is that, since 2014, they’ve almost completely faded from memory — leaving behind just a handful of photos and a couple of funny stories. Honestly, it was the dullest part of the trip, but still worth mentioning.
 
-[Дижон](https://goo.gl/maps/2cwb5CQ2r3YafUKw5) — городок в Бургундии с населением 155 тысяч жителей и центр местного виноделия. Пара готических соборов, фахверковые дома, пережившие Вторую Мировую, уютные улочки, тишина и покой. Даже один световой день здесь показался слишком длинным.
+[Dijon](https://goo.gl/maps/2cwb5CQ2r3YafUKw5) — a small town in Burgundy with a population of 155,000 and a local wine capital. A couple of Gothic cathedrals, half-timbered houses that survived WWII, cozy streets, peace and quiet. Even one full day there felt like too much.
 
 ![](/assets/images/2020/05/IMG_2424.jpg)
 ![](/assets/images/2020/05/IMG_2442.jpg)
 ![](/assets/images/2020/05/IMG_2445.jpg)
 
-[Лион](https://goo.gl/maps/JuTxZD7B73ZAwJS18) — третий по величине и первый по уровню комфорта город Франции. Внешне отличный и от Парижа и Дижона, удивляющий своими базиликами и мостами. В городе сохранилось несколько римских амфитеатров, построенных в первых веках Новой Эры.
+[Lyon](https://goo.gl/maps/JuTxZD7B73ZAwJS18) — the third-largest and arguably the most comfortable city in France. Visually very different from both Paris and Dijon, with its basilicas and bridges. The city even has a few Roman amphitheaters built in the early centuries AD.
 
-![Одеон в Лионе](/assets/images/2020/05/F5A81D05-D9BF-480A-9EA0-D47A854889D9_1_105_c.jpg)
+![The Odeon in Lyon](/assets/images/2020/05/F5A81D05-D9BF-480A-9EA0-D47A854889D9_1_105_c.jpg)
 
 ![](/assets/images/2020/05/IMG_2536.jpg)
 ![](/assets/images/2020/05/IMG_2553.jpg)
 ![](/assets/images/2020/05/IMG_2567.jpg)
 ![](/assets/images/2020/05/IMG_2639.jpg)
 
-Здесь я потерял кошелёк с наличностью и картами, а ещё внезапно повстречал двух знакомцев из России. День закончился похмельем, а наутро обрадованный продавец соседней лавки вернул мне утраченный portefeuille вместе со всем содержимым.
+Here, I lost my wallet with all my cash and cards — and randomly bumped into two acquaintances from Russia. The day ended with a hangover, and the next morning the friendly shopkeeper next door happily returned my lost *portefeuille* with everything still inside.
 
-![Мост в Лионе](/assets/images/2020/05/IMG_2548.jpg)
+![Bridge in Lyon](/assets/images/2020/05/IMG_2548.jpg)
 ![](/assets/images/2020/05/IMG_2573.jpg)
 ![](/assets/images/2020/05/IMG_2578.jpg)
 ![](/assets/images/2020/05/IMG_2587.jpg)
 ![](/assets/images/2020/05/IMG_2627.jpg)
 
-[Анси](https://goo.gl/maps/HMopQDRsdLVRpWLc8) — крошечный живописный городок в 40 километрах от Женевы. Расположен на берегу удивительно красивого кристально чистого озера с видом на Альпы. Одно воспоминание об этом пейзаже стоит того, чтобы просидеть у воды до самого заката.
+[Annecy](https://goo.gl/maps/HMopQDRsdLVRpWLc8) — a tiny, picturesque town just 40 kilometers from Geneva. It sits on the shore of a stunningly clear lake with views of the Alps. Just remembering that landscape is reason enough to sit by the water until the sun goes down.
 
-![Озеро Анси](/assets/images/2020/05/IMG_2665.jpg)
+![Lake Annecy](/assets/images/2020/05/IMG_2665.jpg)
 ![](/assets/images/2020/05/IMG_2685.jpg)
 ![](/assets/images/2020/05/IMG_2693.jpg)
 ![](/assets/images/2020/05/IMG_2671.jpg)
 ![](/assets/images/2020/05/IMG_2715.jpg)
 
-[Кольмар](https://goo.gl/maps/WMupMF4dYKuq9fMP8) — городок в регионе [Эльзас](https://ru.wikipedia.org/wiki/Эльзас), постоянно кочевавший от французов к немцам. Немецкая кухня, немецкие пряничные домики, обилие немецких заимствований в местном диалекте. Практически ничем не напоминает о Франции.
+[Colmar](https://goo.gl/maps/WMupMF4dYKuq9fMP8) — a small town in the [Alsace](https://en.wikipedia.org/wiki/Alsace) region that’s been passed back and forth between the French and Germans. German cuisine, gingerbread-style houses, and a local dialect full of German words. Feels nothing like France.
 
-![Кольмар — ферхверковыо-пряничный рай](/assets/images/2020/05/IMG_3359-1.jpg)
+![Colmar – half-timbered fairy tale](/assets/images/2020/05/IMG_3359-1.jpg)
 ![](/assets/images/2020/05/IMG_3291.jpg)
 ![](/assets/images/2020/05/IMG_3332.jpg)
 
-То же самое можно сказать и о [Страсбурге](https://goo.gl/maps/wZLGgTSMe4p9C6AA7) — столице Эльзаса, известной своим собором. Оная базилика действительно приводит в восторг своим фасадом и витражными розами, которые, увы, не оставили следа на матрице моей камеры.
+Same goes for [Strasbourg](https://goo.gl/maps/wZLGgTSMe4p9C6AA7) — the capital of Alsace, known for its cathedral. The basilica really is stunning, with its façade and rose windows… though sadly, my camera sensor didn’t do them justice.
 
-![Портал Страсбургского собора](/assets/images/2020/05/IMG_3493-1.jpg)
+![Strasbourg Cathedral portal](/assets/images/2020/05/IMG_3493-1.jpg)
 ![](/assets/images/2020/05/IMG_3412.jpg)
 ![](/assets/images/2020/05/IMG_3465.jpg)
 
-Кроме того, в Страсбурге находится [Европейский суд по правам человека](https://ru.wikipedia.org/wiki/Европейский_суд_по_правам_человека), окрестности которого заполнены палаточными лагерями и плакатами с различными социальными и политическими лозунгами. В памятном 2014 году там было много визитёров из Украины.
+Strasbourg is also home to the [European Court of Human Rights](https://en.wikipedia.org/wiki/European_Court_of_Human_Rights), whose surroundings are filled with tent camps and posters with all kinds of social and political slogans. Back in 2014, there were a lot of visitors from Ukraine.
 
 ![](/assets/images/2020/05/IMG_3533.jpg)
 ![](/assets/images/2020/05/IMG_3540.jpg)
 
-В том ноябре Франции запомнилось сыростью, холодом, плохим английским, и какой-то общей скомканностью. Не помню даже, каким ветром меня занесло в эти городки. Но с нынешней перспективы даже такие путешествия кажутся сказочными и невероятными.
+That November in France was all about dampness, cold, poor English, and a general sense of messiness. I don’t even remember what brought me to those towns. But from today’s perspective, even those trips seem magical and unreal.
 
-Желаю планете поскорее выйти из карантина, чтобы вы могли посмотреть на эти города без оставленных мной предубеждений.
+Wishing this planet a swift exit from quarantine, so you can visit these places without any of the baggage I brought with me.

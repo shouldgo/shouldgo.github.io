@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Марш Равенства в Кракове
+title: Kraków Equality March
 date: '2025-05-19 18:28:00'
 tags:
 - photo
@@ -11,13 +11,15 @@ tags:
 image: /assets/images/2025/05/DSCF2839.jpg
 ---
 
-Есть стереотип, что в Польше квир-людей сжигают на костре, который горит ещё со времён инквизиции. Отчасти, это подтверждается различными ЛГБТ-рейтингами, в которых Польша упорно соревнуется с Румынией за первое место в конце списка.
+Poland is supposedly one of the least LGBT-friendly countries in the EU. According to the Rainbow Map, it just gave up its last-place spot to Romania. One could argue that even that is still years ahead of the global average. But should that be enough?
 
 ![](/assets/images/2025/05/DSCF2839.jpg)
 
-Можно сказать, что днище Европы — это всё ещё недосягаемая вершина для большей части мира. Но мы то знаем, как быстро любые свободы растекаются под катком репрессий. Поэтому, не будем делать вид, что проблемы не существует.
+I don’t think so. I believe that in any society, you can only feel as safe and have as many rights as its least protected and privileged.
 
-Любое общество гарантирует тебе ровно ровно столько прав и свобод, сколько есть у наименее защищённых и привилегированных. Поэтому за все хьюман райты надо стоять, как за свои — даже если какие-то цвета кажутся чересчур вызывающими.
+And if my 'fatherland' taught me anything, it’s that the road from narrowly targeted repression to a full-scale erosion of human rights is shorter than two presidential terms.
+
+So even if you can’t personally relate to certain struggles, do yourself a favor and stand up for egalitarian values — for the sake of your own future.
 
 - ![](/assets/images/2025/05/DSCF2822.jpg)
 - ![](/assets/images/2025/05/DSCF2872.jpg)

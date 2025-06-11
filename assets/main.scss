@@ -81,12 +81,10 @@ img {
 .site-header .nav-links { display: none;}
 
 .site-nav {
-  padding: 2em 0;
-} 
-
-.site-nav {
   position: relative;
+  align-items: start;
   gap: 3em;
+  padding: 2em 0;
 }
 
 .site-title {
@@ -97,11 +95,20 @@ img {
 
 .nav-links {
   gap: 2em;
+}
 
-  a {
-    color: #9c9c9c;
-    &:hover, &.active { color: inherit; }
-  }
+.nav-links a, .lang-switcher a {
+  color: #9c9c9c;
+  &:hover, &.active { color: inherit; }
+}
+
+.lang-switcher {
+  display: flex;
+  position: absolute;
+  right: 4em;
+  gap: 0.5em;
+  align-items: center;
+  height: 2em;
 }
 
 /* BURGER MENU */
@@ -247,6 +254,11 @@ img {
   .nav-links {
     display: flex !important;
     flex-direction: row;
+  }
+
+  .lang-switcher {
+    position: relative;
+    right: 0;
   }
 
   /* POSTS */

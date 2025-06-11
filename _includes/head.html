@@ -8,6 +8,11 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+
+  <!-- Language Redirect -->
+  {% if page.url == "/" or page.url == "" or page.url == "/index.html" %}
+    <script src="{{ '/assets/js/lang-redirect.js' | relative_url }}"></script>
+  {% endif %}
   
   <!-- Standard Favicon -->
   <link rel="icon" href="{{ '/assets/icon/favicon.ico' | | prepend: site.baseurl_root }}" type="image/x-icon">

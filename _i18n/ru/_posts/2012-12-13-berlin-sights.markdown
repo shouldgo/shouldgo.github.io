@@ -117,13 +117,13 @@ image: /assets/images/2017/09/berlin2_13.jpg
 А пока, всем кугельшрайбе хаупбанхоф карривурст!
 
 ## Читайте остальные посты евротрипа:
-- [Прага — путёвые советы](/blog/prague-t/)
-- [Прага — веселые картинки](/blog/prague-sights/)
-- [Прага — конечная станция](/blog/praga-the-end/)
-- [Дрезден со всех сторон](/blog/dresden-dolls/)
-- [Берлин — путёвые советы](/blog/berlin-tt/)
-- [Берлин — достопримечательности](/blog/berlin-sights/)
-- [Гамбург — портовый во всем](/blog/hamburg-ers/)
-- [Амстердам — мой самый скучный пост](/blog/amsterdamster/)
-- [Брюгге — как залечь на дно](/blog/in-bruges/)
-- [Крумлов — мать деревень чешских](/blog/cesky-krumlov/)
+- [Прага — путёвые советы](/ru/blog/prague-t/)
+- [Прага — веселые картинки](/ru/blog/prague-sights/)
+- [Прага — конечная станция](/ru/blog/praga-the-end/)
+- [Дрезден со всех сторон](/ru/blog/dresden-dolls/)
+- [Берлин — путёвые советы](/ru/blog/berlin-tt/)
+- [Берлин — достопримечательности](/ru/blog/berlin-sights/)
+- [Гамбург — портовый во всем](/ru/blog/hamburg-ers/)
+- [Амстердам — мой самый скучный пост](/ru/blog/amsterdamster/)
+- [Брюгге — как залечь на дно](/ru/blog/in-bruges/)
+- [Крумлов — мать деревень чешских](/ru/blog/cesky-krumlov/)

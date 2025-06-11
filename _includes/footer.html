@@ -2,7 +2,11 @@
   <div class="wrapper">
     <nav class="flex site-nav">
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}" title="{{ site.title | escape }}">shouldgo.me</a>
-      {% include navlinks.html %}
+      <div class="flex serif nav-links">
+          <a class="page-link" href="http://instagram.com/shouldgo/">{% t nav.ig %}</a>
+          <a class="page-link" href="https://www.facebook.com/dima.afonin/">{% t nav.fb %}</a>
+          <a class="page-link" href="https://linkedin.com/in/shouldgo/">{% t nav.in %}</a>
+      </div>
       <div class="copyright">{% t global.author %} © 2009 – {{ "now" | date: "%Y" }}</div>
     </nav>
   </div>

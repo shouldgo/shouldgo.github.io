@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Фотоблог возвращается!
+title: Back Online, And Now in English!
 date: '2025-04-30 09:08:02'
 tags:
 - photo
@@ -8,26 +8,26 @@ tags:
 image: /assets/images/2025/04/DSCF1067.jpg
 ---
 
-Этот блог начался в 2009 году — ещё во времена ЖЖ. За 16 лет несколько раз сменилась платформа, хостинг, доменная зону, моя локация и даже майндсет. Но неизменной остаётся моя любовь к фотографии и графомании!
+I started this blog in 2009, back when reading was still a thing. It began in Russian, but now I’m happy to finally share some of my latest posts in English as well.
 
 ![](/assets/images/2025/04/DSCF1067.jpg)
 
-Фотографией я увлекся аж в 2008 года — когда взял свой первый кредит и купил свой первый зеркальный сапог 450д с тухлой китовой линзой 18-55. Древние [следы](/blog/the-yellowfield/) моих [первых](/blog/photowinter/) экспериментов с [камерой](/blog/unplugged_photo/) всё ещё можно [найти](/blog/trespassing-winter/) в [недрах](/blog/new_photostuff/) этого [блога](/blog/maydays/).
+Photography has been my hobby since ’08, when I took my first loan and got a brand-new Canon 450D with 12 mpx of raw power (and a crappy 18-55 kit lens).
 
-За всё время я попробовал много техники. Был 50D с уьлтрашироким 10-22 и телезумом 55-250, 5D Mark II с 24-105 L, куча расходных полтяшков, заёмные фишаи и 35мм объективы, пыха 580EX II и всякие DIY-аксессуры.
+Later, I moved on to a 50D with a wild combo of 10-22 and 55-250, a 5D Mark II with a red-ring 24-105, a bunch of expendable 50-s, a 580EX II flash, and what not.
 
-По пути было много плёночки: Зениты, ФЭДы, Москва, Helga и любимая Mamiya ZE с жирным боке от Sekor 50mm f/2 и зерном от Ilford Pan 400. Немного плёночных фотографий даже оцифровалось [в отдельный блог-пост](/blog/film_photos_from_the_past/).
+There were plenty of film cameras too: Zeniths, FEDs, Moskvas, Holgas, and my dear Mamiya ZE with that thick Sekor 50 f/2 bokeh and heavy Ilford Pan 400 grain.
 
 ![](/assets/images/2025/04/DSCF1141.jpg)
 ![](/assets/images/2025/04/DSCF0409.jpg)
 - ![](/assets/images/2025/04/DSCF0906.jpg)
 - ![](/assets/images/2025/04/DSCF0891.jpg)
 
-Потом я дропнул свой про-гир за любительский X-T10 с 18-55 из первой линейки беззеркалок Fuji, и пережил с ним 9 лет путешествий, начавшихся временным [переездом в Таиланд](/blog/post-phuket/), и увенчавшихся [переездом в Польшу на ПМЖ](/blog/love-poland/).
+At some point, I traded all my gear for a pretty amateur-ish Fuji X-T10 kit with the well-known 18-55 range. It took almost nine years of intense travel to kill it off!
 
-Пока умирал фуджик, успела случиться [пандемия COVID-19](/blog/2k20/), началась [полномасштабная война в Украине](/blog/fuck-war/), а айфоны научились чудесам вычислительной фотографии, но мне никогда не нравился их гладенький процесс и результат.
+By then, I could have just switched to a new iPhone and all its computational tricks, but its detached process and numbingly smooth results always made me nauseous.
 
-Поэтому я остался со старым телефоном, и выпросил в подарок новый Fuji X100VI — аппарат, который практически невозможно раздобыть, заделанный под ретро-дальномер с фиксом 35 f/2 и гибридным видоискателем.
+So instead, I picked up a Fuji X100VI, a rangefinder-style point-and-shoot camera with a non-interchangeable 35 mm eq f/2 lens and a crazy cool hybrid viewfinder.
 
 - ![](/assets/images/2025/04/DSCF0648.jpg)
 - ![](/assets/images/2025/04/DSCF0627.jpg)
@@ -36,12 +36,12 @@ image: /assets/images/2025/04/DSCF1067.jpg
 - ![](/assets/images/2025/04/DSCF0715.jpg)
 - ![](</assets/images/2025/04/DSCF1559 1.jpg>)
 
-Это странная камера с кучей ограничений, но она возвращает фотографическую потенцию, и при этом носибельна в кармане или на шнурке. За полмесяца фотографий накопилось столько, что пришлось возрождать блог!
+With all its quirks and limitations, this little camera gets me photography-horny again, and it’s always ready to satisfy since it fits right in my oversized pocket.
 
-Другой побочный эффект — моментально захотелось пойти ещё дальше: выкупить 5D Mark II, раздобыть Minox 35, и мечтать о Лейке, как будто мне снова 17 лет, и я начинаю путь фотолюбителя заново.
+The only downside is that now I want more! Like buying back my old 5Dm2, finally grabbing a Minox 35, or dreaming about a proper Leica like I’m 17 all over again.
 
-Не знаю, как долго продлятся симптомы, но пока не вылечусь — буду делиться манифестациями своего внутреннего подростка. Заранее прошу прощения у всего интернета, который и так перегружен ненужным контентом.
-
+Not sure how long these symptoms will last, but until I’m back to normal, you’re kinda doomed to witness my inner teenager’s manifestations every now and then.
+Sorry ’bout that.
 
 ![](/assets/images/2025/04/DSCF0940.jpg)
 ![](/assets/images/2025/04/DSCF0780.jpg)
