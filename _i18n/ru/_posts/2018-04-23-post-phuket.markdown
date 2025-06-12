@@ -6,6 +6,8 @@ tags:
 - travel
 - asia
 image: /assets/images/2018/04/DSCF2556.jpg
+lang: ru
+translation_key: post-phuket
 ---
 
 Как я прожил в Таиланде 8 месяцев и почти не умер. Исчерпывающий гид по острову для путешественников и дауншифтеров с девиациями.

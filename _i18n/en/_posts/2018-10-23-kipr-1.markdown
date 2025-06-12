@@ -7,6 +7,8 @@ tags:
 - europe
 - cyprus
 image: /assets/images/2018/10/DSCF5216.jpg
+lang: en
+translation_key: kipr-1
 ---
 
 This year I visited Cyprus twice, traversed the island in every direction, took tons of photos, and made a million notes. There’s so much information that I’ll have to split it into two posts. The first one — the overview and main cities. The [second one](/blog/kipr-2/) — hidden spots and the northern part of the island.

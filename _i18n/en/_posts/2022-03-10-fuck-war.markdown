@@ -6,6 +6,8 @@ tags:
 - notes
 - politics
 image: /assets/images/2022/03/DSCF6061.jpg
+lang: en
+translation_key: fuck-war
 ---
 
 These days, there’s nothing more unsettling than waking up as a citizen of Russia. I won’t pretend to understand how hard it is for the Ukrainian people, but at least they have a clear conscience. They didn’t start this war — we did, eight years ago. Maybe some of us opposed it, but none of us stopped it back then. Now, let’s do our best.

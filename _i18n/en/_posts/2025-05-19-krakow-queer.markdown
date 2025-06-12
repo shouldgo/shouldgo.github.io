@@ -9,6 +9,8 @@ tags:
 - europe
 - polska
 image: /assets/images/2025/05/DSCF2839.jpg
+lang: en
+translation_key: krakow-queer
 ---
 
 Poland is supposedly one of the least LGBT-friendly countries in the EU. According to the Rainbow Map, it just gave up its last-place spot to Romania. One could argue that even that is still years ahead of the global average. But should that be enough?

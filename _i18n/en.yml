@@ -4,8 +4,6 @@ global:
   tagline: Photography, travel, and travel photography.
   author: Dima Afonin
 paginate:
-  first: ← First
-  last: Last →
   zero: No posts found :C
 titles:
   home: Home
@@ -16,7 +14,6 @@ descriptions:
 nav:
   fb: facebook
   in: linkedin
-  tg: telegram
   ig: instagram
   home: home
   about: about

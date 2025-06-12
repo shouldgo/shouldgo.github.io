@@ -8,6 +8,7 @@ tags:
 - work
 - friends
 image: /assets/images/2017/10/IMG_0388.jpg
+lang: ru
 ---
 
 Однажды мы с ребятами арендовали у РЖД отдельный вагон и поехали в тысячелетний город на Волге — [Казань-батюшку](http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)!

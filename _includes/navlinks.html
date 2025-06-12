@@ -2,11 +2,11 @@
     {% if page.url == '/' or page.url == '/ru/' or page.url == '/index.html' or page.url == '/ru/index.html' %}
       <span>{% t nav.blog %}</span>
     {% else %}
-      <a class="page-link" href="{{ "/" | relative_url }}">{% t nav.blog %}</a>
+      <a href="{{ "/" | relative_url }}">{% t nav.blog %}</a>
     {% endif %}
     {% if page.url contains 'dima-afonin' %}
       <span>{% t nav.about %}</span>
     {% else %}
-      <a class="page-link" href="{{ "/dima-afonin/" | relative_url }}">{% t nav.about %}</a>
+      <a href="{{ "/dima-afonin/" | relative_url }}">{% t nav.about %}</a>
     {% endif %}
 </div>

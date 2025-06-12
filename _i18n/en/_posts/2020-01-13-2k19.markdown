@@ -7,6 +7,8 @@ tags:
 - notes
 - annual
 image: /assets/images/2020/01/DSCF1031.jpg
+lang: en
+translation_key: 2k19
 ---
 
 Last year was one of the toughest: two big moves, intense studying, launching a mobile app, turning thirty, a bunch of broken promises, and a scary existential dead-end. I’ll leave this post here as a warning to my future self.

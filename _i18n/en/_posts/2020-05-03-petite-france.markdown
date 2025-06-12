@@ -7,6 +7,8 @@ tags:
 - europe
 - france
 image: /assets/images/2020/05/IMG_2467.jpg
+lang: en
+translation_key: petite-france
 ---
 
 Today’s itinerary: the good and the bad of Paris, walks through Lyon and Strasbourg, day trips to Dijon, Colmar, and Annecy. As always — plenty of vibrant photos and personal stories.

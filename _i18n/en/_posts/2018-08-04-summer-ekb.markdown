@@ -6,6 +6,8 @@ tags:
 - photo
 - notes
 image: /assets/images/2018/08/DSCF3751-3.jpg
+lang: en
+translation_key: summer-ekb
 ---
 
 I love to hate Yekaterinburg — my ugly hometown in the Urals, right on the border between Europe and Asia. It’s the only place I can suddenly return to, take a bunch of photos, and leave without a hint of regret — fully aware of all the reasons I once left it.

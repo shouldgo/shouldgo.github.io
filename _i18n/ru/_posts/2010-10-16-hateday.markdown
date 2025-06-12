@@ -6,6 +6,7 @@ tags:
 - photo
 - friends
 image: /assets/images/2017/10/1cfa5284d8954f57958fb311536ca963.jpg
+lang: ru
 ---
 
 Фотки делались для какого-то фотокросса, но до финиша ни одна не дошла.

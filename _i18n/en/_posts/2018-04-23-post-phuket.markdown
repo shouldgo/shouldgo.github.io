@@ -6,6 +6,8 @@ tags:
 - travel
 - asia
 image: /assets/images/2018/04/DSCF2556.jpg
+lang: en
+translation_key: post-phuket
 ---
 
 How I spent 8 months in Thailand and (barely) survived. A no-nonsense guide to the island for travelers and downshifters with a twist.

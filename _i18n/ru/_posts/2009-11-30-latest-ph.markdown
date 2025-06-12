@@ -6,6 +6,7 @@ tags:
 - photo
 - notes
 image: /assets/images/2017/10/aboard_by_shouldgo.jpg
+lang: ru
 ---
 
 Нащелкал говнева, а вы страдайте.

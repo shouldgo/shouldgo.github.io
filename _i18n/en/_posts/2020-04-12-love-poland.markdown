@@ -7,6 +7,8 @@ tags:
 - europe
 - polska
 image: /assets/images/2020/04/DSCF9168.jpg
+lang: en
+translation_key: love-poland
 ---
 
 In 2018, after spending three months in Prague, we firmly decided to move to Europe. The painless option presented itself — friends told us about relocating to Poland without huge investments and without the hassle of job hunting. We waited out the summer back home, then packed up in the fall and set off to find a new home.

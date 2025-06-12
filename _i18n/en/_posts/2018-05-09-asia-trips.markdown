@@ -6,6 +6,8 @@ tags:
 - travel
 - asia
 image: /assets/images/2018/05/DSCF1688-1.jpg
+lang: en
+translation_key: asia-trips
 ---
 
 During my [8 months in Asia](/blog/post-phuket/), I managed to visit Kuala Lumpur, Singapore, and Hong Kong. I didn’t like them. The details have faded, and I don’t really want to remember, so I’ll stick to brief notes and a bunch of stale photos.

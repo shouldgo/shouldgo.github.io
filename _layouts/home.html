@@ -12,23 +12,23 @@ layout: default
       <li class="flex post-card">
         {%- assign date_format = site.minima.date_format | default: "%d.%m.%Y" -%}
         <div class="post-image">
-          <a href="{{ post.url | relative_url }}" class="post-image-link">
+          <a href="{{ post.url | relative_url }}">
           {% if post.image %}
-            <img src="{{ post.image | prepend: site.baseurl_root }}" alt="{{ post.title | escape }}" class="post-image-img">
+            <img src="{{ post.image | prepend: site.baseurl_root }}" alt="{{ post.title | escape }}">
           {% else %}
-            <img src="{{ site.baseurl_root }}/assets/images/default-image.jpg" alt="Default Image" class="post-image-img">
+            <img src="{{ site.baseurl_root }}/assets/images/default-image.jpg" alt="Default Image">
           {% endif %}
           </a>
         </div>
         <div class="flex post-info">
           <h2 class="post-title">
-            <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title | escape }}</a>
+            <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
           </h2>
-          <div class="post-description">
+          <div class="post-excerpt">
             <p>{{ post.excerpt | strip_html | truncate: 300 }}</p>
           </div> 
           <span class="post-meta">
-            <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+            <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
               {{ post.date | date: date_format }}
             </time>
             {%- if post.tags and post.tags.size > 0 -%}
@@ -40,62 +40,83 @@ layout: default
             {%- endif -%}
           </span>
         </div>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
 
-<!-- Pagination links -->
-{% if paginator.total_pages > 1 %}
-<div class="flex serif pagination">
+  <!-- Paginatior -->
+  {% if paginator.total_pages > 1 %}
+  <div class="flex serif paginator">
 
-  <!-- Link to first page) -->
-  {% if paginator.page > 1 %}
-    <a href="{{ '/' | relative_url }}">{% t paginate.first %}</a>
-  {% else %}
-    <span>{% t paginate.first %}</span>
-  {% endif %}
+    {% assign total = paginator.total_pages %}
+    {% assign total_minus_3 = paginator.total_pages | minus: 3 %}
+    {% assign total_minus_4 = paginator.total_pages | minus: 4 %}
+    {% assign current = paginator.page %}
 
-  {% assign current = paginator.page %}
-  {% assign total = paginator.total_pages %}
-  {% assign range = 2 %}
-  {% assign start = current | minus: range %}
-  {% assign end = current | plus: range %}
+    {% if total <= 7 %}
+      <!-- Show all pages -->
+      {% for i in (1..total) %}
+        {% if i == current %}
+          <span class="paginator-current">{{ i }}</span>
+        {% else %}
+          {% if i == 1 %}
+            <a href="{{ '/' | relative_url }}">{{ i }}</a>
+          {% else %}
+            <a href="{{ '/page' | append: i | relative_url }}">{{ i }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
 
-  {% if start < 1 %}
-    {% assign end = end | plus: 1 | minus: start %}
-    {% assign start = 1 %}
-  {% endif %}
-  {% if end > total %}
-    {% assign start = start | minus: end | plus: total %}
-    {% assign end = total %}
-  {% endif %}
-  {% if start < 1 %}{% assign start = 1 %}{% endif %}
+    {% elsif current <= 4 %}
+      <!-- Beginning range -->
+      {% for i in (1..4) %}
+        {% if i == current %}
+          <span class="paginator-current">{{ i }}</span>
+        {% else %}
+          {% if i == 1 %}
+            <a href="{{ '/' | relative_url }}">{{ i }}</a>
+          {% else %}
+            <a href="{{ '/page' | append: i | relative_url }}">{{ i }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <a href="{{ '/page' | append: 5 | relative_url }}">5</a>
+      <span class="paginator-ellipsis">…</span>
+      <a href="{{ '/page' | append: total | relative_url }}">{{ total }}</a>
 
-  <!-- Page numbers (always 5 when possible) -->
-  {% for i in (start..end) %}
-    {% if i == current %}
-      <span class="pagination-current">{{ i }}</span>
+    {% elsif current >= total_minus_3 %}
+      <!-- Ending range -->
+      <a href="{{ '/' | relative_url }}">1</a>
+      <span>…</span>
+      <a href="{{ '/page' | append: total_minus_4 | relative_url }}">{{ total_minus_4 }}</a>
+      {% for i in (total_minus_3..total) %}
+        {% if i == current %}
+          <span class="paginator-current">{{ i }}</span>
+        {% else %}
+          <a href="{{ '/page' | append: i | relative_url }}">{{ i }}</a>
+        {% endif %}
+      {% endfor %}
+
     {% else %}
-      {% if i == 1 %}
-        <a href="{{ '/' | relative_url }}">{{ i }}</a>
-      {% else %}
-        <a href="{{ '/page' | append: i | relative_url }}">{{ i }}</a>
-      {% endif %}
+      <!-- Middle range -->
+      <a href="{{ '/' | relative_url }}">1</a>
+      <span class="paginator-ellipsis">…</span>
+      {% assign prev = current | minus: 1 %}
+      {% assign next = current | plus: 1 %}
+      {% for i in (prev..next) %}
+        {% if i == current %}
+          <span class="paginator-current">{{ i }}</span>
+        {% else %}
+          <a href="{{ '/page' | append: i | relative_url }}">{{ i }}</a>
+        {% endif %}
+      {% endfor %}
+      <span class="paginator-ellipsis">…</span>
+      <a href="{{ '/page' | append: total | relative_url }}">{{ total }}</a>
+
     {% endif %}
-  {% endfor %}
 
-  <!-- Конец (link to last page) -->
-  {% if paginator.page < paginator.total_pages %}
-    <a href="{{ '/page' | append: paginator.total_pages | relative_url }}">{% t paginate.last %}</a>
-  {% else %}
-    <span>{% t paginate.last %}</span>
+  </div>
   {% endif %}
-
-</div>
-{% endif %}
 
   {%- else -%}
     <p>{% t paginate.zero %}</p>

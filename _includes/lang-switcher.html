@@ -1,10 +1,10 @@
 <div class="serif lang-switcher">
     {% if site.lang == 'en' %}
-        <a class="page-link" href="{{ '/ru/' | prepend: site.baseurl_root }}">rus</a>
+        <a href="{{ '/ru/' | prepend: site.baseurl_root }}">rus</a>
         <span> ⋅ </span>
         <span>eng</span>
     {% elsif site.lang == 'ru' %}
-        <a class="page-link" href="{{ '/' | site.baseurl_root }}">eng</a>
+        <a href="{{ '/' | site.baseurl_root }}">eng</a>
         <span> ⋅ </span>
         <span>rus</span>
     {% endif %}

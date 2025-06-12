@@ -7,6 +7,7 @@ tags:
 - report
 - friends
 image: /assets/images/2017/10/IMG_6398-2.jpg
+lang: ru
 ---
 
 Новая пиарщица [Эльбы](http://b-kontur.ru) Сич Настя (та самая [арестантка с плакатом «Путин — ситх»](http://echo.msk.ru/blog/alshevskix/838055-echo/)) оче любит движухи разной степени богемности.

@@ -7,6 +7,8 @@ tags:
 - notes
 - annual
 image: /assets/images/2018/01/DSCF8769.jpg
+lang: en
+translation_key: 2k17
 ---
 
 There was a time when I actually knew how to take photos. Nothing fancy or award-winning, of course, and I didn’t get all mathematical about Fibonacci numbers. I just studied Kornbluh, Bresson, Erwin’s work, practiced for hours, and tried to imitate them. Sometimes it turned out decent.

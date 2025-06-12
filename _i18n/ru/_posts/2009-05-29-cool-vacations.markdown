@@ -6,6 +6,7 @@ tags:
 - photo
 - friends
 image: /assets/images/2017/10/IMG_1045-2.jpg
+lang: ru
 ---
 
 Отпуск был клевы. Посвящаю ему эти фотографии.

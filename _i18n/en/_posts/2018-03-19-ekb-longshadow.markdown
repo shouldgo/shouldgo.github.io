@@ -6,6 +6,8 @@ tags:
 - photo
 - notes
 image: /assets/images/2018/03/EKBLNGSHDW-.jpg
+lang: en
+translation_key: ekb-longshadow
 ---
 
 Almost two years ago, I left my hometown. No matter where I live, its long shadow follows me closely, forcing me to revisit this place with the persistence of a bad dream.

@@ -7,6 +7,8 @@ tags:
 - notes
 - annual
 image: /assets/images/2019/01/DSCF9046.jpg
+lang: en
+translation_key: 2k18
 ---
 
 The past year was marked by the life of a digital nomad—full of unexpected relocations, travels, and challenges. I’m writing this post mainly for myself: to reflect, process, and clear out some of the clutter from my mind.

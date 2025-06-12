@@ -6,6 +6,8 @@ tags:
 - photo
 - notes
 image: /assets/images/2018/03/EKBLNGSHDW-.jpg
+lang: ru
+translation_key: ekb-longshadow
 ---
 
 Почти два года назад я уехал из Екатеринбурга. Где бы я ни жил, его длинная тень идёт по пятам и заставляет повторяться в этом месте с частотой дурного сна.

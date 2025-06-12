@@ -6,6 +6,8 @@ tags:
 - travel
 - europe
 image: /assets/images/2020/04/IMG_6879-1.jpg
+lang: en
+translation_key: italia
 ---
 
 Back in 2013, I traveled through six Italian cities: Rome, Florence, Genoa, Bologna, Verona, and Venice. I was hoping to continue the tour that summer, but now—just like the rest of the planet—I’m stuck at home, scrolling through old photos and remembering stories.

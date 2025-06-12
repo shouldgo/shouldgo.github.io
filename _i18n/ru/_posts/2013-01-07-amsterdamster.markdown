@@ -6,6 +6,7 @@ tags:
 - travel
 - europe
 image: /assets/images/2017/09/IMG_1741.jpg
+lang: ru
 ---
 
 Узнав о предстоящей поездке в [Амстердам](http://en.wikipedia.org/wiki/Amsterdam), кудрявый [Apple Genius](http://www.apple.com/retail/geniusbar/) из дрезденского яблочного магазина сказал: *«Awwww, you’ll love it! It’s like Venice, but not smelly!»*. Не могу сказать, что он ошибся во второй части утверждения, но первая себя точно не оправдала. С точки зрения обычного туриста, которого не шибко влекут секс и наркотики, здесь не так много интересного.

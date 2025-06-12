@@ -6,6 +6,7 @@ tags:
 - photo
 - notes
 image: /assets/images/2017/09/1.jpg
+lang: ru
 ---
 
 Когда-то давно — почти в прошлой жизни — я устал фотографировать. Тогда я [купил раритетную Mamiya ZE](http://shouldgo.ru/the-eternal-seduction-of-autumn/ "The eternal seduction of Autumn") за две бутылки пива и пачку собачьего корма, заказал на ебае объектив Sekor 28mm f/2.8 и вырубил запас пленки [Ilford](http://www.ilfordphoto.com/products/producttype.asp?n=3&t=Black+%26+White+Films).

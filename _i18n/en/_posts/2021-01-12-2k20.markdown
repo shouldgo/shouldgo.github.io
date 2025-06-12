@@ -8,6 +8,8 @@ tags:
 - notes
 - annual
 image: /assets/images/2021/01/DSCF3798.jpg
+lang: en
+translation_key: 2k20
 
 ---
 

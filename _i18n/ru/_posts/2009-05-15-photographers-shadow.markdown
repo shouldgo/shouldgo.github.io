@@ -6,6 +6,7 @@ tags:
 - photo
 - friends
 image: /assets/images/2017/10/photoshadow.jpg
+lang: ru
 ---
 
 > I’ve been waiting for a guide to come and take me by the hand.  

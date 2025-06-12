@@ -7,6 +7,8 @@ tags:
 - europe
 - czechia
 image: /assets/images/2020/04/DSCF3450-1.jpg
+lang: en
+translation_key: prague-czechia
 ---
 
 Before the planet was locked down for quarantine, I used to visit Czechia with the frequency of a bad dream. I managed to live in Prague, caught all the seasons, and toured almost every interesting city. I brought back tons of photos and stories to take you on a virtual tour of the homeland of beer and dumplings.

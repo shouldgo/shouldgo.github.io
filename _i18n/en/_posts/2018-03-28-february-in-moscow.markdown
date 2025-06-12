@@ -6,6 +6,8 @@ tags:
 - photo
 - notes
 image: /assets/images/2018/03/DSCF0351.jpg
+lang: en
+translation_key: february-in-moscow
 ---
 
 After wonderful months in Cyprus (which I still haven’t gotten around to writing about), we returned to Moscow. In February, in these latitudes, you basically have two options: drown yourself in wine or quickly escape somewhere nicer. We went with the latter.

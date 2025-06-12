@@ -7,6 +7,7 @@ tags:
 - video
 - notes
 image: /assets/images/2017/10/jul1.jpg
+lang: ru
 ---
 
 **Совет 1:** снимай на ширик с кривой геометрией — это по-творчески.

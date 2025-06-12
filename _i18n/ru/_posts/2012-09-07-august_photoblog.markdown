@@ -7,6 +7,7 @@ tags:
 - video
 - notes
 image: /assets/images/2017/10/2_IMG_8368.jpg
+lang: ru
 ---
 
 Привет, бложек, как бы говорит православный [Серёжа](https://twitter.com/nikovneostalos)!

@@ -9,6 +9,8 @@ tags:
 - europe
 - polska
 image: /assets/images/2025/05/DSCF2702.jpg
+lang: en
+translation_key: poland-elections
 ---
 
 On June 1st, Poles were electing a new president. The old one, inherited from the previous ruling coalition of national-conservatives, served his sentence, and is ready to ride off into the sunset, leaving a chemtrail of not-so-funny political memes.

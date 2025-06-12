@@ -6,6 +6,7 @@ tags:
 - photo
 - report
 image: /assets/images/2017/10/7c94383c316a059901311d304f38472f.jpg
+lang: ru
 ---
 
 Посетил концерт [The Horrors](http://en.wikipedia.org/wiki/The_Horrors). Стоял в толпе педовок у сцены с объективом, дырка которого уже иголочного ушка. Снимал на исо3200 и высаживался.

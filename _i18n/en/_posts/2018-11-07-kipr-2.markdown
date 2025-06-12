@@ -7,6 +7,8 @@ tags:
 - europe
 - cyprus
 image: /assets/images/2018/11/DSCF8975.jpg
+lang: en
+translation_key: kipr-2
 ---
 
 Cyprus isn’t just Larnaca and Ayia Napa. The most interesting things lie far from the beach resorts. Once you’ve had your fill of sunbathing and seafood restaurants, read this post, rent a motor, and hit the road for an off-the-beaten-path adventure.

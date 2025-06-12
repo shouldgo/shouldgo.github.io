@@ -6,6 +6,8 @@ tags:
 - travel
 - europe
 image: /assets/images/2024/12/DSCF9581.jpg
+lang: en
+translation_key: ljubljana-gem
 ---
 
 Slovenia was a pure coinsidense that turned out to be the greatest discovery of the year. Had zero expectations, got massively surprised. It is as neat as Denmark, as stunning as Switzerland, as chill and delicious as the rest of the Balkans.
