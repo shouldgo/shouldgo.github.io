@@ -11,7 +11,7 @@
 
   <!-- Language Redirect -->
   {% if page.url == "/" or page.url == "" or page.url == "/index.html" %}
-    <script src="{{ '/assets/js/lang-redirect.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/lang-redirect.js' | prepend: site.base_url }}"></script>
   {% endif %}
 
   <!-- Glightbox CSS -->

@@ -17,7 +17,7 @@
 
     <!-- Glightbox JS -->
     {% if page.url contains "photo-gallery" %}
-      <script src="/assets/js/glightbox.js"></script>
+      <script src="{{ '/assets/js/glightbox.js' | prepend:site.base_url }}"></script>
       <script>
         const lightbox = GLightbox({
         selector: '.glightbox',
