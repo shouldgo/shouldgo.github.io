@@ -214,7 +214,7 @@ Trans people are everywhere. Despite all the horror stories, it’s actually pre
 
 Sooner or later, you’ll get tired of the booze and need to find your own way out of the blue hole. Everyone’s ladder is different.
 
-![DSCF0400-1](/assets/images/2018/04/DSCF0400-1.jpg)
+![DSCF0400](/assets/images/2018/04/DSCF0400.jpg)
 
 Thrill-seekers go poke the jungle with their junk, ride CRF bikes and surf the waves. The spiritual types do yoga and “practices” (read: weed and napping).
 

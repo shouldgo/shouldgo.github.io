@@ -86,7 +86,7 @@ lang: ru
 
 По дороге Россия передала нам целых два привета и напомнила о самом худшем, что ждет нас дома. Замечательное совпадение. Остатки волшебства мы утопили в бокале [Pilsner Urquell](http://en.wikipedia.org/wiki/Pilsner_Urquell) в замечательном кафе [Pod Vysehradem](http://www.podvysehradem.cz) и отправились паковать вещи.
 
-![prague_3_26](/assets/images/2017/09/IMG_0089-1.jpg)
+![prague_3_26](/assets/images/2017/09/IMG_0089.jpg)
 
 ## Вэйбэк ту Раша
 

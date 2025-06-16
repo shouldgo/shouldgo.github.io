@@ -14,11 +14,11 @@ lang: ru
 
 ![IMG_4919](/assets/images/2017/10/IMG_4919.jpg)
 ![IMG_5673](/assets/images/2017/10/IMG_5673.jpg)
-![IMG_5176-1](/assets/images/2017/10/IMG_5176-1.jpg)
+![IMG_5176](/assets/images/2017/10/IMG_5176.jpg)
 
 Причина, по которой в этом выпуске так много Антонов и Наташ — их недавный отпуск в Украине, из которого они вернулись помолвленными!
 
-![IMG_5421-1](/assets/images/2017/10/IMG_5421-1.jpg)
+![IMG_5421](/assets/images/2017/10/IMG_5421.jpg)
 ![IMG_5526](/assets/images/2017/10/IMG_5526.jpg)
 ![IMG_5556](/assets/images/2017/10/IMG_5556.jpg)
 ![IMG_5569](/assets/images/2017/10/IMG_5569.jpg)

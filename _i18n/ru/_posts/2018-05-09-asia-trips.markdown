@@ -5,7 +5,7 @@ date: '2018-05-09 20:25:05'
 tags:
 - travel
 - asia
-image: /assets/images/2018/05/DSCF1688-1.jpg
+image: /assets/images/2018/05/DSCF1688.jpg
 lang: ru
 translation_key: asia-trips
 ---
@@ -63,7 +63,7 @@ translation_key: asia-trips
 
 Специальный административный район КНР [Гонконг](https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3) — слишком большое во всех смыслах место, поэтому сразу откажусь от попыток написать связный повествовательный текст и ограничусь фактами.
 
-![DSCF1688-1](/assets/images/2018/05/DSCF1688-1.jpg)
+![DSCF1688](/assets/images/2018/05/DSCF1688.jpg)
 
 Гонконг — вертикальный город. Освоенная площадь Гонконга в десять раз меньше Москвы. Население — 7 миллионов человек.
 

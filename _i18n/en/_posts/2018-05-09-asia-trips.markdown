@@ -5,7 +5,7 @@ date: '2018-05-09 20:25:05'
 tags:
 - travel
 - asia
-image: /assets/images/2018/05/DSCF1688-1.jpg
+image: /assets/images/2018/05/DSCF1688.jpg
 lang: en
 translation_key: asia-trips
 ---
@@ -63,7 +63,7 @@ The best travel tip I can give about Kuala Lumpur — don’t go to Kuala Lum
 
 The [Hong Kong SAR](https://en.wikipedia.org/wiki/Hong_Kong) is way too big in every sense, so I won’t even try to write a narrative — just facts.
 
-![DSCF1688-1](/assets/images/2018/05/DSCF1688-1.jpg)
+![DSCF1688](/assets/images/2018/05/DSCF1688.jpg)
 
 Hong Kong is a vertical city. The developed area is ten times smaller than Moscow, yet it’s home to 7 million people.
 

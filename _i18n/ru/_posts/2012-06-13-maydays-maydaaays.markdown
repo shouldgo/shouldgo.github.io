@@ -6,7 +6,7 @@ tags:
 - photo
 - video
 - notes
-image: /assets/images/2017/10/IMG_4377-1.jpg
+image: /assets/images/2017/10/IMG_4377.jpg
 lang: ru
 ---
 
@@ -48,4 +48,4 @@ lang: ru
 Невероятно, но факт: хиленькая говнотечка в черте города в отсутствие нормального водоема вполне подходит для вечерних прогулок на лодке или катамаране!
 
 ![](/assets/images/2017/10/IMG_4709.jpg)
-![](/assets/images/2017/10/IMG_4377-1.jpg)
+![](/assets/images/2017/10/IMG_4377.jpg)

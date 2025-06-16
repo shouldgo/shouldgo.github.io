@@ -14,5 +14,5 @@ lang: ru
 ![Heart of glass, Дмитрий Афонин, 2010](/assets/images/2017/10/heart_of_glass_by_shouldgo.jpg)
 ![Holes n Wrinkles, Дмитрий Афонин, 2010](/assets/images/2017/10/IMG_0595.jpg)
 ![Glowers, Дмитрий Афонин, 2010](/assets/images/2017/10/glowers_by_shouldgo.jpg)
-![Windowfil, Дмитрий Афонин, 2010](/assets/images/2017/10/IMG_9348-1.jpg)
+![Windowfil, Дмитрий Афонин, 2010](/assets/images/2017/10/IMG_9348.jpg)
 ![The last moment of happiness, Дмитрий Афонин, 2010](/assets/images/2017/10/IMG_2552.jpg)

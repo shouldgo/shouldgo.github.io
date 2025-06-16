@@ -6,20 +6,20 @@ tags:
 - photo
 - notes
 - friends
-image: /assets/images/2017/10/IMG_9149-1.jpg
+image: /assets/images/2017/10/IMG_9149.jpg
 lang: ru
 ---
 
 Недавно обещал, что возьмусь за старое: буду постить фото в уютный бложек, отправляя лучшие занимать [на 500px](http://500px.com/shouldgo), на котором я зареган с его релиза. Пока что «лучших» набралось ровно ноль, но есть надежда на светлое завтра!
 
-![E-scape 3, Афонин Дмитрий, 2012](/assets/images/2017/10/IMG_9830-1.jpg)
-![The Sun is on my side, Дмитрий Афонин, 2012](/assets/images/2017/10/IMG_8228-1.jpg)
+![E-scape 3, Афонин Дмитрий, 2012](/assets/images/2017/10/IMG_9830.jpg)
+![The Sun is on my side, Дмитрий Афонин, 2012](/assets/images/2017/10/IMG_8228.jpg)
 
 Отдельное спасибо получает [Нехватит](http://twitter.com/nexvatit), который дал взаймы светосильный объектив на 35 мм!
 
-![Winter night near Iset river, Дмитрий Афонин, 2012](/assets/images/2017/10/IMG_9149-1.jpg)
-![Исеть, Екатеринбург, Дмитрий Афонин, 2012](/assets/images/2017/10/IMG_9658-1.jpg)
-![Under the bridge, Дмитрий Афонин, 2012](/assets/images/2017/10/IMG_9701-1.jpg)
+![Winter night near Iset river, Дмитрий Афонин, 2012](/assets/images/2017/10/IMG_9149.jpg)
+![Исеть, Екатеринбург, Дмитрий Афонин, 2012](/assets/images/2017/10/IMG_9658.jpg)
+![Under the bridge, Дмитрий Афонин, 2012](/assets/images/2017/10/IMG_9701.jpg)
 ![Sleep comes down, Дмитрий Афонин, 2012](/assets/images/2017/10/IMG_9758.jpg)
 
 А это — [Саня](http://twitter.com/dwht) — коллега, друг и начинающий фотограф. Желаю Сане поскорее авести блог и начать выкладывать фотки!

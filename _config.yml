@@ -23,7 +23,7 @@ plugins:
 
 # Localization settings
 languages: ["en", "ru"]
-exclude_from_localizations: ["javascript", "images", "css"]
+exclude_from_localizations: ["javascript", "images", "css", "assets"]
 default_locale_in_subfolder: false
 
 # Excerpt settings
