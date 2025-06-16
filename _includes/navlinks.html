@@ -9,4 +9,9 @@
     {% else %}
       <a href="{{ "/dima-afonin/" | relative_url }}">{% t nav.about %}</a>
     {% endif %}
+    {% if page.url contains 'photo-gallery' %}
+      <span>{% t nav.gallery %}</span>
+    {% else %}
+      <a href="{{ "/photo-gallery/" | relative_url }}">{% t nav.gallery %}</a>
+    {% endif %}
 </div>

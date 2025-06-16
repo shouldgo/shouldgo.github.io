@@ -19,6 +19,7 @@ plugins:
   - jekyll-paginate-v2 # https://github.com/sverrirs/jekyll-paginate-v2
   - jekyll-loading-lazy # https://github.com/gildesmarais/jekyll-loading-lazy 
   - jekyll-multiple-languages-plugin # https://github.com/kurtsson/jekyll-multiple-languages-plugin
+  - jekyll-target-blank #https://github.com/keithmifsud/jekyll-target-blank
 
 # Localization settings
 languages: ["en", "ru"]

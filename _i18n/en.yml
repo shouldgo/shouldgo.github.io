@@ -1,16 +1,15 @@
 global:
-  russian: Русский
-  english: English
   tagline: Photography, travel, and travel photography.
   author: Dima Afonin
 paginate:
   zero: No posts found :C
 titles:
-  home: Home
   about: Who's Dima Afonin?
+  gallery: Photos by Dima Afonin
 descriptions:
   home: My personal blog about photography, travel, and travel photography.
   about: Dirty secrets, sensational reveals, and nude photo leaks — exclusively on this page!
+  gallery: A collection of dusty snapshots taken by Dima Afonin from 2009 to the present day.
 nav:
   fb: facebook
   in: linkedin
@@ -18,6 +17,7 @@ nav:
   home: home
   about: about
   blog: blog
+  gallery: gallery
 tags:
   travel: travel
   photo: photo
