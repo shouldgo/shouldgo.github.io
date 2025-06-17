@@ -11,3 +11,15 @@
 Пишу о фотографии, путешествиях и о фотографии из путешествий. А от вас мне нужны только лайки и репосты, потому что я — эгоист и очень плохой человек!
 
 Написать мне можно в [Фейсбук](https://facebook.com/dima.afonin), [Телеграм](http://telegram.me/shouldgo) или на [почту](mailto:shouldgo@me.com). Но лучше не надо.
+
+![](/assets/images/2017/09/1.jpg)
+- ![](/assets/images/2025/04/DSCF0648.jpg)
+- ![](/assets/images/2020/04/IMG_0949.jpg)
+
+![](/assets/images/2020/05/26232789.jpg)
+- ![](/assets/images/2019/01/DSCF5748.jpg)
+- ![](/assets/images/2017/10/IMG_5684.jpg)
+
+![](/assets/images/2017/10/180910.jpg)
+- ![](/assets/images/2017/09/IMG_0052.jpg)
+- ![](/assets/images/2017/09/IMG_2507.jpg)

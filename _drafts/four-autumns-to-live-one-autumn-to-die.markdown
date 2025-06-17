@@ -142,4 +142,3 @@ title: Four autumns to live, one autumn to die
 Под накал фонарей.  
 Лишь бы снова успеть  
 Стать на ломтик добрей.
-

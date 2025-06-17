@@ -5,11 +5,13 @@ date: '2010-05-30 23:59:00'
 tags:
 - photo
 - report
-image: /assets/images/2017/10/8e7c6e36f1c3c3e678aa3879e666e4ea.jpg
+image: /assets/images/2017/10/IMG_8320.jpg
 lang: ru
 ---
 
 Вот такой вот паровозик из Шарташково. Посоны хорошо рисуют, это я понял. Нахуя — не понял. Спасибо [Нехватиту](http://twitter.com/nexvatit) за наводочку и за скуку смертную.
+
+![](/assets/images/2017/10/IMG_8320.jpg)
 
 ![Граффити на вагоне поезда, Дмитрий Афонин, 2010](/assets/images/2017/10/IMG_8414.jpg)
 ![Граффити на вагоне поезда, Дмитрий Афонин, 2010](/assets/images/2017/10/8e7c6e36f1c3c3e678aa3879e666e4ea.jpg)

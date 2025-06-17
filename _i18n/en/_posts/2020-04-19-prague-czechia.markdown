@@ -6,14 +6,14 @@ tags:
 - travel
 - europe
 - czechia
-image: /assets/images/2020/04/DSCF3450-1.jpg
+image: /assets/images/2020/04/DSCF3450.jpg
 lang: en
 translation_key: prague-czechia
 ---
 
 Before the planet was locked down for quarantine, I used to visit Czechia with the frequency of a bad dream. I managed to live in Prague, caught all the seasons, and toured almost every interesting city. I brought back tons of photos and stories to take you on a virtual tour of the homeland of beer and dumplings.
 
-![](/assets/images/2020/04/DSCF3450-1.jpg)
+![](/assets/images/2020/04/DSCF3450.jpg)
 
 Prague was my first trip abroad. It was the starting point of a long European trip in 2012, which later turned into an annual tradition and eventually triggered my [move to Poland](/blog/love-poland/).
 
@@ -52,7 +52,7 @@ Czechs are friendly and polite but deliberately reserved. Despite “common root
 ![](/assets/images/2020/04/DSCF3517.jpg)
 ![](/assets/images/2020/04/DSCF1217.jpg)
 ![](/assets/images/2020/04/DSCF3423.jpg)
-![](/assets/images/2020/04/DSCF8977-1.jpg)
+![](/assets/images/2020/04/DSCF8977.jpg)
 
 Czechs love dogs. It feels like every family (and even some homeless people) own a flea carrier. All dogs are well-behaved, don’t bark, and walk off-leash — from pugs to huge wolfhounds and pit bulls. Cafés bring dogs bowls of water and treats.
 
@@ -60,7 +60,7 @@ Czechs love dogs. It feels like every family (and even some homeless people) ow
 
 Outside the tourist hell, the city lives quietly and relaxed. People gather daily at wine bars and pubs to celebrate another fine evening. There’s no social stratification — from white collars, elders, families, to the scruffy punks, all drink from the same tap.
 
-![](/assets/images/2020/04/DSCF2042-1.jpg)
+![](/assets/images/2020/04/DSCF2042.jpg)
 ![](/assets/images/2020/04/DSCF3341.jpg)
 ![](/assets/images/2020/04/DSCF2133.jpg)
 ![](/assets/images/2020/04/DSCF3386.jpg)
@@ -68,11 +68,11 @@ Outside the tourist hell, the city lives quietly and relaxed. People gather dail
 Our biggest discovery was Moravian white wines — rieslings, grüner veltliners, pinot gris, and other chardonnays. They taste wonderful, cause no hangovers, start at 80 CZK (about 250 RUB) per bottle, and hardly get exported.
 
 ![](/assets/images/2020/04/DSCF1808.jpg)
-![](/assets/images/2020/04/File-00005.jpg)
+![](/assets/images/2020/01/file_00005.jpg)
 
 Prague is a budget-friendly city. We lived on €2,000 a month, half of which went on rent, and the other half on trips across Europe. We cooked at home and tried all kinds of cheap grains, cheeses, and meats. In taste and quality, they outshine any Russian products.
 
-![](/assets/images/2020/04/DSCF1995-1.jpg)
+![](/assets/images/2020/04/DSCF1995.jpg)
 ![](/assets/images/2020/04/DSCF2624.jpg)
 - ![](/assets/images/2020/04/DSCF1751.jpg)
 - ![](/assets/images/2020/04/DSCF7180.jpg)
@@ -157,4 +157,4 @@ Even a aimless trip through Czechia is a supreme aesthetic pleasure. Neatly t
 
 In the past couple of years, I’ve been to Czechia six or seven times, and I’ll happily stop for a glass of Moravian wine right after quarantine. Hope to see you there too. Until then!
 
-![](/assets/images/2020/04/60267802_10219135056991997_9180095585603026944_o.jpg)
+![](/assets/images/2020/04/60267802.jpg)

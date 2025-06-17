@@ -9,4 +9,3 @@ title: Ровногод
 **Eunice:** Symbolism?  
 **Detective Dolly:** Yeah. What does it symbolize?  
 **Eunice:** Well, it symbolizes a huge fuck-up.
-

@@ -126,7 +126,7 @@ translation_key: post-phuket
 
 Мне довелось работать в охуенной команде [Aviasales](http://aviasales.ru). Единственно эта причина удерживала меня в Тае все восемь месяцев.
 
-![UNADJUSTEDNONRAW_thumb_4da1](/assets/images/2018/04/UNADJUSTEDNONRAW_thumb_4da1.jpg)
+![](/assets/images/2018/04/thumb_4da1.jpg)
 
 Найти работу можно прямо на месте. На острове куча компаний с русскими корнями, которым всегда нужны русские администраторы.
 
@@ -146,11 +146,11 @@ translation_key: post-phuket
 
 Домик в джунглях — это когда в чай насрал геккон, хлеб съели муравьи, а до магазина нужно ехать на байке. Ночью. В дождь.
 
-![UNADJUSTEDNONRAW_thumb_4d44](/assets/images/2018/04/UNADJUSTEDNONRAW_thumb_4d44.jpg)
+![](/assets/images/2018/04/thumb_4d44.jpg)
 
 Кондоминиумы европейского типа есть по всему острову, но самый козырный район — это [Rawai](https://goo.gl/maps/JAju9vvQMEt) и жилой комплекс [Title](https://www.booking.com/hotel/th/the-title-phuket.ru.html?aid=318615;label=New_English_EN_CZ_27034548625-RCcFf1rkKp7xfJLIifbrigS112436924665%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi2643539969%3Atiaud-146342137510%3Adsa-355815316927%3Alp9062904%3Ali%3Adec%3Adm;sid=b38aab8a7c055190eadded4820ef7bfd;dest_id=-3243202;dest_type=city;dist=0;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;srepoch=1524512671;srfid=055ed660f501a917106e083ad38a7dfa73b9d966X1;srpvid=af048acf20b00059;type=total;ucfs=1&#hotelTmpl).
 
-![UNADJUSTEDNONRAW_thumb_4d9c](/assets/images/2018/04/UNADJUSTEDNONRAW_thumb_4d9c.jpg)
+![](/assets/images/2018/04/thumb_4d9c.jpg)
 
 Прямо через дорогу есть пляж с лонгтейлами и куча кафе, не слишком забитых туристами. До магазина можно ходить ногами.
 
@@ -166,7 +166,7 @@ translation_key: post-phuket
 
 Самый козырный бар на районе — [Mad Mohally's](https://goo.gl/maps/UDuVAqufwwz). Его держат старый сварливый ирландец Бран и его тайская жена Мэй. Если будете хорошим мальчиком, Бран наградит вас косяком.
 
-![UNADJUSTEDNONRAW_thumb_4d51](/assets/images/2018/04/UNADJUSTEDNONRAW_thumb_4d51.jpg)
+![](/assets/images/2018/04/thumb_4d51.jpg)
 
 Если поедете на Пхукет — селитесь на Раваях. Не ведитесь на шлюхотусовочный Патонг или пафосные Дусит и Бангтао.
 

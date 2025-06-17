@@ -5,13 +5,13 @@ date: '2010-02-24 15:45:00'
 tags:
 - photo
 - notes
-image: /assets/images/2017/09/IMG_6224_1.jpg
+image: /assets/images/2017/09/IMG_6224.jpg
 lang: ru
 ---
 
 Хоть и не свежее, но последнее: гоночные селезни, негоночные неселезни, бытовой илитизм, а так же -31 градус, 9 утра, бытовой героизм. После опустошающей затяжной зимы приходится заново учиться работать с камерой.
 
-![Fog on the water, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_7788-2.jpg)
-![Pretty in frost, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_6224_1.jpg)
-![Strayway, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_6358-Edit1.jpg)
-![Duckrace, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_6173-3.jpg)
+![Fog on the water, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_7788.jpg)
+![Pretty in frost, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_6224.jpg)
+![Strayway, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_6358.jpg)
+![Duckrace, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_6173.jpg)

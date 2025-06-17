@@ -36,8 +36,8 @@ Back in those dark ages, we hadn’t yet attached “-sharing” to every wor
 
 And so, covered in bruises, I skated all over — from Montparnasse to Père Lachaise, stopping now and then for brunches and decent wine in local cafés. That’s also how I learned about “French pricing” and lost a chunk of my funds.
 
-- ![](/assets/images/2020/05/C2D59B60-8D65-4F04-B9CD-BCCC0A7554BA_1_105_c.jpg)
-- ![](/assets/images/2020/05/3959D536-4AC9-4A6E-A61A-9E6E796C7243_1_105_c.jpg)
+- ![](/assets/images/2020/05/C2D59B60.jpg)
+- ![](/assets/images/2020/05/3959D536.jpg)
 
 Between visiting basilicas and the Louvre, I drank the worst mulled wine in Europe — “vin chaud”, watched the architecture, and quickly grew tired of the city’s kitschy overload. At one point, I felt physically repelled by everything around me.
 
@@ -48,13 +48,13 @@ Between visiting basilicas and the Louvre, I drank the worst mulled wine in Eu
 
 One last weird experience: I randomly met a strange guy from the U.S. at Jim Morrison’s grave in [Père Lachaise](https://g.page/perelachaise?share), and we ended up smoking a joint on the [Champ de Mars](https://goo.gl/maps/9HqAxheZhqicre6H8), listening to a freestyle by a sketchy local rapper.
 
-- ![](/assets/images/2020/05/BA3C679B-33F1-46FF-A4EE-17655DA33404_1_105_c.jpg)
-- ![](/assets/images/2020/05/D8E66136-D80 °F-4AA0-84E9-6284EC407472_1_105_c.jpg)
+- ![](/assets/images/2020/05/BA3C679B.jpg)
+- ![](/assets/images/2020/05/D8E66136.jpg)
 
 That dude had never heard of the Louvre or Notre-Dame, had overstayed his visa, blown all his money, and ditched his bike — which he had planned to ride to the airport — in a dark alley. We never found it again.
 
-![](/assets/images/2020/05/IMG_2248-1.jpg)
-![](/assets/images/2020/05/IMG_2255-1.jpg)
+![](/assets/images/2020/05/IMG_2248.jpg)
+![](/assets/images/2020/05/IMG_2255.jpg)
 
 I treated him to some terrible mulled wine from the Champs-Élysées fair and gave him a few euros for the metro. I nearly missed my train the next morning, mixing up the stations thanks to a hangover. But I caught it just in time and left unfriendly Paris behind.
 
@@ -68,12 +68,12 @@ In the summer of 2019, I returned to Paris with a healthy dose of skeptici
 
 This time, with more experience under our belts, we rented a place closer to the center — about ten minutes from the burnt-out Notre-Dame. At check-in, we were greeted by the most cartoonish host: a gay guy in a striped tank top and Balenciaga slippers, flashing a charming little “voilà.”
 
-![](/assets/images/2020/05/DSCF9631-1.jpg)
+![](/assets/images/2020/05/DSCF9631.jpg)
 
 These days were all about total tolerance, picnics with amazing cheap wine, bakeries with the world’s best cappuccino, cafés serving delicious onion soup, and late-night scooter rides through Paris. Oh, and the Bastille Day parade too.
 
-- ![](/assets/images/2020/05/DSCF9660-2.jpg)
-- ![](/assets/images/2020/05/36363B03-BB52-4DF3-9202-A41ED2C01D2C_1_105_c.jpg)
+- ![](/assets/images/2020/05/DSCF9660.jpg)
+- ![](/assets/images/2020/05/36363B03.jpg)
 
 In the summer, covered in lush greenery, Paris doesn’t feel so over-the-top and pretentious. The foliage softens the bulging façades and baroque reliefs, making the city feel more welcoming and cozy — even for a regular guy from the Russian provinces.
 
@@ -102,7 +102,7 @@ All French cities are different. The only thing they have in common is that, s
 
 [Lyon](https://goo.gl/maps/JuTxZD7B73ZAwJS18) — the third-largest and arguably the most comfortable city in France. Visually very different from both Paris and Dijon, with its basilicas and bridges. The city even has a few Roman amphitheaters built in the early centuries AD.
 
-![The Odeon in Lyon](/assets/images/2020/05/F5A81D05-D9BF-480A-9EA0-D47A854889D9_1_105_c.jpg)
+![The Odeon in Lyon](/assets/images/2020/05/F5A81D05.jpg)
 
 ![](/assets/images/2020/05/IMG_2536.jpg)
 ![](/assets/images/2020/05/IMG_2553.jpg)
@@ -127,13 +127,13 @@ Here, I lost my wallet with all my cash and cards — and randomly bumped int
 
 [Colmar](https://goo.gl/maps/WMupMF4dYKuq9fMP8) — a small town in the [Alsace](https://en.wikipedia.org/wiki/Alsace) region that’s been passed back and forth between the French and Germans. German cuisine, gingerbread-style houses, and a local dialect full of German words. Feels nothing like France.
 
-![Colmar – half-timbered fairy tale](/assets/images/2020/05/IMG_3359-1.jpg)
+![Colmar – half-timbered fairy tale](/assets/images/2020/05/IMG_3359.jpg)
 ![](/assets/images/2020/05/IMG_3291.jpg)
 ![](/assets/images/2020/05/IMG_3332.jpg)
 
 Same goes for [Strasbourg](https://goo.gl/maps/wZLGgTSMe4p9C6AA7) — the capital of Alsace, known for its cathedral. The basilica really is stunning, with its façade and rose windows… though sadly, my camera sensor didn’t do them justice.
 
-![Strasbourg Cathedral portal](/assets/images/2020/05/IMG_3493-1.jpg)
+![Strasbourg Cathedral portal](/assets/images/2020/05/IMG_3493.jpg)
 ![](/assets/images/2020/05/IMG_3412.jpg)
 ![](/assets/images/2020/05/IMG_3465.jpg)
 

@@ -24,5 +24,4 @@ tags:
 А так,&nbsp;я снова оставлю всё как есть.
 
 ![Waiting for a better world, фото Дмитрия Афонина, на фото — Анна Глазырина, 2010 год](/assets/images/2017/10/IMG_1059.jpg)
-
-![Waiting for a better world, фото Дмитрия Афонина, на фото — Анна Глазырина, 2010 год](/assets/images/2017/10/IMG_1045-2.jpg)
+![Waiting for a better world, фото Дмитрия Афонина, на фото — Анна Глазырина, 2010 год](/assets/images/2017/10/IMG_1045.jpg)

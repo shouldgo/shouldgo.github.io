@@ -4,7 +4,7 @@ title: Мойпосуду шоу
 date: '2012-01-26 20:02:00'
 tags:
 - video
-image: /assets/images/2012/01/moiposudu.png
+image: /assets/images/2012/01/moiposudu.jpg
 lang: ru
 ---
 

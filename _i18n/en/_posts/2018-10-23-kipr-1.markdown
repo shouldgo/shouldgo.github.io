@@ -19,7 +19,7 @@ This year I visited Cyprus twice, traversed the island in every direction, too
 
 It turns out some folks think Cyprus is part of Greece. It’s not. Cyprus is a fragment of Hellenistic civilization, a former British colony, and now — an island of two states: the [Republic of Cyprus](https://en.wikipedia.org/wiki/Republic_of_Cyprus) in the South, and the [Turkish Republic of Northern Cyprus](https://en.wikipedia.org/wiki/Turkish_Republic_of_Northern_Cyprus) in the North. Between them lies a chasm (and a UN buffer zone).
 
-![Limassol beach strip](/assets/images/2018/10/DSCF8901-1.jpg)
+![Limassol beach strip](/assets/images/2018/10/DSCF8901.jpg)
 
 Southern Cyprus, often confused with Greece, is actually quite similar to Hellas. They speak Greek, eat gyros, are part of the EU, and use the Euro. Located near the coast of Asia Minor — between Turkey, Syria, Libya, and Israel. Reminders of the colonial past include a few British military bases and excellent English, spoken even in the villages.
 
@@ -27,17 +27,17 @@ Southern Cyprus, often confused with Greece, is actually quite similar to Hell
 
 You can get to Cyprus without a Schengen visa. The local visa is issued for free on the [embassy website](http://www.mfa.gov.cy/mfa/Embassies/embassy_moscow.nsf/All/F316813FF1591923C2257E5A002C1D7B?OpenDocument) in just a couple of hours. Maximum stay for tourists is 90 days. Schengen holders can enter too, but only if their visa was opened in another EU country.
 
-![Fields near Larnaca](/assets/images/2018/10/DSCF9029-1.jpg)
+![Fields near Larnaca](/assets/images/2018/10/DSCF9029.jpg)
 
 We visited Cyprus in January and late August. Strangely enough, I liked January more. Swimming and sunbathing then is pretty much limited to the bathtub, but there are almost no tourists, the air smells of ripe oranges, and coastal temperatures hover around 15–20°C. Wintering in Cyprus is the perfect way to escape the gloomy Moscow winter.
 
-![](/assets/images/2018/10/DSCF9718-3.jpg)
-![](/assets/images/2018/10/2592524B-C2AE-448E-89E7-E970024D92CC-2.JPG)
+![](/assets/images/2018/10/DSCF9718.jpg)
+![](/assets/images/2018/10/cyprus_oranges.jpg)
 
 August–September is hot and muggy — around 35°C. Resort beaches are so packed you can only get in the sea sliding on slippery backsides (mostly Russian). On the bright side, late summer brings grape harvests, wine festivals, and parties of a different kind.
 
-![](/assets/images/2018/10/DSCF5369-1.jpg)
-![](/assets/images/2018/10/DSCF5382-1.jpg)
+![](/assets/images/2018/10/DSCF5369.jpg)
+![](/assets/images/2018/10/DSCF5382.jpg)
 ![](/assets/images/2018/10/DSCF5603.jpg)
 ![](/assets/images/2018/10/DSCF5661.jpg)
 
@@ -47,8 +47,8 @@ Besides resort beaches, the island is famous for offshore businesses and a mil
 
 Around 800,000 people live on the island. The second largest ethnic group — Russians — make up about 5%. In Limassol, they’re over 10%, not counting those who come every six months for 90 days on tourist visas like going to a summer home. Including the summer home crowd, Russians feel like 20-30% of Limassol’s population.
 
-![](/assets/images/2018/10/DSCF8813-1.jpg)
-![](/assets/images/2018/10/IMG_7178-1.jpeg)
+![](/assets/images/2018/10/DSCF8813.jpg)
+![](/assets/images/2018/10/IMG_7178.jpeg)
 
 The third largest ethnic group — cats. They are respected and fed here, so about 30% of the waterfront is cats, and the beach sand is basically buried cat poop. Even the island’s shape resembles a cat’s silhouette (okay, I just made that up).
 
@@ -70,7 +70,7 @@ First, the city is actually called Lefkosia. Nicosia is a name given by 12th
 
 The city sits in the island’s center, far from the sea and tourists. It has lots of cars, offices, and shops, but few sights. The Venetian fortress surrounding the historic center is notable, but it’s way more interesting to see its star-shaped outline on [Google Maps](https://goo.gl/maps/pafK8mbcJm52) than up close.
 
-![Venetian fortress perimeter around Nicosia](/assets/images/2018/10/Screenshot-2018-10-23-at-20.13.51-2.jpg)
+![Venetian fortress perimeter around Nicosia](/assets/images/2018/10/nicosia_map.jpg)
 
 An hour is enough to stroll through the historic center. Then you can cross on foot into the Turkish part of the city — Lefkoşa. No special permits or visas are needed, just a passport and the will to go.
 
@@ -88,9 +88,9 @@ Going to Nicosia for a holiday? Not a great idea. Living there feels a bit h
 ![](/assets/images/2018/10/DSCF9824.jpg)
 ![](/assets/images/2018/10/DSCF9249.jpg)
 ![](/assets/images/2018/10/DSCF8652.jpg)
-![](/assets/images/2018/10/DSCF8933-1.jpg)
-![](/assets/images/2018/10/DSCF9226-1.jpg)
-![](/assets/images/2018/10/DSCF8894-1.jpg)
+![](/assets/images/2018/10/DSCF8933.jpg)
+![](/assets/images/2018/10/DSCF9226.jpg)
+![](/assets/images/2018/10/DSCF8894.jpg)
 ![](/assets/images/2018/10/DSCF9721.jpg)
 ![](/assets/images/2018/10/DSCF5140.jpg)
 
@@ -120,7 +120,7 @@ Another large ethnic group here are the Brits, who come to this former colony t
 
 Paphos has way more cultural heritage than Limassol, which is why it’s on the UNESCO list. Walking around the center, you constantly bump into ancient ruins or even older caves. If you’re into antiquity, you’ll dig it.
 
-![](/assets/images/2018/10/DSCF9469-1.jpg)
+![](/assets/images/2018/10/DSCF9469.jpg)
 ![](/assets/images/2018/10/DSCF9478.jpg)
 
 Paphos is also the birthplace of the cult of Aphrodite. Not far from the city is a [bay](https://goo.gl/maps/A8n7659QxQu) where, legend says, the goddess of love emerged from the sea — born from the spilled seed of Cronus’s severed father’s… well, don’t ask.
@@ -167,7 +167,7 @@ To escape the madness, you can head to [Cape Greco](https://goo.gl/maps/HytAu1
 
 To wrap up the first part: if you’re coming for a couple of months, stay in Limassol, or at worst — Paphos. The other cities in tourist season are basically the Russian resort town Gelendzhik with gyros and Zivania, and in winter — ghost towns. So it’s either too boring or too wild.
 
-![Limassol Bay](/assets/images/2018/10/DSCF8841-1.jpg)
+![Limassol Bay](/assets/images/2018/10/DSCF8841.jpg)
 
 Limassol is lively and interesting any time of year. White sand and palms are scarce, but along the whole coast there are empty municipal beaches with loungers. Paphos is a bit cheaper and tidier than Limassol — mostly inhabited by elderly Brits, but with good surf spots and antique ruins nearby.
 
@@ -175,6 +175,6 @@ If you like booze as much as I do, try [Commandaria](https://en.wikipedia.or
 
 Food is mostly gyros and souvlaki. At a restaurant, I recommend ordering fish meze — a dish made up of various seafood. Locals also like to start their gastronomic evening with fried halloumi cheese. Basically, just like any Greek resort.
 
-![That Aphrodite](/assets/images/2018/10/DSCF9646-2.jpg)
+![That Aphrodite](/assets/images/2018/10/DSCF9646.jpg)
 
 That’s all for now. Check out the [second post](/blog/kipr-2/) about the coolest places tourists totally miss.

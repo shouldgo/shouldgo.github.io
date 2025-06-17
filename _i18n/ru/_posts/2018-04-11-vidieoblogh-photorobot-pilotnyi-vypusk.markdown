@@ -5,7 +5,7 @@ date: '2018-04-11 11:42:28'
 tags:
 - photo
 - video
-image: /assets/images/2018/04/photorobot.png
+image: /assets/images/2018/04/photorobot.jpg
 lang: ru
 ---
 

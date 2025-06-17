@@ -126,7 +126,7 @@ Stationary internet sucks: Wi-Fi drops, is slow, or just nonexistent. Mobile i
 
 I had the pleasure of working with the amazing [Aviasales](http://aviasales.ru) team. The only thing that kept me in Thailand for the full eight months.
 
-![UNADJUSTEDNONRAW_thumb_4da1](/assets/images/2018/04/UNADJUSTEDNONRAW_thumb_4da1.jpg)
+![](/assets/images/2018/04/thumb_4da1.jpg)
 
 You can find a job locally. Tons of companies with Russian roots — always looking for Russian-speaking admins.
 
@@ -146,11 +146,11 @@ A lot of people dream of a jungle hut — with a pool and palm trees. We l
 
 Jungle hut means a gecko pooped in your tea, ants ate your bread, and the store is only accessible by scooter. At night. In the rain.
 
-![UNADJUSTEDNONRAW_thumb_4d44](/assets/images/2018/04/UNADJUSTEDNONRAW_thumb_4d44.jpg)
+![](/assets/images/2018/04/thumb_4d44.jpg)
 
 European-style condos are scattered across the island, but the top spot is [Rawai](https://goo.gl/maps/JAju9vvQMEt) and the residential complex [The Title](https://www.booking.com/hotel/th/the-title-phuket.ru.html?...).
 
-![UNADJUSTEDNONRAW_thumb_4d9c](/assets/images/2018/04/UNADJUSTEDNONRAW_thumb_4d9c.jpg)
+![](/assets/images/2018/04/thumb_4d9c.jpg)
 
 Right across the street there’s a beach with longtails and lots of cafés — not totally swamped with tourists. The store is within walking distance.
 
@@ -166,7 +166,7 @@ Nearby is [Promthep Cape](https://goo.gl/maps/bwP5NaXu13R2), the southernmost p
 
 Best local bar? [Mad Mohally’s](https://goo.gl/maps/UDuVAqufwwz). Run by a grumpy old Irish guy named Bran and his Thai wife, May. If you’re a good boy, Bran might reward you with a joint.
 
-![UNADJUSTEDNONRAW_thumb_4d51](/assets/images/2018/04/UNADJUSTEDNONRAW_thumb_4d51.jpg)
+![](/assets/images/2018/04/thumb_4d51.jpg)
 
 If you’re headed to Phuket — stay in Rawai. Don’t fall for hooker-party Patong or the snobbish Dusit and Bangtao.
 

@@ -86,22 +86,22 @@ Despite the number of IT companies and foreign specialists (it’s the most in
 
 In summer, when students leave the city (Wrocław is one of Poland’s biggest student centers), the streets are left with local versions of tough guys from Butovo, migrant workers from Ukraine, old folks, and the occasional German tourist senior.
 
-- ![](/assets/images/2020/04/DSCF8905-1.jpg)
+- ![](/assets/images/2020/04/DSCF8905.jpg)
 - ![](/assets/images/2020/04/DSCF8893.jpg)
 
 Meanwhile, you start sinking into the fuzzy atmosphere of a cozy European village and learn to recognize every one of the [400 Wrocław gnomes](https://ru.wikipedia.org/wiki/Вроцлавские_гномы) scattered around the city as little bronze statues. Weekend trips to the Czech Republic and Germany don’t save you from this.
 
-![](/assets/images/2020/04/DSCF9209-1.jpg)
+![](/assets/images/2020/04/DSCF9209.jpg)
 ![](/assets/images/2020/04/DSCF6048.jpg)
 
 There are places in Wrocław I do miss: the incredibly beautiful Market Square with its town hall, Tumski Island and Wyspa Piaskowa, Szczytnicki Park and ZaZoo beach, the city moat embankment, bars in the Four Religions quarter, and much more.
 
-![](/assets/images/2020/04/DSCF8937-2.jpg)
-![](/assets/images/2020/04/DSCF9240-3.jpg)
-![](/assets/images/2020/04/DSCF0245-1.jpg)
-![](/assets/images/2020/04/DSCF9086-1.jpg)
+![](/assets/images/2020/04/DSCF8937.jpg)
+![](/assets/images/2020/04/DSCF9240.jpg)
+![](/assets/images/2020/04/DSCF0245.jpg)
+![](/assets/images/2020/04/DSCF9086.jpg)
 ![](/assets/images/2020/04/DSCF0113.jpg)
-![](/assets/images/2020/04/DSCF9067-1.jpg)
+![](/assets/images/2020/04/DSCF9067.jpg)
 
 Wrocław is growing and developing at an incredible pace. I’m sure in 10-15 years it will be the coolest and most modern city in Poland. But right now, it suits deeply family-oriented and settled people. We lasted six months and then moved on to Kraków.
 
@@ -133,8 +133,8 @@ Its vibe reminds me of St. Petersburg. A former capital, the second largest c
 
 In 2018, Kraków earned the rotating title of “Gastronomic Capital of Europe” — and rightly so. Now you can find at least one Michelin-listed bar or restaurant on almost every corner, serving great food for prices that are a steal by European standards.
 
-![](/assets/images/2020/04/DSCF6106-1.jpg)
-![](/assets/images/2020/04/IMG_0949-1.jpg)
+![](/assets/images/2020/04/DSCF6106.jpg)
+![](/assets/images/2020/04/IMG_0949.jpg)
 
 At the same time, Kraków is very compact and laid-back. Loads of parks and boulevards. Bike lanes everywhere. Quiet low-rise residential areas just a stone’s throw from the center. Mountains and nature reserves an hour away. Excellent surface public transport — from trams to electric buses.
 
@@ -189,42 +189,42 @@ Poland has everything: mountains, lakes, forests, castles, a seaside — and yo
 
 Russians don’t come to Poland often. Almost all the Russian-speaking population here are neighbors from Ukraine. In the common mindset of a citizen of a defaulting country, Poland is some kind of mini-Russia — with a funny language and daily Nazi pogroms.
 
-![](/assets/images/2020/04/DSCF0004-2.jpg)
+![](/assets/images/2020/04/DSCF0004.jpg)
 ![](/assets/images/2020/04/DSCF9833.jpg)
 
 All of that is just stereotypes. Poland in 2020 ranks among the top 25 most developed economies in the world, growing faster than Czechia and Germany, overtaking its “motherland” in GDP per capita and average incomes (not to mention corruption, safety, life expectancy, and other social factors).
 
 - ![](/assets/images/2020/04/DSCF1483.jpg)
-- ![](/assets/images/2020/04/DSCF5823-1.jpg)
+- ![](/assets/images/2020/04/DSCF5823.jpg)
 
 Warsaw definitely lags behind Moscow in the frequency of tile replacement, the number of hanging garlands, and luxury cars. But the average standard of living and economic growth rate give hope that in 20 years it could be a garden country.
 
 ![](/assets/images/2020/04/DSCF0311.jpg)
-![](/assets/images/2020/04/DSCF6074-2.jpg)
+![](/assets/images/2020/04/DSCF6074.jpg)
 
 The cost of living in Poland is among the lowest in the EU. Even with ruble income, you can live comfortably here, rent a good place, buy quality food, and indulge a bit. The national currency is the Polish złoty.
 
 - ![](/assets/images/2020/04/DSCF6552.jpg)
-- ![](/assets/images/2020/04/DSCF6122-1.jpg)
+- ![](/assets/images/2020/04/DSCF6122.jpg)
 
 98% of the population are ethnic Poles. It’s one of the most monoethnic countries. There are practically no labor migrants from the east. The local society isn’t the most tolerant, but we haven’t faced any problems because of that.
 
 ![](/assets/images/2020/04/DSCF9823.jpg)
-![](/assets/images/2020/04/DSCF1530-1.jpg)
+![](/assets/images/2020/04/DSCF1530.jpg)
 
 Poles (especially the young) speak English decently, but without knowing Polish, things can get tricky — especially when dealing with government offices. Still, for a Russian speaker, picking up basic Polish isn’t hard.
 
 - ![](/assets/images/2020/04/DSCF9723.jpg)
-- ![](/assets/images/2020/04/DSCF6552-1.jpg)
+- ![](/assets/images/2020/04/DSCF6552.jpg)
 
 Religion plays a big role in public life. Over 90% are devoted Catholics. Even the Soviet nomenklatura couldn’t defeat the millennium-old church tradition. The most popular Sunday event is a family trip to the church.
 
-![](/assets/images/2020/04/DSCF1504-1.jpg)
+![](/assets/images/2020/04/DSCF1504.jpg)
 
 Religion even seeps into politics (which sometimes [leans toward familiar authoritarianism](https://www.facebook.com/photo.php?fbid=10222106763842811&set=a.10200805510644794&type=3&theater)), so medieval laws still exist here (like the abortion ban), alongside hostility toward LGBT and soft drugs (which can earn you a three-year sentence).
 
 ![](/assets/images/2020/04/DSCF6160.jpg)
-![](/assets/images/2020/04/IMG_1507-1.jpg)
+![](/assets/images/2020/04/IMG_1507.jpg)
 
 However, centuries-old tradition of noble democracy prevents civil society from sliding into blind patriotism. There’s a lively civic-political life with opposition even inside the ruling party.
 

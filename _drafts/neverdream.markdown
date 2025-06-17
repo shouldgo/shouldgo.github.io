@@ -26,4 +26,3 @@ And no faith we both ever will spill.
 go. 2010
 
 Я даже не уверен в отсутствии ошибок, блеать, но хоть что-то я из себя таки выдавил. [Нехватит](http://twitter.com/nexvatit) — лошина бтв.
-

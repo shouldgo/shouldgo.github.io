@@ -159,7 +159,11 @@ img {
   }
 }
 
-.paginator-current { color: #32302c; font-weight: 600;}
+.paginator-current {
+  color: #32302c;
+  background-color: #F8F8F8;
+  border-radius: .25em;
+}
 
 /* POST CARDS */
 .post-list {

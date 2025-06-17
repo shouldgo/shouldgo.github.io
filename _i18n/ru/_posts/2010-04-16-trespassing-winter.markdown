@@ -17,5 +17,5 @@ lang: ru
 ![Trying to catch the roots, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_02571.jpg)
 ![Bubblesday, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_1238.jpg)
 ![Downtown, Дмитрий Афонин, 2010](/assets/images/2017/09/IMG_9863.jpg)
-![](/assets/images/2017/09/IMG_0264-2.jpg)
+![](/assets/images/2017/09/IMG_0264.jpg)
 ![](/assets/images/2017/09/IMG_7783.jpg)
