@@ -6,7 +6,7 @@ tags:
 - photo
 - report
 - friends
-image: /assets/images/2017/10/IMG_6398-2.jpg
+image: /assets/images/2017/10/IMG_6398.jpg
 lang: ru
 ---
 
