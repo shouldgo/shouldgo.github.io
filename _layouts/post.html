@@ -11,9 +11,11 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.tags and page.tags.size > 0 -%}
-        ⋅ <span class="post-tags">
+        ⋅
+        <span class="post-tags">
           {%- for tag in page.tags -%}
-            <a href="{{ '/tags/' | append: tag | relative_url }}" class="post-tag">#{{ tag }}</a> {{ ' ' }}
+            <a href="{{ '/tags/' | append: tag | relative_url }}" class="post-tag">#{{ tag }}</a>
+            {{ ' ' }}
           {%- endfor -%}
         </span>
       {%- endif -%}
@@ -28,9 +30,10 @@ layout: default
         <a href="/blog/{{ page.translation_key }}/">This post is also available in English 🇬🇧</a>
       {%- endif -%}
     </p>
-
     {{ content }}
   </div>
+
+  {% include related-posts.html %}
 
   <a href="{{ page.url | relative_url }}" hidden></a>
 </article>

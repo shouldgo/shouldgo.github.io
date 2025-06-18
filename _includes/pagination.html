@@ -1,0 +1,69 @@
+<div class="flex serif paginator">
+
+  {% assign total = paginator.total_pages %}
+  {% assign total_minus_3 = paginator.total_pages | minus: 3 %}
+  {% assign total_minus_4 = paginator.total_pages | minus: 4 %}
+  {% assign current = paginator.page %}
+
+    {% if total <= 7 %}
+    <!-- Show all pages -->
+    {% for i in (1..total) %}
+      {% if i == current %}
+        <span class="paginator-current">{{ i }}</span>
+      {% else %}
+        {% if i == 1 %}
+          <a href="{{ '/' | relative_url }}">{{ i }}</a>
+        {% else %}
+          <a href="{{ '/page' | append: i | relative_url }}">{{ i }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+  {% elsif current <= 4 %}
+    <!-- Beginning range -->
+    {% for i in (1..4) %}
+      {% if i == current %}
+        <span class="paginator-current">{{ i }}</span>
+      {% else %}
+        {% if i == 1 %}
+          <a href="{{ '/' | relative_url }}">{{ i }}</a>
+        {% else %}
+          <a href="{{ '/page' | append: i | relative_url }}">{{ i }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    <a href="{{ '/page' | append: 5 | relative_url }}">5</a>
+    <span class="paginator-ellipsis">…</span>
+    <a href="{{ '/page' | append: total | relative_url }}">{{ total }}</a>
+
+  {% elsif current >= total_minus_3 %}
+    <!-- Ending range -->
+    <a href="{{ '/' | relative_url }}">1</a>
+    <span>…</span>
+    <a href="{{ '/page' | append: total_minus_4 | relative_url }}">{{ total_minus_4 }}</a>
+    {% for i in (total_minus_3..total) %}
+      {% if i == current %}
+        <span class="paginator-current">{{ i }}</span>
+      {% else %}
+        <a href="{{ '/page' | append: i | relative_url }}">{{ i }}</a>
+      {% endif %}
+    {% endfor %}
+
+  {% else %}
+    <!-- Middle range -->
+    <a href="{{ '/' | relative_url }}">1</a>
+    <span class="paginator-ellipsis">…</span>
+    {% assign prev = current | minus: 1 %}
+    {% assign next = current | plus: 1 %}
+    {% for i in (prev..next) %}
+      {% if i == current %}
+        <span class="paginator-current">{{ i }}</span>
+      {% else %}
+        <a href="{{ '/page' | append: i | relative_url }}">{{ i }}</a>
+      {% endif %}
+    {% endfor %}
+    <span class="paginator-ellipsis">…</span>
+    <a href="{{ '/page' | append: total | relative_url }}">{{ total }}</a>
+  {% endif %}
+
+</div>
