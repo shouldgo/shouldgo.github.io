@@ -1,11 +1,16 @@
-// assets/js/lang-redirect.js
-
 (function () {
-  if (!localStorage.getItem('langRedirected')) {
-    const lang = (navigator.language || '').split('-')[0];
-    if (lang !== 'ru') {
-      window.location.href = '/en/';
-    }
+  // Do not redirect if already done
+  if (localStorage.getItem('langRedirected') === '1') return;
+
+  // Browser language
+  const userLang = navigator.language || navigator.userLanguage;
+
+  // Language codes to redirect
+  const redirectLangs = ['ru', 'uk', 'be', 'kk'];
+
+  // Check against list
+  if (redirectLangs.some(code => userLang.toLowerCase().startsWith(code))) {
     localStorage.setItem('langRedirected', '1');
+    window.location.href = '/ru/';
   }
 })();
