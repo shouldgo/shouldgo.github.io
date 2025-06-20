@@ -9,6 +9,7 @@ url: https://shouldgo.me
 permalink: /blog/:title/
 twitter_username: shouldgo
 github_username:  shouldgo
+google_analytics: G-2C1KSKG809
 
 # Build settings
 theme: minima
@@ -20,6 +21,11 @@ plugins:
   - jekyll-loading-lazy # https://github.com/gildesmarais/jekyll-loading-lazy 
   - jekyll-multiple-languages-plugin # https://github.com/kurtsson/jekyll-multiple-languages-plugin
   - jekyll-target-blank #https://github.com/keithmifsud/jekyll-target-blank
+
+# Sass/SCSS settings
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Localization settings
 languages: ["en", "ru"]

@@ -1,0 +1,17 @@
+.paginator {
+  flex-direction: row;
+  justify-content: center;
+  padding: 2em 0;
+
+  > * {
+    display: block;
+    padding: .5em 1em;
+    text-align: center;
+    color: $secondary-color;
+  }
+}
+
+.paginator-current {
+  color: $primary-color;
+  @include light-bg;
+}

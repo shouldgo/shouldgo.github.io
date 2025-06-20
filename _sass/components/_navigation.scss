@@ -1,0 +1,84 @@
+.site-header {
+  margin-bottom: 2em;
+  .nav-links { display: none;}
+}
+
+.site-nav {
+  position: relative;
+  align-items: start;
+  gap: 3em;
+  padding: 2em 0;
+}
+
+.site-title {
+  font-size: 1.25em;
+  font-weight: 700;
+}
+
+.nav-links { gap: 2em; }
+
+.nav-links a, .lang-switcher a, .post-tags a {
+  color: $secondary-color;
+  &:hover, &.active { color: inherit; }
+}
+
+.lang-switcher {
+  display: flex;
+  gap: .25em;
+  position: absolute;
+  right: 4em;
+  align-items: center;
+
+  > * {
+    display: inline-block;
+    padding: .125em .5em .25em;
+    cursor: pointer;
+  }
+
+  span {
+        @include light-bg;
+  }
+}
+
+.burger-toggle { display: none; }
+
+.burger {
+  position: absolute;
+  right: 0;
+  justify-content: center;
+  gap: .3em;
+  width: 2em;
+  height: 2em;
+  cursor: pointer;
+  z-index: 101;
+
+  span {
+    display: block;
+    height: .1em;
+    width: 100%;
+    background: $primary-color;
+  }
+}
+
+.burger-toggle:checked + .burger + .nav-links { display: flex; }
+
+@include breakpoint(md) {
+  .site-nav {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .burger, .burger-toggle { display: none; }
+  
+  .nav-links {
+    display: flex !important;
+    flex-direction: row;
+    gap: 3em;
+  }
+
+  .lang-switcher {
+    position: relative;
+    right: 0;
+  }
+}
