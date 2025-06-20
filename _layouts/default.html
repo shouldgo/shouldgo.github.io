@@ -3,7 +3,7 @@
 
   {%- include head.html -%}
 
-  <body>
+    <body>
 
     {%- include header.html -%}
 
@@ -26,6 +26,11 @@
         zoomable: true
         });
       </script>
+    {% endif %}
+
+    {% if jekyll.environment == 'production' and site.google_analytics %}
+      <!-- GA Test Script - Remove after testing -->
+      <script src="{{ '/assets/js/ga-test.js' | relative_url }}"></script>
     {% endif %}
 
   </body>
