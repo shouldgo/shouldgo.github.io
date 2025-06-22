@@ -16,7 +16,7 @@
     {%- include footer.html -%}
 
     <!-- Glightbox JS -->
-    {% if page.url contains "photo-gallery" %}
+    {% if page.url contains "photo-gallery" or page.url contains "dima-afonin" %}
       <script src="{{ '/assets/js/glightbox.js' | prepend:site.base_url }}"></script>
       <script>
         const lightbox = GLightbox({

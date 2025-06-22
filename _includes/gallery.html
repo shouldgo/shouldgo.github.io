@@ -1,15 +1,18 @@
 <div class="grid-gallery">
-  {% assign gallery_images = site.static_files | where_exp: "f", "f.path contains '/assets/images/gallery/'" %}
+  {% assign gallery_folder = include.folder | default: 'gallery' %}
+  {% assign folder_path = '/assets/images/' | append: gallery_folder | append: '/' %}
+  {% assign gallery_images = site.static_files | where_exp: "f", "f.path contains folder_path" %}
   {% assign sorted_images = gallery_images | sort: "name" | reverse %}
   {% for image in sorted_images %}
     {% unless image.path contains '/thumbs/' %}
+      {% assign thumb_path = image.path | replace: folder_path, folder_path | append: 'thumbs/' %}
       <div class="grid-item">
         <a
           href="{{ image.path }}"
           class="glightbox"
-          data-gallery="gallery">
+          data-gallery="gallery_{{ gallery_folder }}">
           <img
-            src="{{ image.path | replace: '/gallery/', '/gallery/thumbs/' }}"
+            src="{{ folder_path }}thumbs/{{ image.name }}"
             alt="Gallery image"
             loading="lazy">
         </a>

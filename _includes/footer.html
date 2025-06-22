@@ -1,14 +1,10 @@
 <footer class="site-footer">
   <div class="wrapper">
     <nav class="flex site-nav">
-      <a
-        class="site-title"
-        rel="author"
-        href="{{ "/" | relative_url }}"
-        title="{{ site.title | escape }}">shouldgo.me</a>
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}" title="{{ site.title | escape }}">shouldgo.me</a>
       <div class="flex sans nav-links">
         {% if site.lang == "ru" %}
-          <a href="https://t.me/shouldgram">{% t nav.tg %}</a>
+        <a href="https://t.me/shouldgram">{% t nav.tg %}</a>
         {% endif %}
         <a href="http://instagram.com/shouldgo/">{% t nav.ig %}</a>
         <a href="https://www.facebook.com/dima.afonin/">{% t nav.fb %}</a>

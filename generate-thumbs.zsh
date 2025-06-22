@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-SOURCE_DIR="assets/images/gallery/"
+SOURCE_DIR="assets/images/selfies/"
 THUMBS_DIR="${SOURCE_DIR}/thumbs"
 THUMB_WIDTH=600
 
