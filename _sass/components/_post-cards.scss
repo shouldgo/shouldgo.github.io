@@ -1,7 +1,7 @@
 .post-list {
   gap: 3em;
   margin: 0;
-  h2, p, li, ol { margin: 0; }
+  h2, h3, p, li, ol { margin: 0; }
 }
 
 .post-card {
@@ -63,30 +63,34 @@
     box-sizing: border-box;
     gap: 1.5em;
 
-    &:first-child {
-      flex-direction: row;
-      gap: 2em;
-      min-width: 100%;
+    h2 { font-size: 1.5em; }
+  }
+  
+  // Featured post - only on home page
+  .home .post-list .post-card:first-child {
+    flex-direction: row;
+    gap: 2em;
+    min-width: 100%;
 
-      .post-info {
-        gap: .75em;
-        min-width: 30%;
-        max-width: 328px;
-        justify-content: center;
-      }
-    
-      .post-excerpt {
-        @include line-clamp(8);
-      }
+    .post-info {
+      gap: .75em;
+      min-width: 30%;
+      max-width: 328px;
+      justify-content: center;
     }
 
-    &:not(:first-child) { h2 { font-size: 1.5em; } }
+    h2 { font-size: 2em; }
+  
+    .post-excerpt {
+      @include line-clamp(8);
+    }
   }
-
+  
   .post-image {
     flex: 1;
     min-height: 0;
 
     img { height: 100%; }
   }
+
 }
