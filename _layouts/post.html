@@ -14,7 +14,7 @@ layout: default
         ⋅
         <span class="post-tags">
           {%- for tag in page.tags -%}
-            <a href="{{ '/tags/' | append: tag | relative_url }}" class="post-tag">#{{ tag }}</a>
+            <span class="post-tag">#{{ tag }}</span>
             {{ ' ' }}
           {%- endfor -%}
         </span>

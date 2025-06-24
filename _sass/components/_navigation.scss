@@ -17,7 +17,7 @@
 
 .nav-links { gap: 2em; }
 
-.nav-links a, .lang-switcher a, .post-tags a {
+.nav-links a, .lang-switcher a {
   color: $secondary-color;
   &:hover, &.active { color: inherit; }
 }
