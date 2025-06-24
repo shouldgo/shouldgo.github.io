@@ -1,34 +1,9 @@
-<!-- Related posts start -->
-{% assign related = "" | split: "" %}
-
-{% for post in site.posts %}
-  {% if post.url != page.url %}
-    {% assign common_tags = "" | split: "" %}
-    {% for tag in post.tags %}
-      {% if page.tags contains tag %}
-        {% assign common_tags = common_tags | push: tag %}
-      {% endif %}
-    {% endfor %}
-    {% if common_tags.size >= 2 %}
-      {% assign related = related | push: post %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
-{% assign related = related | sort: "date" | reverse %}
-{% assign related = related | slice: 0, 3 %}
-
-<div class="related-posts">
-
-  {% if related.size == 0 %}
-    {% assign related = site.posts | where_exp: "p", "p.url != page.url" | sort: "date" | reverse | slice: 0, 3 %}
-    <h2 class="post-header">Newest Posts</h2>
-  {% else %}
-    <h2 class="post-header">Related Posts</h2>
-  {% endif %}
-
+<!-- Recent posts start -->
+<div class="recent-posts">
+  <h1 class="post-title">{% t titles.recent %}</h1>
   <ul class="flex post-list">
-    {% for post in related %}
+    {% assign recent_posts = site.posts | where_exp: "p", "p.url != page.url" | sort: "date" | reverse | slice: 0, 5 %}
+    {% for post in recent_posts %}
       <li class="flex post-card">
         {%- assign date_format = site.minima.date_format | default: "%d.%m.%Y" -%}
         <div class="post-image">
@@ -66,4 +41,4 @@
     {% endfor %}
   </ul>
 </div>
-<!-- Related posts end -->
+<!-- Recent posts end -->

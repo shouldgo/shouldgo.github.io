@@ -67,10 +67,8 @@
     gap: 1.5em;
 
     h2 { font-size: 1.5em; }
-  }
-  
-  // Featured post - only on home page
-  .home .post-list .post-card:first-child {
+
+    &:first-child {
     flex-direction: row;
     gap: 2em;
     min-width: 100%;
@@ -84,9 +82,8 @@
 
     h2 { font-size: 2em; }
   
-    .post-excerpt {
-      @include line-clamp(8);
-    }
+    .post-excerpt { @include line-clamp(8); }
+  }
   }
   
   .post-image {

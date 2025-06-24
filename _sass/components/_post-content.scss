@@ -22,15 +22,11 @@
   }
 }
 
-.related-posts {
-  margin-bottom: 3em;
-
-  h2 { margin-bottom: 2em; }
-}
+.recent-posts { margin-bottom: 3em; }
 
 // Responsive styles
 @include breakpoint(md) {
-  .post-header, .post-content > * {
+  .post-header, .post-content > *, .recent-posts h1 {
     max-width: 760px;
     margin-left: auto;
     margin-right: auto;

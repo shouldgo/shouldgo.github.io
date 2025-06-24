@@ -6,6 +6,7 @@ paginate:
 titles:
   about: Кто такой Дима Афонин?
   gallery: Фото by Дима Афонин
+  recent: Свежие посты
 descriptions:
   home: Блог о фотографии, путешествиях и фотографиях из путешествий.
   about: Грязные секреты, сенсационные ответы и голенькие фото — только на этой странице!
@@ -19,15 +20,3 @@ nav:
   about: эбаут
   blog: блог
   gallery: галерея
-tags:
-  travel: тревел
-  photo: фото
-  video: видео
-  notes: заметки
-  europe: европа
-  asia: азия
-  politics: политика
-  russia: россия
-  deutchland: германия
-  polska: польша
-  czechia: чехия
