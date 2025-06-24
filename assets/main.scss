@@ -1,10 +1,10 @@
 ---
 ---
 
-@import "base/variables",
-        "base/base",
-        "components/navigation",
-        "components/pagination",
-        "components/post-cards",
-        "components/post-content",
-        "components/gallery";
+@import "variables";
+@import "base";
+@import "navigation";
+@import "pagination";
+@import "post-cards";
+@import "post-content";
+@import "gallery";
