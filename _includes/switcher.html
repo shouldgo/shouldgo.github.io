@@ -1,0 +1,16 @@
+<div class="sans lang-switcher">
+  <button
+    class="theme-toggle"
+    id="theme-toggle"
+    aria-label="Toggle dark mode"
+    title="Toggle dark mode">
+    🌗
+  </button>
+  {% if site.lang == 'en' %}
+    <a href="{{ '/ru/' | prepend: site.baseurl_root }}">RU</a>
+    <span>EN</span>
+  {% elsif site.lang == 'ru' %}
+    <span>RU</span>
+    <a href="{{ '/' | site.baseurl_root }}">EN</a>
+  {% endif %}
+</div>

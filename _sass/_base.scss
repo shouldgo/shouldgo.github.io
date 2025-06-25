@@ -10,12 +10,18 @@ html, body {
 }
 
 body {
-  color: $primary-color;
+  color: $dark-color;
+  background-color: $white-color;
   font-family: $body-font;
   font-size: 16px;
   line-height: 1.75;
   font-weight: 400;
   padding: 0 1em;
+  
+  @include dark-mode {
+    color: $light-color;
+    background-color: $black-color;
+  }
 }
 
 // Typography
@@ -56,9 +62,11 @@ ul, ol {
 li { margin-bottom: .25em; }
 
 a {
-  color: $link-blue;
+  color: $blue-color;
   text-decoration: none;
   &:hover { text-decoration: underline; }
+  
+  @include dark-mode { color: $orange-color; }
 }
 
 // Layout basics

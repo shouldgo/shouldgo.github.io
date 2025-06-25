@@ -7,11 +7,14 @@
     display: block;
     padding: .5em 1em;
     text-align: center;
-    color: $secondary-color;
   }
+
+  a { color: $grey-color !important; }
 }
 
 .paginator-current {
-  color: $primary-color;
-  @include light-bg;
+  color: $dark-color;
+  @include highlight;
+  
+  @include dark-mode { color: $light-color; }
 }

@@ -1,14 +1,26 @@
-$primary-color: #32302c;
-$secondary-color: #A8A8A8;
-$link-blue: #337799;
-$light-grey: #F8F8F8;
+$black-color: #1A1A1A;
+$dark-color: #2A2A2A;
+$white-color: #FAFAFA;
+$light-color: #F2F2F2;
+$grey-color: #A2A2A2;
+$blue-color: #6399DA;
+$orange-color: #F69D51;
+
 $body-font: "Noto Serif", 'Times New Roman', Times, serif;
 $sans-font: "Noto Sans", 'Tahoma', 'Arial', sans-serif;
 $breakpoint-md: 768px;
 
-@mixin light-bg {
-  background-color: $light-grey;
+@mixin highlight {
+  background-color: $light-color;
   border-radius: .25em;
+  
+  [data-theme="dark"] & { background-color: $dark-color; }
+}
+
+@mixin dark-mode {
+  [data-theme="dark"] & {
+    @content;
+  }
 }
 
 @mixin truncate {

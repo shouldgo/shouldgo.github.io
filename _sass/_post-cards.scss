@@ -21,7 +21,7 @@
   padding: 0 .25em;
 }
 
-.site-title, .post-title a { color: inherit; }
+.site-title, .post-title a { color: inherit !important; }
 
 .post-title a::after {
   content: "";
@@ -31,7 +31,7 @@
 }
 
 .post-excerpt {
-  color: $secondary-color;
+  color: $grey-color;
   font-family: $sans-font;
   @include line-clamp(2);
 }
@@ -41,15 +41,17 @@
   @include truncate;
   text-overflow: string(" ");
   max-width: 100%;
-  color: $secondary-color;
+  color: $grey-color;
 
-  time { color: $primary-color; }
+  time { color: $dark-color; }
+  
+  @include dark-mode { time { color: $light-color; } }
 }
 
 .post-tag {
   display: inline-block;
   padding: 0 0.5em;
-  @include light-bg;
+  @include highlight;
 }
 
 @include breakpoint(md) {
