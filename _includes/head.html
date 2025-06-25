@@ -6,6 +6,7 @@
     <!-- Performance: DNS prefetch for external resources -->
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
   <link rel="dns-prefetch" href="//fonts.gstatic.com">
+  <link rel="dns-prefetch" href="//cdn.plyr.io">
 
   <!-- Generate title and description once to avoid duplication -->
   {% capture page_title %}
@@ -98,13 +99,18 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | prepend: site.baseurl_root }}">
   {%- feed_meta -%}
 
-  <!-- Performance: Optimized font loading with font-display swap -->
+  <!-- Performance: Optimized font loading with resource hints -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link
     rel="preconnect"
     href="https://fonts.gstatic.com"
     crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link
+    rel="preload"
+    href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"></noscript>
 
   <!-- Analytics (Production only) -->
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
@@ -118,7 +124,11 @@
   {% endif %}
 
   {% if page.url contains "photo-gallery" or page.url contains "dima-afonin" %}
-    <!-- Glightbox CSS for gallery pages -->
+    <!-- Preconnect to Plyr CDN for video functionality -->
+    <link rel="preconnect" href="https://cdn.plyr.io">
+      <!-- Content Security Policy for Plyr CDN -->
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline' https://cdn.plyr.io https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://cdn.plyr.io https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;">
+      <!-- Glightbox CSS for gallery pages -->
     <link rel="stylesheet" href="{{ '/assets/glightbox.css' | prepend: site.baseurl_root }}">
   {% endif %}
 
@@ -154,4 +164,19 @@
     type="image/png"
     sizes="512x512"
     href="{{ '/assets/icon/android-chrome-512x512.png' | prepend: site.baseurl_root }}">
+
+  <!-- Web App Manifest -->
+  {% if site.lang == 'ru' %}
+    <link rel="manifest" href="{{ '/manifest-ru.json' | prepend: site.baseurl_root }}">
+  {% else %}
+    <link rel="manifest" href="{{ '/manifest.json' | prepend: site.baseurl_root }}">
+  {% endif %}
+
+  <!-- PWA Meta Tags -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="shouldgo.me">
+  <meta name="msapplication-TileColor" content="#6399DA">
+  <meta name="msapplication-TileImage" content="{{ '/assets/icon/android-chrome-192x192.png' | prepend: site.baseurl_root }}">
 </head>
