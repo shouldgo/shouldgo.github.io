@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Performance: DNS prefetch for external resources -->
+    <!-- Performance: DNS prefetch for external resources -->
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
   <link rel="dns-prefetch" href="//fonts.gstatic.com">
 
@@ -21,7 +21,6 @@
       {% t global.site_title %}
     {% endif %}
   {% endcapture %}
-
   {% capture page_description %}
     {% if page.description %}
       {% if page.description contains 'descriptions.' %}
@@ -39,12 +38,40 @@
       {{ site.description }}
     {% endif %}
   {% endcapture %}
-
   <!-- SEO Meta Tags -->
   <title>{{ page_title | strip }}</title>
   <meta name="description" content="{{ page_description | strip }}">
   <meta name="author" content="{% t global.author %}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <!-- Language alternates for multilingual SEO -->
+  {% if site.lang == 'en' %}
+    <link
+      rel="alternate"
+      hreflang="ru"
+      href="{{ page.url | prepend: '/ru' | absolute_url }}">
+    <link
+      rel="alternate"
+      hreflang="en"
+      href="{{ page.url | absolute_url }}">
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="{{ page.url | absolute_url }}">
+  {% else %}
+    <link
+      rel="alternate"
+      hreflang="en"
+      href="{{ page.url | remove: '/ru' | absolute_url }}">
+    <link
+      rel="alternate"
+      hreflang="ru"
+      href="{{ page.url | absolute_url }}">
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="{{ page.url | remove: '/ru' | absolute_url }}">
+  {% endif %}
 
   <!-- OpenGraph Meta Tags -->
   <meta property="og:title" content="{{ page_title | strip }}">
@@ -54,6 +81,11 @@
   <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
   <meta property="og:image" content="{{ page.image | default: '/assets/images/og-image.jpg' | absolute_url }}">
   <meta property="og:locale" content="{% if site.lang %}{{ site.lang }}{% else %}en{% endif %}">
+  {% if site.lang == 'ru' %}
+    <meta property="og:locale:alternate" content="en">
+  {% else %}
+    <meta property="og:locale:alternate" content="ru">
+  {% endif %}
 
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image">
@@ -62,13 +94,16 @@
   <meta name="twitter:image" content="{{ page.image | default: '/assets/images/og-image.jpg' | absolute_url }}">
   <meta name="twitter:site" content="@shouldgo">
 
-  <!-- Stylesheets -->
+    <!-- Stylesheets -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | prepend: site.baseurl_root }}">
   {%- feed_meta -%}
 
   <!-- Performance: Optimized font loading with font-display swap -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
   <!-- Analytics (Production only) -->
@@ -91,10 +126,32 @@
   <script src="{{ '/assets/js/theme-toggle.js' | prepend: site.baseurl_root }}"></script>
 
   <!-- Favicons -->
-  <link rel="icon" href="{{ '/assets/icon/favicon.ico' | prepend: site.baseurl_root }}" type="image/x-icon">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/icon/favicon-32x32.png' | prepend: site.baseurl_root }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/icon/favicon-16x16.png' | prepend: site.baseurl_root }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/icon/apple-touch-icon.png' | prepend: site.baseurl_root }}">
-  <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/icon/android-chrome-192x192.png' | prepend: site.baseurl_root }}">
-  <link rel="icon" type="image/png" sizes="512x512" href="{{ '/assets/icon/android-chrome-512x512.png' | prepend: site.baseurl_root }}">
+  <link
+    rel="icon"
+    href="{{ '/assets/icon/favicon.ico' | prepend: site.baseurl_root }}"
+    type="image/x-icon">
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="{{ '/assets/icon/favicon-32x32.png' | prepend: site.baseurl_root }}">
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="{{ '/assets/icon/favicon-16x16.png' | prepend: site.baseurl_root }}">
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="{{ '/assets/icon/apple-touch-icon.png' | prepend: site.baseurl_root }}">
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="192x192"
+    href="{{ '/assets/icon/android-chrome-192x192.png' | prepend: site.baseurl_root }}">
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="512x512"
+    href="{{ '/assets/icon/android-chrome-512x512.png' | prepend: site.baseurl_root }}">
 </head>
