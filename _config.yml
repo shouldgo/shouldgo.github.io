@@ -15,7 +15,6 @@ google_analytics: G-2C1KSKG809
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag # https://github.com/jekyll/jekyll-seo-tag
   - jekyll-sitemap # https://github.com/jekyll/jekyll-sitemap
   - jekyll-paginate-v2 # https://github.com/sverrirs/jekyll-paginate-v2
   - jekyll-loading-lazy # https://github.com/gildesmarais/jekyll-loading-lazy 
