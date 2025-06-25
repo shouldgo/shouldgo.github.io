@@ -7,7 +7,7 @@ tags:
 - notes
 image: /assets/images/2025/04/DSCF1067.jpg
 lang: en
-translation_key: x100vi
+translation_key: fuji-x100vi
 ---
 
 I started this blog in 2009, back when reading was still a thing. It began in Russian, but now I’m happy to finally share some of my latest posts in English as well.

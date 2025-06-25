@@ -1,7 +1,5 @@
 Hey there! I’m Dima — been going by that since 1989, but online you’ll find me as shouldgo. I’m into travel, photography, and combining the two whenever I can.
 
-![](/assets/images/2017/09/1.jpg)
-
 I grew up in the void of the Urals. Lived in Phuket, Moscow, Prague, Wrocław, and Cyprus. Nomaded throughout Europe before [settling in Kraków for good](/blog/love-poland/).
 
 I worked for several startups as the digital marketing guy, then got tired and started my own digital agency, and eventually launched [a meditation app](http://praktika.app/).
