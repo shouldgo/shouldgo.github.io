@@ -7,10 +7,28 @@
     🌗
   </button>
   {% if site.lang == 'en' %}
-    <a href="{{ '/ru/' | prepend: site.baseurl_root }}">RU</a>
+    {% comment %} Switch to Russian {% endcomment %}
+    {% assign target_url = '/ru/' %}
+    {% if page.url == '/dima-afonin/' %}
+      {% assign target_url = '/ru/dima-afonin/' %}
+    {% elsif page.url == '/photo-gallery/' %}
+      {% assign target_url = '/ru/photo-gallery/' %}
+    {% elsif page.translation_key %}
+      {% assign target_url = '/ru/blog/' | append: page.translation_key | append: '/' %}
+    {% endif %}
+    <a href="{{ target_url | prepend: site.baseurl_root }}">RU</a>
     <span>EN</span>
   {% elsif site.lang == 'ru' %}
+    {% comment %} Switch to English {% endcomment %}
+    {% assign target_url = '/' %}
+    {% if page.url == '/ru/dima-afonin/' or page.url contains 'dima-afonin' %}
+      {% assign target_url = '/dima-afonin/' %}
+    {% elsif page.url == '/ru/photo-gallery/' or page.url contains 'photo-gallery' %}
+      {% assign target_url = '/photo-gallery/' %}
+    {% elsif page.translation_key %}
+      {% assign target_url = '/blog/' | append: page.translation_key | append: '/' %}
+    {% endif %}
     <span>RU</span>
-    <a href="{{ '/' | site.baseurl_root }}">EN</a>
+    <a href="{{ target_url | prepend: site.baseurl_root }}">EN</a>
   {% endif %}
 </div>

@@ -1,0 +1,15 @@
+{%- if paginator.posts and paginator.posts.size > 0 -%}
+  <ul class="flex post-list">
+    {% for post in paginator.posts %}
+      {% include post-card.html %}
+    {%- endfor -%}
+  </ul>
+
+  <!-- Paginatior -->
+  {% if paginator.total_pages > 1 %}
+    {% include pagination.html %}
+  {% endif %}
+
+{%- else -%}
+  <p>{% t paginate.zero %}</p>
+{%- endif -%}

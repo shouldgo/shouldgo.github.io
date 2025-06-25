@@ -1,7 +1,7 @@
 global:
+  site_title: Dima Afonin's Blog
   tagline: Photography, travel, and travel photography.
   author: Dima Afonin
-  site_title: Dima Afonin's Blog
 paginate:
   zero: No posts found :C
 titles:
