@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's All The Same
+title: Tis All The Same!
 date: '2025-06-25 19:05:00'
 tags:
 - photo
