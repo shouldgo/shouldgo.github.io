@@ -17,7 +17,7 @@
 
     <!-- Glightbox JS -->
     {% if page.url contains "photo-gallery" or page.url contains "dima-afonin" %}
-      <script src="{{ '/assets/js/glightbox.js' | prepend:site.base_url }}"></script>
+      <script src="{{ '/assets/js/glightbox.js' | prepend: site.baseurl_root }}"></script>
       <script>
         const lightbox = GLightbox({
         selector: '.glightbox',

@@ -8,11 +8,11 @@
       {% assign thumb_path = image.path | replace: folder_path, folder_path | append: 'thumbs/' %}
       <div class="grid-item">
         <a
-          href="{{ image.path }}"
+          href="{{ image.path | prepend: site.baseurl_root }}"
           class="glightbox"
           data-gallery="gallery_{{ gallery_folder }}">
           <img
-            src="{{ folder_path }}thumbs/{{ image.name }}"
+            src="{{ folder_path | prepend: site.baseurl_root }}thumbs/{{ image.name }}"
             alt="Gallery image"
             loading="lazy">
         </a>
