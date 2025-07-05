@@ -357,6 +357,7 @@ DEPENDENCIES
   jekyll-loading-lazy
   jekyll-multiple-languages-plugin
   jekyll-paginate-v2
+  jekyll-redirect-from
   jekyll-sitemap
   jekyll-target-blank
   minima (~> 2.5)
