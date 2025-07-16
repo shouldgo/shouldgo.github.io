@@ -3,3 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Scripts directory - ignore temporary files
+scripts/**/*.csv
+scripts/**/*.tmp
+scripts/**/*.log
