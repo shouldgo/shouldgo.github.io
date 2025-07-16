@@ -2,8 +2,8 @@
 require 'csv'
 require 'uri'
 
-# Read the CSV file
-csv_file = 'new_http_urls.csv'
+# Read the CSV file (use command line argument or default)
+csv_file = ARGV[0] || 'new_http_urls.csv'
 redirect_dir = '../../_redirects'
 
 # Create redirects directory if it doesn't exist
@@ -74,11 +74,15 @@ def find_target_page(slug, site_dir = '../../_site')
   return "/ru/"
 end
 
-# Process the CSV (handling semicolon separator)
+# Process the CSV (auto-detect separator)
 puts "Processing new HTTP 404 URLs..."
 puts "=" * 50
 
-CSV.foreach(csv_file, headers: true, col_sep: ';') do |row|
+# Try to detect the separator
+first_line = File.open(csv_file, &:readline)
+separator = first_line.include?(';') ? ';' : ','
+
+CSV.foreach(csv_file, headers: true, col_sep: separator) do |row|
   url = row['URL']
   next if url.nil? || url.empty?
   

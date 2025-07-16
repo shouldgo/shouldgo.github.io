@@ -4,8 +4,10 @@ Allow: /
 # Sitemap location
 Sitemap: https://shouldgo.me/sitemap.xml
 
-# Allow crawling of RSS feed
-Allow: /feed.xml
+# Allow crawling but disallow indexing of RSS feeds
+User-agent: *
+Disallow: /feed.xml
+Disallow: /ru/feed.xml
 
 # Crawl delay to be respectful to server resources
 Crawl-delay: 1
