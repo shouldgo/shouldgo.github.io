@@ -8,6 +8,7 @@ Sitemap: https://shouldgo.me/sitemap.xml
 User-agent: *
 Disallow: /feed.xml
 Disallow: /ru/feed.xml
+Disallow: /CLAUDE.html
 
 # Crawl delay to be respectful to server resources
 Crawl-delay: 1
