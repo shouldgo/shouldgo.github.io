@@ -60,7 +60,7 @@ Czechs love dogs. It feels like every family (and even some homeless people) ow
 
 Outside the tourist hell, the city lives quietly and relaxed. People gather daily at wine bars and pubs to celebrate another fine evening. There’s no social stratification — from white collars, elders, families, to the scruffy punks, all drink from the same tap.
 
-![](/assets/images/2020/04/DSCF2042.jpg)
+![](/assets/images/2019/01/DSCF2042.jpg)
 ![](/assets/images/2020/04/DSCF3341.jpg)
 ![](/assets/images/2020/04/DSCF2133.jpg)
 ![](/assets/images/2020/04/DSCF3386.jpg)
