@@ -43,7 +43,13 @@
   <title>{{ page_title | strip }}</title>
   <meta name="description" content="{{ page_description | strip }}">
   <meta name="author" content="{% t global.author %}">
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <!-- Canonical URL for SEO -->
+  {% if page.url == "/" or page.url == "/index.html" %}
+    <link rel="canonical" href="{{ "/" | absolute_url }}">
+  {% else %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {% endif %}
 
   <!-- Language alternates for multilingual SEO -->
   {% if site.lang == 'en' %}
