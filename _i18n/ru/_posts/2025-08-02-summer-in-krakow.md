@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Лето в Кракове'
-date: '2025-07-29 11:07:00'
+date: '2025-08-01 12:12:00'
 tags:
 - photo
 - notes
