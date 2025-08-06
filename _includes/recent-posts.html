@@ -2,7 +2,7 @@
 <div class="recent-posts">
   <h1 class="post-title">{% t titles.recent %}</h1>
   <ul class="flex post-list">
-    {% assign recent_posts = site.posts | where_exp: "p", "p.url != page.url" | sort: "date" | reverse | slice: 0, 5 %}
+    {% assign recent_posts = site.posts | where_exp: "p", "p.url != page.url" | sort: "date" | reverse | slice: 0, 3 %}
     {% for post in recent_posts %}
       {% include post-card.html %}
     {% endfor %}
