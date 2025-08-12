@@ -1,0 +1,450 @@
+=== DUPLICATE GROUP #1: 1.jpg ===
+  assets/images/2017/09/1.jpg
+  assets/images/2017/08/1.jpg
+
+=== DUPLICATE GROUP #2: 3.jpg ===
+  assets/images/2017/09/3.jpg
+  assets/images/2017/08/3.jpg
+
+=== DUPLICATE GROUP #3: 4.jpg ===
+  assets/images/2017/09/4.jpg
+  assets/images/2017/08/4.jpg
+
+=== DUPLICATE GROUP #4: 5.jpg ===
+  assets/images/2017/09/5.jpg
+  assets/images/2017/08/5.jpg
+
+=== DUPLICATE GROUP #5: 7.jpg ===
+  assets/images/2017/09/7.jpg
+  assets/images/2017/08/7.jpg
+
+=== DUPLICATE GROUP #6: 8.jpg ===
+  assets/images/2017/09/8.jpg
+  assets/images/2017/08/8.jpg
+
+=== DUPLICATE GROUP #7: DSCF0004.jpg ===
+  assets/images/2024/12/DSCF0004.jpg
+  assets/images/2020/04/DSCF0004.jpg
+
+=== DUPLICATE GROUP #8: DSCF0134.jpg ===
+  assets/images/2019/01/DSCF0134.jpg
+  assets/images/2018/03/DSCF0134.jpg
+
+=== DUPLICATE GROUP #9: DSCF0207.jpg ===
+  assets/images/2020/04/DSCF0207.jpg
+  assets/images/2020/01/DSCF0207.jpg
+
+=== DUPLICATE GROUP #10: DSCF0245.jpg ===
+  assets/images/2020/04/DSCF0245.jpg
+  assets/images/2020/01/DSCF0245.jpg
+
+=== DUPLICATE GROUP #11: DSCF0353.jpg ===
+  assets/images/2020/04/DSCF0353.jpg
+  assets/images/2020/01/DSCF0353.jpg
+
+=== DUPLICATE GROUP #12: DSCF0400.jpg ===
+  assets/images/2017/08/DSCF0400.jpg
+  assets/images/2018/04/DSCF0400.jpg
+
+=== DUPLICATE GROUP #13: DSCF0410.jpg ===
+  assets/images/2017/08/DSCF0410.jpg
+  assets/images/2020/04/DSCF0410.jpg
+  assets/images/2018/04/DSCF0410.jpg
+
+=== DUPLICATE GROUP #14: DSCF0470.jpg ===
+  assets/images/2017/08/DSCF0470.jpg
+  assets/images/2018/04/DSCF0470.jpg
+
+=== DUPLICATE GROUP #15: DSCF0497.jpg ===
+  assets/images/2017/08/DSCF0497.jpg
+  assets/images/2018/04/DSCF0497.jpg
+
+=== DUPLICATE GROUP #16: DSCF0843.jpg ===
+  assets/images/2020/04/DSCF0843.jpg
+  assets/images/2020/01/DSCF0843.jpg
+
+=== DUPLICATE GROUP #17: DSCF0891.jpg ===
+  assets/images/2025/04/DSCF0891.jpg
+  assets/images/2018/05/DSCF0891.jpg
+
+=== DUPLICATE GROUP #18: DSCF0932.jpg ===
+  assets/images/2025/04/DSCF0932.jpg
+  assets/images/2018/04/DSCF0932.jpg
+
+=== DUPLICATE GROUP #19: DSCF0945.jpg ===
+  assets/images/2019/01/DSCF0945.jpg
+  assets/images/2020/04/DSCF0945.jpg
+
+=== DUPLICATE GROUP #20: DSCF0970.jpg ===
+  assets/images/2019/01/DSCF0970.jpg
+  assets/images/2020/04/DSCF0970.jpg
+
+=== DUPLICATE GROUP #21: DSCF0978.jpg ===
+  assets/images/2020/04/DSCF0978.jpg
+  assets/images/2018/04/DSCF0978.jpg
+
+=== DUPLICATE GROUP #22: DSCF1031.jpg ===
+  assets/images/2020/04/DSCF1031.jpg
+  assets/images/2020/01/DSCF1031.jpg
+
+=== DUPLICATE GROUP #23: DSCF1061.jpg ===
+  assets/images/2019/01/DSCF1061.jpg
+  assets/images/2020/04/DSCF1061.jpg
+
+=== DUPLICATE GROUP #24: DSCF1126.jpg ===
+  assets/images/2020/04/DSCF1126.jpg
+  assets/images/2020/01/DSCF1126.jpg
+
+=== DUPLICATE GROUP #25: DSCF1167.jpg ===
+  assets/images/2019/01/DSCF1167.jpg
+  assets/images/2020/04/DSCF1167.jpg
+
+=== DUPLICATE GROUP #26: DSCF1194.jpg ===
+  assets/images/2025/04/DSCF1194.jpg
+  assets/images/2020/04/DSCF1194.jpg
+
+=== DUPLICATE GROUP #27: DSCF1275.jpg ===
+  assets/images/2020/04/DSCF1275.jpg
+  assets/images/2020/01/DSCF1275.jpg
+
+=== DUPLICATE GROUP #28: DSCF1288.jpg ===
+  assets/images/2020/04/DSCF1288.jpg
+  assets/images/2020/01/DSCF1288.jpg
+
+=== DUPLICATE GROUP #29: DSCF1368.jpg ===
+  assets/images/2020/04/DSCF1368.jpg
+  assets/images/2020/01/DSCF1368.jpg
+
+=== DUPLICATE GROUP #30: DSCF1472.jpg ===
+  assets/images/2020/04/DSCF1472.jpg
+  assets/images/2020/01/DSCF1472.jpg
+
+=== DUPLICATE GROUP #31: DSCF1480.jpg ===
+  assets/images/2019/01/DSCF1480.jpg
+  assets/images/2020/04/DSCF1480.jpg
+
+=== DUPLICATE GROUP #32: DSCF1483.jpg ===
+  assets/images/2020/04/DSCF1483.jpg
+  assets/images/2020/01/DSCF1483.jpg
+
+=== DUPLICATE GROUP #33: DSCF1732.jpg ===
+  assets/images/2020/04/DSCF1732.jpg
+  assets/images/2018/05/DSCF1732.jpg
+
+=== DUPLICATE GROUP #34: DSCF1753.jpg ===
+  assets/images/2021/01/DSCF1753.jpg
+  assets/images/2020/04/DSCF1753.jpg
+
+=== DUPLICATE GROUP #35: DSCF1756.jpg ===
+  assets/images/2021/01/DSCF1756.jpg
+  assets/images/2020/04/DSCF1756.jpg
+
+=== DUPLICATE GROUP #36: DSCF1883.jpg ===
+  assets/images/2020/04/DSCF1883.jpg
+  assets/images/2018/05/DSCF1883.jpg
+
+=== DUPLICATE GROUP #37: DSCF2133.jpg ===
+  assets/images/2020/04/DSCF2133.jpg
+  assets/images/2018/04/DSCF2133.jpg
+
+=== DUPLICATE GROUP #38: DSCF2440.jpg ===
+  assets/images/2025/05/lublin/DSCF2440.jpg
+  assets/images/2018/04/DSCF2440.jpg
+
+=== DUPLICATE GROUP #39: DSCF2624.jpg ===
+  assets/images/2020/04/DSCF2624.jpg
+  assets/images/2018/04/DSCF2624.jpg
+
+=== DUPLICATE GROUP #40: DSCF2638.jpg ===
+  assets/images/2025/05/DSCF2638.jpg
+  assets/images/2020/04/DSCF2638.jpg
+
+=== DUPLICATE GROUP #41: DSCF2643.jpg ===
+  assets/images/2018/04/DSCF2643.jpg
+  assets/images/2018/01/DSCF2643.jpg
+
+=== DUPLICATE GROUP #42: DSCF2779.jpg ===
+  assets/images/2025/05/DSCF2779.jpg
+  assets/images/2021/01/DSCF2779.jpg
+
+=== DUPLICATE GROUP #43: DSCF2903.jpg ===
+  assets/images/2025/05/DSCF2903.jpg
+  assets/images/2018/05/DSCF2903.jpg
+
+=== DUPLICATE GROUP #44: DSCF2908.jpg ===
+  assets/images/2019/01/DSCF2908.jpg
+  assets/images/2020/05/DSCF2908.jpg
+
+=== DUPLICATE GROUP #45: DSCF3083.jpg ===
+  assets/images/2019/01/DSCF3083.jpg
+  assets/images/2021/01/DSCF3083.jpg
+  assets/images/2020/05/DSCF3083.jpg
+
+=== DUPLICATE GROUP #46: DSCF3097.jpg ===
+  assets/images/2019/01/DSCF3097.jpg
+  assets/images/2020/05/DSCF3097.jpg
+
+=== DUPLICATE GROUP #47: DSCF3606.jpg ===
+  assets/images/2019/01/DSCF3606.jpg
+  assets/images/2018/08/DSCF3606.jpg
+
+=== DUPLICATE GROUP #48: DSCF3634.jpg ===
+  assets/images/2021/01/DSCF3634.jpg
+  assets/images/2018/08/DSCF3634.jpg
+
+=== DUPLICATE GROUP #49: DSCF3717.jpg ===
+  assets/images/2019/01/DSCF3717.jpg
+  assets/images/2018/08/DSCF3717.jpg
+
+=== DUPLICATE GROUP #50: DSCF3860.jpg ===
+  assets/images/2019/01/DSCF3860.jpg
+  assets/images/2018/08/DSCF3860.jpg
+
+=== DUPLICATE GROUP #51: DSCF5221.jpg ===
+  assets/images/2019/01/DSCF5221.jpg
+  assets/images/2018/10/DSCF5221.jpg
+
+=== DUPLICATE GROUP #52: DSCF5420.jpg ===
+  assets/images/2025/06/DSCF5420.jpg
+  assets/images/2018/11/DSCF5420.jpg
+
+=== DUPLICATE GROUP #53: DSCF5835.jpg ===
+  assets/images/2019/01/DSCF5835.jpg
+  assets/images/2020/04/DSCF5835.jpg
+
+=== DUPLICATE GROUP #54: DSCF5863.jpg ===
+  assets/images/2019/01/DSCF5863.jpg
+  assets/images/2020/04/DSCF5863.jpg
+
+=== DUPLICATE GROUP #55: DSCF5919.jpg ===
+  assets/images/2025/07/DSCF5919.jpg
+  assets/images/2020/04/DSCF5919.jpg
+
+=== DUPLICATE GROUP #56: DSCF6017.jpg ===
+  assets/images/2025/07/DSCF6017.jpg
+  assets/images/2020/04/DSCF6017.jpg
+
+=== DUPLICATE GROUP #57: DSCF6265.jpg ===
+  assets/images/2019/01/DSCF6265.jpg
+  assets/images/2020/04/DSCF6265.jpg
+
+=== DUPLICATE GROUP #58: DSCF6330.jpg ===
+  assets/images/2025/07/bergen/DSCF6330.jpg
+  assets/images/2020/04/DSCF6330.jpg
+
+=== DUPLICATE GROUP #59: DSCF6645.jpg ===
+  assets/images/2025/07/bergen/DSCF6645.jpg
+  assets/images/2019/01/DSCF6645.jpg
+  assets/images/2020/04/DSCF6645.jpg
+
+=== DUPLICATE GROUP #60: DSCF6691.jpg ===
+  assets/images/2025/07/ostrava/DSCF6691.jpg
+  assets/images/2020/04/DSCF6691.jpg
+
+=== DUPLICATE GROUP #61: DSCF6692.jpg ===
+  assets/images/2025/07/ostrava/DSCF6692.jpg
+  assets/images/2020/04/DSCF6692.jpg
+
+=== DUPLICATE GROUP #62: DSCF6701.jpg ===
+  assets/images/2025/07/ostrava/DSCF6701.jpg
+  assets/images/2020/04/DSCF6701.jpg
+
+=== DUPLICATE GROUP #63: DSCF6707.jpg ===
+  assets/images/2025/07/ostrava/DSCF6707.jpg
+  assets/images/2019/01/DSCF6707.jpg
+  assets/images/2020/04/DSCF6707.jpg
+
+=== DUPLICATE GROUP #64: DSCF6794.jpg ===
+  assets/images/2025/07/bergen/DSCF6794.jpg
+  assets/images/2020/04/DSCF6794.jpg
+
+=== DUPLICATE GROUP #65: DSCF7263.jpg ===
+  assets/images/2025/07/bergen/DSCF7263.jpg
+  assets/images/2020/04/DSCF7263.jpg
+
+=== DUPLICATE GROUP #66: DSCF8635.jpg ===
+  assets/images/2018/10/DSCF8635.jpg
+  assets/images/2018/01/DSCF8635.jpg
+
+=== DUPLICATE GROUP #67: DSCF8725.jpg ===
+  assets/images/2018/10/DSCF8725.jpg
+  assets/images/2018/01/DSCF8725.jpg
+
+=== DUPLICATE GROUP #68: DSCF8769.jpg ===
+  assets/images/2018/10/DSCF8769.jpg
+  assets/images/2018/01/DSCF8769.jpg
+
+=== DUPLICATE GROUP #69: DSCF8774.jpg ===
+  assets/images/2018/11/DSCF8774.jpg
+  assets/images/2018/10/DSCF8774.jpg
+
+=== DUPLICATE GROUP #70: DSCF8893.jpg ===
+  assets/images/2020/04/DSCF8893.jpg
+  assets/images/2020/01/DSCF8893.jpg
+
+=== DUPLICATE GROUP #71: DSCF8977.jpg ===
+  assets/images/2020/04/DSCF8977.jpg
+  assets/images/2020/01/DSCF8977.jpg
+
+=== DUPLICATE GROUP #72: DSCF8983.jpg ===
+  assets/images/2020/04/DSCF8983.jpg
+  assets/images/2020/01/DSCF8983.jpg
+
+=== DUPLICATE GROUP #73: DSCF9049.jpg ===
+  assets/images/2020/04/DSCF9049.jpg
+  assets/images/2020/01/DSCF9049.jpg
+
+=== DUPLICATE GROUP #74: DSCF9086.jpg ===
+  assets/images/2020/04/DSCF9086.jpg
+  assets/images/2020/01/DSCF9086.jpg
+
+=== DUPLICATE GROUP #75: DSCF9153.jpg ===
+  assets/images/2020/04/DSCF9153.jpg
+  assets/images/2020/01/DSCF9153.jpg
+
+=== DUPLICATE GROUP #76: DSCF9161.jpg ===
+  assets/images/2020/04/DSCF9161.jpg
+  assets/images/2020/01/DSCF9161.jpg
+
+=== DUPLICATE GROUP #77: DSCF9168.jpg ===
+  assets/images/2020/04/DSCF9168.jpg
+  assets/images/2020/01/DSCF9168.jpg
+
+=== DUPLICATE GROUP #78: DSCF9243.jpg ===
+  assets/images/2020/01/DSCF9243.jpg
+  assets/images/2018/10/DSCF9243.jpg
+
+=== DUPLICATE GROUP #79: DSCF9331.jpg ===
+  assets/images/2020/04/DSCF9331.jpg
+  assets/images/2020/01/DSCF9331.jpg
+
+=== DUPLICATE GROUP #80: DSCF9469.jpg ===
+  assets/images/2024/12/DSCF9469.jpg
+  assets/images/2018/10/DSCF9469.jpg
+
+=== DUPLICATE GROUP #81: DSCF9620.jpg ===
+  assets/images/2024/12/DSCF9620.jpg
+  assets/images/2020/05/DSCF9620.jpg
+
+=== DUPLICATE GROUP #82: DSCF9635.jpg ===
+  assets/images/2020/05/DSCF9635.jpg
+  assets/images/2020/01/DSCF9635.jpg
+
+=== DUPLICATE GROUP #83: DSCF9651.jpg ===
+  assets/images/2020/05/DSCF9651.jpg
+  assets/images/2020/01/DSCF9651.jpg
+
+=== DUPLICATE GROUP #84: DSCF9767.jpg ===
+  assets/images/2020/04/DSCF9767.jpg
+  assets/images/2020/01/DSCF9767.jpg
+
+=== DUPLICATE GROUP #85: DSCF9863.jpg ===
+  assets/images/2020/04/DSCF9863.jpg
+  assets/images/2020/01/DSCF9863.jpg
+
+=== DUPLICATE GROUP #86: DSCF9965.jpg ===
+  assets/images/2019/01/DSCF9965.jpg
+  assets/images/2018/03/DSCF9965.jpg
+
+=== DUPLICATE GROUP #87: DSCF9977.jpg ===
+  assets/images/2024/12/DSCF9977.jpg
+  assets/images/2020/04/DSCF9977.jpg
+
+=== DUPLICATE GROUP #88: DSCF9991.jpg ===
+  assets/images/2024/12/DSCF9991.jpg
+  assets/images/2019/01/DSCF9991.jpg
+  assets/images/2018/03/DSCF9991.jpg
+
+=== DUPLICATE GROUP #89: IMG_0047.jpg ===
+  assets/images/2017/10/IMG_0047.jpg
+  assets/images/2017/09/IMG_0047.jpg
+
+=== DUPLICATE GROUP #90: IMG_0070.jpg ===
+  assets/images/2017/10/IMG_0070.jpg
+  assets/images/2017/09/IMG_0070.jpg
+
+=== DUPLICATE GROUP #91: IMG_0138.jpg ===
+  assets/images/2017/10/IMG_0138.jpg
+  assets/images/2017/09/IMG_0138.jpg
+
+=== DUPLICATE GROUP #92: IMG_0452.jpg ===
+  assets/images/2017/09/IMG_0452.jpg
+  assets/images/2018/11/IMG_0452.jpg
+
+=== DUPLICATE GROUP #93: IMG_1521.jpg ===
+  assets/images/2017/10/IMG_1521.jpg
+  assets/images/2017/09/IMG_1521.jpg
+
+=== DUPLICATE GROUP #94: IMG_1558.jpg ===
+  assets/images/2017/10/IMG_1558.jpg
+  assets/images/2017/09/IMG_1558.jpg
+
+=== DUPLICATE GROUP #95: IMG_1918.jpg ===
+  assets/images/2017/10/IMG_1918.jpg
+  assets/images/2017/09/IMG_1918.jpg
+
+=== DUPLICATE GROUP #96: IMG_2567.jpg ===
+  assets/images/2017/10/IMG_2567.jpg
+  assets/images/2020/05/IMG_2567.jpg
+
+=== DUPLICATE GROUP #97: IMG_3629.jpg ===
+  assets/images/2017/10/IMG_3629.jpg
+  assets/images/2020/05/IMG_3629.jpg
+
+=== DUPLICATE GROUP #98: IMG_3921.jpg ===
+  assets/images/2017/10/IMG_3921.jpg
+  assets/images/2017/09/IMG_3921.jpg
+
+=== DUPLICATE GROUP #99: IMG_4230.jpg ===
+  assets/images/2017/10/IMG_4230.jpg
+  assets/images/2017/09/IMG_4230.jpg
+
+=== DUPLICATE GROUP #100: IMG_4604.jpg ===
+  assets/images/2017/09/IMG_4604.jpg
+  assets/images/2017/08/IMG_4604.jpg
+
+=== DUPLICATE GROUP #101: IMG_4731.jpg ===
+  assets/images/2017/10/IMG_4731.jpg
+  assets/images/2017/09/IMG_4731.jpg
+  assets/images/2017/08/IMG_4731.jpg
+
+=== DUPLICATE GROUP #102: IMG_5673.jpg ===
+  assets/images/2017/10/IMG_5673.jpg
+  assets/images/2020/05/IMG_5673.jpg
+
+=== DUPLICATE GROUP #103: IMG_6037.jpg ===
+  assets/images/2017/10/IMG_6037.jpg
+  assets/images/2020/04/IMG_6037.jpg
+
+=== DUPLICATE GROUP #104: IMG_6173.jpg ===
+  assets/images/2017/09/IMG_6173.jpg
+  assets/images/2020/04/IMG_6173.jpg
+
+=== DUPLICATE GROUP #105: IMG_6184.jpg ===
+  assets/images/2017/10/IMG_6184.jpg
+  assets/images/2020/04/IMG_6184.jpg
+
+=== DUPLICATE GROUP #106: IMG_6275.jpg ===
+  assets/images/2017/10/IMG_6275.jpg
+  assets/images/2020/04/IMG_6275.jpg
+
+=== DUPLICATE GROUP #107: IMG_6341.jpg ===
+  assets/images/2017/10/IMG_6341.jpg
+  assets/images/2020/04/IMG_6341.jpg
+
+=== DUPLICATE GROUP #108: IMG_7828.jpg ===
+  assets/images/2017/10/IMG_7828.jpg
+  assets/images/2017/09/IMG_7828.jpg
+
+=== DUPLICATE GROUP #109: IMG_8963.jpg ===
+  assets/images/2017/10/IMG_8963.jpg
+  assets/images/2017/09/IMG_8963.jpg
+
+=== DUPLICATE GROUP #110: IMG_8974.jpg ===
+  assets/images/2017/10/IMG_8974.jpg
+  assets/images/2017/09/IMG_8974.jpg
+
+=== DUPLICATE GROUP #111: IMG_9718.jpg ===
+  assets/images/2017/10/IMG_9718.jpg
+  assets/images/2017/09/IMG_9718.jpg
+

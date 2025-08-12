@@ -12,6 +12,14 @@ Scripts for managing the redirect system that handles 404 URLs from Google Searc
 - Test redirect functionality
 - See `redirects/README.md` for detailed documentation
 
+### `image-analysis/`
+Scripts for analyzing image usage and finding optimization opportunities.
+
+- Find unreferenced images that can be safely removed
+- Identify duplicate images by filename for space savings
+- Comprehensive analysis of multilingual Jekyll content
+- See `image-analysis/README.md` for detailed documentation
+
 ## Future Additions
 
 Other script categories can be added here as needed:

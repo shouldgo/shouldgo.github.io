@@ -36,7 +36,7 @@ translation_key: 2k18
 
 - [Февраль в Москве](/ru/blog/february-in-moscow/)
 
-![](/assets/images/2019/01/DSCF0102.jpg)
+![](/assets/images/2018/03/DSCF0102.jpg)
 ![](/assets/images/2019/01/DSCF9965.jpg)
 ![](/assets/images/2019/01/DSCF4272.jpg)
 ![](/assets/images/2019/01/DSCF4698.jpg)
