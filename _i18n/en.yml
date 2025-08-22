@@ -8,10 +8,12 @@ titles:
   about: Who's Dima Afonin?
   gallery: Photos by Dima Afonin
   recent: Recent Posts
+  privacy: Privacy Policy
 descriptions:
   home: My personal blog about photography, travel, and travel photography.
   about: Dirty secrets, sensational reveals, and nude photo leaks — exclusively on this page!
   gallery: A collection of dusty snapshots taken by Dima Afonin from 2009 to the present day.
+  privacy: Information about how this website handles your data and privacy.
 nav:
   fb: facebook
   in: linkedin
@@ -21,3 +23,4 @@ nav:
   about: about
   blog: blog
   gallery: gallery
+  privacy: privacy

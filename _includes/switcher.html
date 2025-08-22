@@ -13,6 +13,8 @@
       {% assign target_url = '/ru/dima-afonin/' %}
     {% elsif page.url == '/photo-gallery/' %}
       {% assign target_url = '/ru/photo-gallery/' %}
+    {% elsif page.url == '/privacy/' %}
+      {% assign target_url = '/ru/privacy/' %}
     {% elsif page.translation_key %}
       {% assign target_url = '/ru/blog/' | append: page.translation_key | append: '/' %}
     {% endif %}
@@ -25,6 +27,8 @@
       {% assign target_url = '/dima-afonin/' %}
     {% elsif page.url == '/ru/photo-gallery/' or page.url contains 'photo-gallery' %}
       {% assign target_url = '/photo-gallery/' %}
+    {% elsif page.url == '/ru/privacy/' or page.url contains 'privacy' %}
+      {% assign target_url = '/privacy/' %}
     {% elsif page.translation_key %}
       {% assign target_url = '/blog/' | append: page.translation_key | append: '/' %}
     {% endif %}
