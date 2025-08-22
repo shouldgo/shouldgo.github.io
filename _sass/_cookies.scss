@@ -1,0 +1,35 @@
+  .cookie-banner {
+    z-index: 9999;
+    padding: 1em;
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: $dark-color;
+    color: $light-color;
+  }
+
+  .cookie-content {
+    text-align: center;
+    gap: 1em;
+    a { color: inherit; }
+    
+  }
+
+  .cookie-button {
+    display: inline-block;
+    font-weight: 600;
+    padding: 0.25em 1em;
+    border-radius: 0.125em;
+    background-color: $blue-color;
+    cursor: pointer;
+  }
+
+@include breakpoint(md) {
+    .cookie-content {
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+}

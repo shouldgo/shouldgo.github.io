@@ -118,10 +118,7 @@
     onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"></noscript>
 
-  <!-- Analytics (Production only) -->
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
+  <!-- Analytics now handled by cookie consent system -->
 
   <!-- Conditional Assets -->
   {% if page.url == "/" or page.url == "" or page.url == "/index.html" %}
