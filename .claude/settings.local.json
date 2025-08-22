@@ -3,7 +3,11 @@
     "allow": [
       "WebSearch",
       "WebFetch(domain:jekyllcodex.org)",
-      "Bash(bundle exec jekyll serve:*)"
+      "Bash(bundle exec jekyll serve:*)",
+      "WebFetch(domain:developers.google.com)",
+      "WebFetch(domain:www.cookieyes.com)",
+      "Bash(grep:*)",
+      "Bash(bundle exec:*)"
     ]
   },
   "enableAllProjectMcpServers": false

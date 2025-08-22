@@ -14,6 +14,8 @@
       {% t titles.about %} | {% t global.site_title %}
     {% elsif page.title == "titles.gallery" %}
       {% t titles.gallery %} | {% t global.site_title %}
+    {% elsif page.title == "titles.privacy" %}
+      {% t titles.privacy %} | {% t global.site_title %}
     {% elsif page.url == "/" or page.url == "/index.html" %}
       {% t global.site_title %}
     {% elsif page.title %}
@@ -118,7 +120,12 @@
     onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"></noscript>
 
-  <!-- Analytics now handled by cookie consent system -->
+  <!-- Google Analytics with Consent Mode v2 (Advanced) -->
+  {%- if site.google_analytics -%}
+    <script>
+      {%- include ga-consent.js -%}
+    </script>
+  {%- endif -%}
 
   <!-- Conditional Assets -->
   {% if page.url == "/" or page.url == "" or page.url == "/index.html" %}

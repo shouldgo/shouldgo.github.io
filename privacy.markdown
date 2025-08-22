@@ -1,9 +1,8 @@
 ---
 layout: page
+permalink: /privacy/
 title: titles.privacy
 description: descriptions.privacy
-permalink: /privacy/
 image: /assets/images/og-image.jpg
 ---
-
 {% tf privacy/privacy.markdown %}

@@ -30,14 +30,27 @@
         createCookie(name,"",-1);
     }
 
+    // Check if consent has been given
     if(readCookie('cookie-notice-dismissed')=='true') {
-        {%- include ga.js -%}
+        // User has already consented, update consent mode
+        if (window.updateGoogleConsent) {
+            window.updateGoogleConsent();
+        }
     } else {
+        // Show banner if no consent yet
         document.getElementById('cookie-notice').style.display = 'block';
     }
+    
+    // Handle accept button click
     document.getElementById('cookie-notice-accept').addEventListener("click",function() {
         createCookie('cookie-notice-dismissed','true',31);
         document.getElementById('cookie-notice').style.display = 'none';
+        
+        // Update Google consent immediately
+        if (window.updateGoogleConsent) {
+            window.updateGoogleConsent();
+        }
+        
         location.reload();
     });
 
