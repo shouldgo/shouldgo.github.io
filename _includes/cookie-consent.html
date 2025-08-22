@@ -1,9 +1,9 @@
 <div class="cookie-banner" id="cookie-notice">
   <div class="flex wrapper cookie-content">
-    <span>This website uses third-party cookies for analytics as described in the
-      <a href="/privacy/">Privacy Policy</a>
+    <span>{% t consent.message %}
+      <a href="/privacy/">{% t consent.privacy_link %}</a>
     </span>
-    <a class="sans cookie-button" id="cookie-notice-accept">Accept</a>
+    <a class="sans cookie-button" id="cookie-notice-accept">{% t consent.accept %}</a>
   </div>
 </div>
 <script>

@@ -24,3 +24,7 @@ nav:
   blog: blog
   gallery: gallery
   privacy: privacy
+consent:
+  message: This website uses third-party cookies for analytics as described in the
+  privacy_link: Privacy Policy
+  accept: Accept
