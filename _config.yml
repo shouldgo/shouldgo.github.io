@@ -12,6 +12,7 @@ github_username:  shouldgo
 google_analytics: G-2C1KSKG809
 
 # Build settings
+future: true
 theme: minima
 plugins:
   - jekyll-feed
