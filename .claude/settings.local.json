@@ -7,7 +7,8 @@
       "WebFetch(domain:developers.google.com)",
       "WebFetch(domain:www.cookieyes.com)",
       "Bash(grep:*)",
-      "Bash(bundle exec:*)"
+      "Bash(bundle exec:*)",
+      "Bash(gh run list:*)"
     ]
   },
   "enableAllProjectMcpServers": false
