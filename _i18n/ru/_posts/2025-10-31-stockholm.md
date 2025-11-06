@@ -6,7 +6,7 @@ tags:
 - travel
 - europe
 - scandinavia
-image: /assets/images/2025/10/stockholm/DSCF7185.jpg
+image: /assets/images/2025/10/stockholm/DSCF1420.jpg
 lang: ru
 translation_key: stockholm
 ---
