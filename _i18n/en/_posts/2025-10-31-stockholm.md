@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stockholm: The Lagom Capital'
+title: "Stockholm: World's Lagom Capital"
 date: '2025-10-31 10:52:00'
 tags:
 - travel
