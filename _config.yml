@@ -80,3 +80,4 @@ exclude:
   - scripts/
   - "*.zsh"
   - CLAUDE.md
+  - WARP.md
