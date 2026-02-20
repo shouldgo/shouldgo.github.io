@@ -33,7 +33,7 @@
 
   .post-content {
     font-size: 1.125em;
-    p:has(img), div:has(img), figure, img, .highlight, ul:has(li img) { max-width: 960px; }
+    p:has(img), div:has(img), figure, img, .highlight, ul:has(li img) { max-width: 1080px; }
   
     img {
       max-height: 800px;
