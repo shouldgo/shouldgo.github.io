@@ -16,7 +16,7 @@ Congrats! Spring is here! It officially started last Friday at 15:46 local ti
 - ![](/assets/images/2026/02/DSCF6593.jpg)
 - ![](/assets/images/2026/02/DSCF6557.jpg)
 
-I [started complaining well in advance](/blog/dark-age/), just like I do each year. But I didn’t expect it would be that bad — like the absolute worst I’ve seen in my seven years in Poland.
+I [started bitching well in advance](/blog/dark-age/), just like I do each year. But I didn’t expect it would be that bad — like the absolute worst I’ve seen in my seven years in Poland.
 
 ![](/assets/images/2026/02/DSCF6615.jpg)
 - ![](/assets/images/2026/01/DSCF6398.jpg)
