@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a multilingual Jekyll blog for Dima Afonin, deployed to GitHub Pages. The site features photography and travel content in both English and Russian, with a responsive design and image galleries.
 
+`WARP.md` is a symlink to this file, so Warp's AI reads the same instructions as Claude Code — edit this file only, never `WARP.md` directly.
+
 ## Development Commands
 
 ### Local Development
@@ -63,8 +65,13 @@ bundle exec jekyll build
 
 ### GitHub Pages Deployment
 - Uses `github-pages` gem for GitHub Pages compatibility
-- Automatic deployment on push to main branch
+- Automatic deployment on push to main branch (`.github/workflows/jekyll.yml`)
 - Custom domain configured via `CNAME`
+
+### CI / Claude Code Automation
+- `.github/workflows/claude.yml` - runs Claude Code Action when `@claude` is mentioned in an issue, PR review, or PR review comment
+- `.github/workflows/claude-code-review.yml` - automatically runs a Claude review on every PR open/update
+- Both workflows load this same `CLAUDE.md`, so instructions here apply to Claude running in CI, not just locally
 
 ## File Organization
 
@@ -75,6 +82,7 @@ bundle exec jekyll build
 │   ├── ru/             # Russian content
 │   ├── en.yml          # English translations
 │   └── ru.yml          # Russian translations
+├── _drafts/            # Unpublished draft posts (not built by default)
 ├── _layouts/           # Jekyll page layouts
 ├── _includes/          # Reusable template components
 ├── _sass/              # Sass stylesheets
@@ -89,10 +97,15 @@ bundle exec jekyll build
 1. Create markdown file in appropriate language directory: `_i18n/{lang}/_posts/YYYY-MM-DD-title.md`
 2. Use standard Jekyll frontmatter with title, date, tags, and optional image
 3. For bilingual posts, use matching `translation_key` in frontmatter
+4. Unfinished posts can be placed in `_drafts/`; serve with `--drafts` to preview them locally, they're excluded from production builds
 
 ### Managing Redirects
 - Scripts in `scripts/redirects/` handle 404s from Google Search Console
 - Redirects created as collection items in `_redirects/`
+
+### Image Analysis
+- Scripts in `scripts/image-analysis/` find unreferenced images and duplicate filenames across the multilingual gallery content
+- See `scripts/image-analysis/README.md` for usage
 
 ### Photo Galleries  
 - Images stored in `assets/images/gallery/` and `assets/images/selfies/`
